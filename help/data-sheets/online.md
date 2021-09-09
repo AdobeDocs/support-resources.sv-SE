@@ -242,7 +242,7 @@ Adobe kundsupport ger tillgång till onlineresurser för dokumentation, samarbet
 
 ## Regionala öppethållande och språkstöd
 
-Adobe lokala arbetstider passar kundens faktureringsområde.<sup>1</sup>
+Adobe lokala arbetstider passar kundens faktureringsområde.<sup>3</sup>
 
 <table>
 <thead>
