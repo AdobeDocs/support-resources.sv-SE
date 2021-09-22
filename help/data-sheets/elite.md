@@ -2,9 +2,9 @@
 title: Elitstöd
 description: Adobe Experience Cloud Elite Support Services erbjuder förstklassiga servicenivåmål (SLT), proaktiv support och samarbete med en teknisk kontohanterare och en namngiven supporttekniker.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1368'
 ht-degree: 1%
 
 ---
@@ -372,9 +372,9 @@ Tillgängliga typer av strategiska aktiviteter:
 | [Produktionsproblem och systemfel](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
 | [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
 
-## Regionala öppethållande och språkstöd
+## Adobe support, lokal kontorstid och språkstöd på regional nivå
 
-Adobe lokala arbetstider passar kundens faktureringsområde.<sup>1</sup>
+Det regionala omfånget för Adobe Support fastställs genom att kundens faktureringsadress (via försäljningsorder eller andra inköpsdokument för Adobe Support) justeras till någon av följande regioner:
 
 <table>
 <thead>
@@ -395,8 +395,8 @@ Adobe lokala arbetstider passar kundens faktureringsområde.<sup>1</sup>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Språksupport finns endast på engelska och japanska.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
-      <p><i>(Japan) P2-, P3- och P4-ärenden är begränsade till kontorstid.</i></p>
+      <p><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
+      <p><i>P2-, P3- och P4-ärenden är begränsade till kontorstid endast i Japan.</i></p>
     </td>
   </tr>
 </tbody>

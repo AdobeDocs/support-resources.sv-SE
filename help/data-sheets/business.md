@@ -2,9 +2,9 @@
 title: Företagssupport
 description: Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång till Adobe tekniska supportteam och en kontosupportansvarig för kontohantering.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Webbplats för företagssupport](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support-webbplatsen. |
 | [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
 
-## Regionala öppethållande och språkstöd
+## Adobe support, lokal kontorstid och språkstöd på regional nivå
 
-Adobe lokala arbetstider passar kundens faktureringsområde.<sup>3</sup>
+Det regionala omfånget för Adobe Support fastställs genom att kundens faktureringsadress (via försäljningsorder eller andra inköpsdokument för Adobe Support) justeras till någon av följande regioner:
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ Adobe lokala arbetstider passar kundens faktureringsområde.<sup>3</sup>
     <th>Amerika</th>
     <th>Europa, Mellanöstern och Afrika</th>
     <th>Asien/Stillahavsområdet</th>
-    <th>Japan<sup>2</sup></th>
+    <th>Japan<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ Adobe lokala arbetstider passar kundens faktureringsområde.<sup>3</sup>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Språksupport finns endast på engelska och japanska.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
-      <p><i>(Japan) P2-, P3- och P4-ärenden är begränsade till kontorstid.</i></p>
+      <p><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
+      <p><i>P2-, P3- och P4-ärenden är begränsade till kontorstid endast i Japan.</i></p>
     </td>
   </tr>
 </tbody>
