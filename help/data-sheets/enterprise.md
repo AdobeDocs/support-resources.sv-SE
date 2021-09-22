@@ -2,9 +2,9 @@
 title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services erbjuder utökade supportservicenivåmål, fördelar med teknisk expertis och en supporttekniker i form av en namngiven supporttekniker.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 1%
 
 ---
@@ -344,7 +344,6 @@ Det regionala omfånget för Adobe Support fastställs genom att kundens fakture
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Språksupport finns endast på engelska och japanska.</i></p>
-      <p><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
       <p><i>P2-, P3- och P4-ärenden är begränsade till kontorstid endast i Japan.</i></p>
     </td>
   </tr>
