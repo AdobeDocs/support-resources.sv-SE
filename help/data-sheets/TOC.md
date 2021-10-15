@@ -1,10 +1,10 @@
 ---
 user-guide-title: Supportresurser
 user-guide-description: Supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
-source-git-commit: d7125d4a6fded5c9ca40882064332842d75e50c2
+source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 3%
+source-wordcount: '34'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 3%
    + [Företag](business.md)
    + [Enterprise](enterprise.md)
    + [Elit](elite.md)
++ [Kundsupportguide](support-guide.md)
 + [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
