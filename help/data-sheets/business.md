@@ -2,7 +2,7 @@
 title: Företagssupport
 description: Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång till Adobe tekniska supportteam och en kontosupportansvarig för kontohantering.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång til
     <td></td>
     <td></td>
     <td></td>
-    <td>Stöd för Adobe ($)</td>
+    <td>Betald support ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Tilldelade experter<br></td>
@@ -126,9 +126,9 @@ Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång til
 
 | Prioritet | Onlinesupport | Företagssupport |
 |--- |--- |--- |
-| <b>PRIORITET 1</b><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>1 timme |
-| <b>PRIORITET 2</b><br>Kundens affärsfunktioner försämras avsevärt eller kan förlora data, eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | Kontorstid/<br>2 timmar |
-| <b>PRIORITY 3</b><br>Kundens affärsfunktioner försämras något, men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta. | Kontorstid/<br>6 timmar | Kontorstid/<br> 4 timmar |
+| <b>PRIORITET 1</b><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>1 timme |
+| <b>PRIORITET 2</b><br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | Kontorstid/<br>2 timmar |
+| <b>PRIORITET 3</b><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta. | Kontorstid/<br>6 timmar | Kontorstid/<br> 4 timmar |
 | <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
 
 {style=&quot;table-layout:auto&quot;}
@@ -222,7 +222,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <p>Stöd för chatt*</p>
     <p><b>Chattsupport</b></p>
     <p>Starta en chattsession för att få svar och hjälp med att skicka in ärenden.</p>
-    <p>* <i>Alla produkter har inte stöd för live-chatt.</i></p>
+    <p>* <i>Alla produkter har inte chattsupport live.</i></p>
     </div>
   </td>
   <td>
@@ -268,8 +268,8 @@ Det regionala omfånget för Adobe Support fastställs genom att kundens fakture
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>Språksupport finns endast på engelska och japanska.</i></p>
-      <p><i>Adobe Commerce inkluderar inte stöd för japanska.</i></p>
+      <p><sup>1</sup><i>Språkstöd finns endast på engelska och japanska.</i></p>
+      <p><i>Adobe Commerce har inte stöd för japanska.</i></p>
       <p><i>P2-, P3- och P4-ärenden är begränsade till kontorstid endast i Japan.</i></p>
     </td>
   </tr>
