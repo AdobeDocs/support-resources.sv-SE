@@ -2,9 +2,9 @@
 title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services erbjuder utökade supportservicenivåmål, fördelar med teknisk expertis och en supporttekniker i form av en namngiven supporttekniker.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1192'
 ht-degree: 1%
 
 ---
@@ -126,9 +126,9 @@ Adobe Experience Cloud Enterprise Support Services erbjuder utökade supportserv
 
 | Prioritet | Onlinesupport | Enterprise Support |
 |--- |--- |--- |
-| <b>PRIORITET 1</b><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämring av tjänster och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>30 minuter |
-| <b>PRIORITET 2</b><br>Kundens affärsfunktioner försämras avsevärt av tjänster, eller kan leda till dataförlust eller otillgänglighet av tjänster, eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | 24x5/<br>1 timme |
-| <b>PRIORITY 3</b><br>Kundens affärsfunktioner har en liten eller ingen försämring av tjänsterna med en lösning/tillfällig lösning som gör att affärsfunktionerna kan fortsätta. | Kontorstid/<br>6 timmar | Kontorstid/<br> 2 timmar |
+| <b>PRIORITET 1</b><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>30 minuter |
+| <b>PRIORITET 2</b><br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | 24x5/<br>1 timme |
+| <b>PRIORITET 3</b><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | Kontorstid/<br> 2 timmar |
 | <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
 
 {style=&quot;table-layout:auto&quot;}
@@ -185,20 +185,20 @@ Adobe Experience Cloud Enterprise Support Services erbjuder utökade supportserv
 <tr>
   <td>
     <div>
-    <p><b>Styrning för AEM som Cloud Service</b></p>
-    <p>Teknisk och operativ styrning för att hjälpa AEM som Cloud Service att följa branschstandarder och bästa praxis för AEM som Cloud Service.</p>
+    <p><b>Styrning för AEM as a Cloud Service</b></p>
+    <p>Teknisk och operativ styrning för att hjälpa AEM as a Cloud Service kunder att följa branschstandarder och bästa praxis för AEM as a Cloud Service.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Tjänster med mervärde för AEM som Cloud Service</b></p>
+    <p><b>Tjänster med mervärde för AEM as a Cloud Service</b></p>
     <p>Identifiera, granska och lämna rekommendationer om anpassade lösningar som ger möjligheter till optimering.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Bästa praxis för anpassning av AEM som Cloud Service</b></p>
-    <p>Driv till användning av vedertagna standarder för anpassning och centrala komponenter i AEM som en Cloud Service.</p>
+    <p><b>Bästa praxis för anpassning av AEM as a Cloud Service</b></p>
+    <p>Driv till användning av vedertagna standarder för anpassning och centrala komponenter på AEM as a Cloud Service.</p>
     </div>
   </td>
 </tr>
@@ -252,7 +252,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <p>Stöd för chatt*</p>
     <p><b>Chattsupport</b></p>
     <p>Starta en chattsession för att få svar och hjälp med att skicka in ärenden.</p>
-    <p>* <i>Alla produkter har inte stöd för live-chatt.</i></p>
+    <p>* <i>Alla produkter har inte chattsupport live.</i></p>
     </div>
   </td>
   <td>
@@ -268,7 +268,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Starta rådgivning
 
-För kunder som implementerar en **ny Adobe Experience Cloud-lösning** är Launch Advisory en *kärnuppsättning rådgivningstjänster* och rekommendationer som har visat sig stödja framgångsrika distributioner och snabba upp time-to-value.
+För kunder som implementerar en **ny Adobe Experience Cloud-lösning**, Launch Advisory är en *bastjänster för rådgivning* och rekommendationer som har visat sig stödja framgångsrika driftsättningar och som snabbar upp time-to-value.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
@@ -288,11 +288,11 @@ Launch Advisory kommer att anpassas till ditt projektschema med vanliga milstolp
 
 ## Fältserviceaktiviteter
 
-Fälttjänster används för **snabb lösning**, fokuserade kundframgångar och accelererade **time-to-value**. Om en startrådgivning är aktiv kommer det **inte att finnas någon fälttjänst år 1** för någon lösningsprodukt som omfattas av ett Adobe-supportavtal.
+Fälttjänster används för **snabb upplösning** fokuserade, framgångsrika kunder och snabbare **time-to-value**. Om Launch Advisory är aktiv finns det **inga fälttjänster i år 1** för alla lösningsprodukter som omfattas av ett Adobe Support-avtal.
 
-Som Enterprise-kund är du berättigad till **2 aktiviteter per år** från följande två spår: **Teknik** och/eller **Strategi**.
+Som Enterprise-kund är du berättigad **2 aktiviteter per år** från följande två spår: **Teknik** och/eller **Strategisk**.
 
-**Teknisk spårningsaktivitet** säkerställer att kunderna är tekniskt sunda och maximerar användningen av sina verktyg. Dessa typer av aktiviteter omfattar support och rekommendationer för plattformskonfigurationer, integreringar och felsökning.
+**Tekniska spåraktiviteter** säkerställa att kunderna är tekniskt sunda och maximera användningen av sina verktyg. Dessa typer av aktiviteter omfattar support och rekommendationer för plattformskonfigurationer, integreringar och felsökning.
 
 Tillgängliga typer av teknisk verksamhet:
 
@@ -303,7 +303,7 @@ Tillgängliga typer av teknisk verksamhet:
 * Felsökning av kundlösningar
 * Support för molntjänster
 
-**Strategic Track** Activitieshitta möjligheter att säkerställa att kundens Adobe-lösningar ger valuta för pengarna. De innehåller supportrekommendationer som rör strategi, mätning och mognad för att driva värderealisering över en eller flera Adobe-lösningar.
+**Strategiska spårningsaktiviteter** hitta möjligheter att se till att kundens Adobe-lösningar ger valuta för pengarna. De innehåller supportrekommendationer som rör strategi, mätning och mognad för att driva värderealisering över en eller flera Adobe-lösningar.
 
 Tillgängliga typer av strategiska aktiviteter:
 
@@ -343,7 +343,7 @@ Det regionala omfånget för Adobe Support fastställs genom att kundens fakture
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>Språksupport finns endast på engelska och japanska.</i></p>
+      <p><sup>1</sup><i>Språkstöd finns endast på engelska och japanska.</i></p>
       <p><i>P2-, P3- och P4-ärenden är begränsade till kontorstid endast i Japan.</i></p>
     </td>
   </tr>
