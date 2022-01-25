@@ -2,7 +2,7 @@
 title: Supporttjänster - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud. Dessa alternativ är Online, Business, Enterprise och Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -22,7 +22,7 @@ För mer omfattande behov erbjuder vi Adobe Support-tjänster som ger tillgång 
     <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Onlinesupport</strong></a>  (se  <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="online.md"><strong>Onlinesupport</strong></a> (vy <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Begränsad åtkomst till telefonsupport</p>
     <br>
@@ -32,7 +32,7 @@ För mer omfattande behov erbjuder vi Adobe Support-tjänster som ger tillgång 
       <img alt="Företag" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Företagssupport</strong></a>  (se  <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="business.md"><strong>Företagssupport</strong></a> (vy <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Fullständig tillgång till Adobe tekniska supportteam och en kontosupportlead för kontohantering</p>
     <br>
@@ -44,7 +44,7 @@ För mer omfattande behov erbjuder vi Adobe Support-tjänster som ger tillgång 
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise Support</strong></a>  (se  <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="enterprise.md"><strong>Enterprise Support</strong></a> (vy <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Förbättrat stöd för servicenivåmål, teknisk expertis och en supporttekniker i form av en namngiven supporttekniker</p>
     <br>
@@ -54,10 +54,11 @@ För mer omfattande behov erbjuder vi Adobe Support-tjänster som ger tillgång 
       <img alt="Elit" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Stöd</strong></a>  för <a href="assets/EliteSupportDatasheet.pdf" target="_blank"> eliten (se </a>PDF)
+    <a href="elite.md"><strong>Elitstöd</strong></a> (vy <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>De bästa servicenivåmålen, proaktiv support och samarbete med en teknisk kontohanterare och en supporttekniker</p>
     <br>
   </td>
 </tr>
 </table>
+
