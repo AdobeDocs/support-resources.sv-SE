@@ -1,23 +1,25 @@
 ---
 user-guide-title: Supportresurser
 user-guide-description: Supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
+source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 2%
+source-wordcount: '45'
+ht-degree: 0%
 
 ---
 
 
 # Supportresurser {#data-sheets}
 
-+ [Översikt](overview.md)
-+ Supporttjänster {#data-sheets}
++ [Adobe - supportöversikt](overview.md)
++ Experience Cloud Services {#data-sheets}
+   + [Adobe - supportöversikt](dx-overview.md)
    + [Online](online.md)
    + [Företag](business.md)
    + [Enterprise](enterprise.md)
    + [Elit](elite.md)
-+ [Kundsupportguide](support-guide.md)
+   + [Kundsupportguide](support-guide.md)
++ [Creative Cloud &amp; Document Cloud](dme-overview.md)
 + [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
