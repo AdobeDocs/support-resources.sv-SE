@@ -1,25 +1,25 @@
 ---
-title: Onlinesupport
+title: Standard Support
 description: Adobe Experience Cloud onlinesupport ger begränsad tillgång till telefonsupport.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 3%
+source-wordcount: '846'
+ht-degree: 2%
 
 ---
 
-# Onlinesupport
+# Standard Support
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe Experience Cloud onlinesupport ger begränsad tillgång till telefonsupport.
+Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Standardsupporten inkluderar dygnet runt-tillgång till våra självhjälpsresurser, inklusive artiklar om HelpX och interaktion med andra kunder i Adobe Community. Du kan utnyttja vår detaljerade tekniska produktdokumentation och versionsinformation som publiceras på http://www.adobe.com. Vår standardsupport inkluderar även åtkomst dygnet runt, alla dagar för auktoriserade användare (administratörer) till våra supportteam via chatt eller telefon, samt möjlighet att logga förfrågningar om hjälp via vår supportwebbportal.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Onlinesupport</th>
+    <th>Standard Support</th>
     <th>Företagssupport</th>
     <th>Enterprise Support</th>
     <th>Elitstöd</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud onlinesupport ger begränsad tillgång till telefonsuppor
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Betald support ($)</td>
+    <td colspan="3">Betalda supportnivåer ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Tilldelade experter<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud onlinesupport ger begränsad tillgång till telefonsuppor
   </tr>
   <tr>
     <td rowspan="12">Supporttjänster</td>
-    <td>Onlinesupport</td>
+    <td>Standard Support</td>
     <td>Kontorstid</td>
     <td>Kontorstid</td>
     <td>24x5</td>
