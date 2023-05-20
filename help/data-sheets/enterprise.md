@@ -4,7 +4,7 @@ description: Adobe Experience Cloud Enterprise Support Services erbjuder utökad
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1189'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud Enterprise Support Services erbjuder utökade supportserv
 | <b>PRIORITET 3</b><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | Kontorstid/<br> 2 timmar |
 | <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Enterprise Support-funktioner
 

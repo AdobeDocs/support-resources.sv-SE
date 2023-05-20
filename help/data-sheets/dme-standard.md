@@ -1,9 +1,10 @@
 ---
 title: Standard Support för Adobe Creative Cloud och Adobe Document Cloud
 description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Standardsupporten inkluderar dygnet runt-tillgång till våra självhjälpsresurser, inklusive artiklar om HelpX och interaktion med andra kunder i Adobe Community.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
+exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '729'
 ht-degree: 1%
 
 ---
@@ -270,7 +271,7 @@ Adobe kundsupport ger tillgång till resurser för dokumentation och samarbete m
 | [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
 | [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionala öppethållande och språkstöd
 

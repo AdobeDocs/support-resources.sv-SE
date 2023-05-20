@@ -1,10 +1,11 @@
 ---
 title: Översikt över tidigare supportavtal för Adobe
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
-source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
+exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
+source-git-commit: 9b2223eca555b44484cbd042a2020f068e11f54b
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +26,7 @@ För mer omfattande behov erbjuder vi Adobe Support-tjänster som ger tillgång 
     <img alt="DX-stöd" src="assets/ECthumbnail.png"/>
     </a>
     <div>
-    <a href="dx-overview.md"><strong>Stöd för Experience Cloud</strong></a>
+    <a href="dx-overview.md"><strong>Experience Cloud-support</strong></a>
     </div>
     <p>Supportalternativ för Experience Cloud och Experience Platform</p>
     <br>

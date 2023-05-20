@@ -4,7 +4,7 @@ description: Adobe Experience Cloud onlinesupport ger begränsad tillgång till 
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '754'
 ht-degree: 3%
 
 ---
@@ -167,7 +167,7 @@ Adobe Experience Cloud onlinesupport ger begränsad tillgång till telefonsuppor
 | <b>PRIORITET 3</b><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | Kontorstid/<br> 4 timmar | Kontorstid/<br>2 timmar | 24x5/<br>1 timme |
 | <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag | Arbetsdag/<br> 1 dag | Arbetsdag/<br> 1 dag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Onlinesupport {#online-support-1}
 

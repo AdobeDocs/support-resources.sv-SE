@@ -3,8 +3,8 @@ user-guide-title: Supportresurser
 user-guide-description: Supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 + [Adobe supportavtal - översikt](overview.md)
 + Adobe supportavtal före den 16 juni 2022{#prior-plans}
    + [Översikt över tidigare supportavtal för Adobe](overview-prior-plans.md)
-   + Experience Cloud Services {#data-sheets}
+   + Experience Cloud-tjänster {#data-sheets}
       + [Adobe - supportöversikt](dx-overview.md)
       + [Online](online.md)
       + [Företag](business.md)
@@ -27,7 +27,7 @@ ht-degree: 0%
       + [Företag](dme-business.md)
       + [Enterprise](dme-enterprise.md)
       + [Elit](dme-elite.md)
-+ [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 

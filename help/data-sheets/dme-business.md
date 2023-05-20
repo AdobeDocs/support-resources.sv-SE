@@ -1,10 +1,11 @@
 ---
 title: Business Support för Creative Cloud och Adobe Document Cloud
 description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Detta har förbättrats med BUSINESS support. BUSINESS-support omfattar prioriterad dirigering för supportärenden för att säkerställa en snabbare anslutning till högre supportresurser i inskickade ärenden.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
+exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 0%
+source-wordcount: '812'
+ht-degree: 1%
 
 ---
 
@@ -261,7 +262,7 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
 | [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
 | [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionala öppethållande och språkstöd
 

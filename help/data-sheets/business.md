@@ -4,7 +4,7 @@ description: Adobe Experience Cloud Business Support-tjänster ger fullständig 
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '869'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång til
 | <b>PRIORITET 3</b><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta. | Kontorstid/<br>6 timmar | Kontorstid/<br> 4 timmar |
 | <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Funktioner för företagssupport
 
@@ -141,7 +141,7 @@ Adobe Experience Cloud Business Support-tjänster ger fullständig tillgång til
     <img alt="Kontosupportlead" src="assets/Accountsupportlead.png"/>
     <div>
     <p><b>Kontosupportlead</b></p>
-    <p>En särskild kontosupport som leder till att ni proaktivt kan övervaka ärenden, leda till samarbete mellan olika team, leverera webbinarier för introduktion, köra servicerapporter, ge icke-teknisk support samt fungera som eskaleringspunkt och intern supporttekniker inom supporten för Adobe.</p>
+    <p>En särskild kontosupport som leder till att ni proaktivt kan övervaka ärenden, leda till samarbete mellan olika team, leverera webbinarier för introduktion, köra servicerapporter, ge icke-teknisk support samt fungera som eskaleringspunkt och intern supporttekniker i Adobe Support.</p>
     </div>
   </td>
   <td>

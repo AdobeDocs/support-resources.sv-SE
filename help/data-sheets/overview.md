@@ -4,7 +4,7 @@ description: I den här artikeln finns en sammanfattning av kundsupportalternati
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
 workflow-type: tm+mt
-source-wordcount: '1990'
+source-wordcount: '1984'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 | P3 | **Minimal effekt för verksamheten:** <br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | 4 timmar under Adobe normala kontorstid | 1 timme under Adobe regionala arbetstimmar | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 | P4 | **Ingen inverkan på verksamheten:** <br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | 1 arbetsdag | 1 arbetsdag | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Viktiga funktioner
 
@@ -152,7 +152,7 @@ Standardsupport för Adobe Commerce: Managed Services-produkter som licensierats
 | P3 | **Minimal effekt för verksamheten:** <br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | 2 timmar under Adobe normala kontorstid | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 | P4 | **Ingen inverkan på verksamheten:** <br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | 1 arbetsdag | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Starta rådgivningstjänster - fasade proaktiva aktiviteter
 
