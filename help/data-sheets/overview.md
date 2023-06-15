@@ -2,9 +2,9 @@
 title: Adobe supportavtal - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
+source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
 workflow-type: tm+mt
-source-wordcount: '1984'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -13,25 +13,29 @@ ht-degree: 0%
 
 Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så att ni får en ny typ av personaliserad upplevelse som hjälper er att ligga steget före alla problem. Genom att utnyttja vår djupa tekniska expertis och innovativa supportmodell kan du förbättra teknikens prestanda och hjälpa dig att utnyttja dina Adobe-lösningar bättre.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <p><strong>Expertsupport</strong></p>
-  </td>
-  <td>
-    <p><strong>Ultimat support</strong></p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <p>Med Expert Support-planen får du tillgång till expertsupport dygnet runt, alla dagar för teknisk felsökning och vägledning om viktiga affärsproblem. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe.</p><br>
-    <p><em>Ingår i alla Adobe Experience Cloud-licenser.</em></p>
-  </td>
-  <td>
-    <p>Med den ultimata supportplanen får du support med personlig, proaktiv experthjälp och vägledning. Dina Adobe-program övervakas säkert och konsekvent av ett expertteam som är bekanta med din miljö och fokuserar på dina affärsmål och lösningar.</p>
-  </td>
-</tr>
-</table>
+## Jämförelse av supportavtal för Expert och Ultimate
+
+|  | Expertsupportavtal | Ultimat supportavtal |
+|--- |--- |--- |
+| Två nivåer av engagemang -**Expert &amp; Ultimate**—säkerställa att alla kunder får rätt nivå av support, expertis och vägledning. | Med Expert Support-planen får du tillgång till **Experthjälp dygnet runt, alla dagar** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. *Ingår i alla Adobe Experience Cloud-licenser.* | Med det ultimata supportavtalet får du **stöd för högberöring med personaliserad, proaktiv expertvård och vägledning**. Adobe-applikationerna övervakas säkert och konsekvent av ett expertteam som är insatta i er miljö och fokuserade på era affärsmål och lösningar. |
+| **Supportkanaler** | Online, chatt, telefon, Experience League, forum, självhjälpsvideor | Personaliserat online/chatt, prioriterad telefon, Experience League, personaliserat Ultimate-forum |
+| **supportteam** | Grupperat expertteam | Särskilt utsedd teknisk kontoansvarig, supportansvarig och grupperad teknisk expertis |
+| **Teknisk support** | <ul><li>Standardhantering av driftstopp </li><li>P1 24x7-support för problem</li><li>P2/P3/P4 support under kontorstid</li><li>Hantering av gruppeskalering</li></ul> | <ul><li>Prioriterad hantering av driftstopp</li><li>P1 24x7-support för problem</li><li>Stöd för P2/P3-utgåva, 24x5</li><li>Stöd för P4-kontorstid</li><li>Eskaleringshantering för experter</li></ul> |
+| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | <ul><li>Översyn av färdplaner, planering av tjänsteleverans </li><li>Underhåll och övervakning</li><li> Översyn av uppgraderingar och migrering</li><li>Förbereda och granska release </li><li>Kunskapsöverföring, felsökning av lösningar </li><li> Evenemangsplanering (begränsad, se tillägg för händelsehantering)</li><li> Starta rådgivning</li></ul> |
+
+{style="table-layout:fixed"}
+
+## Supporttillägg
+
+| Tillägg | Expertsupportavtal | Ultimat supportavtal |
+|--- |--- |--- |
+| **Tillägget Händelsehantering**<br> Ger ledarskap och support från början till slut som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
+| **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
+| **Tillägget Avancerat molnstöd**<br> Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
+| **Tillägget Mentor Sessions**<br> Erbjuder kunskapsbaserad inlärning i en just-in-time-utbildningsmetod | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägg för Developer Boost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inklusikon](assets/green_checkmark.svg){width="20"} Ingår |
+
+{style="table-layout:fixed"}
 
 ## Inriktade svarstider för support
 
@@ -42,51 +46,11 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 | P3 | **Minimal effekt för verksamheten:** <br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | 4 timmar under Adobe normala kontorstid | 1 timme under Adobe regionala arbetstimmar | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 | P4 | **Ingen inverkan på verksamheten:** <br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | 1 arbetsdag | 1 arbetsdag | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 
-{style="table-layout:auto"}
+## Ultimat support: Namngivna supportkontakter
 
-## Viktiga funktioner
+Under Ultimate Support har kunden rätt till en utökad kapacitet på upp till femton (15) personliga supportkontakter per AEC-produkt (ökat från fyra (4) totalt för alla AEC-produkter för Expert Support).
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <p><strong>Expertsupport</strong></p>
-  </td>
-  <td>
-    <p><strong>Ultimat support</strong></p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <ul>
-      <li><strong>Direkt onlinesupport</strong> - (dygnet runt) via chatt eller webbportal </li>
-      <li><strong>Telefonsupport</strong> - Stöd dygnet runt för P1-kriser, support under kontorstid för P2/P3/P4 </li>
-      <li><strong>Vägledda utbildningsresurser</strong> - Utforska vårt kunskapscentrum, Experience League, och utöka dina kunskaper med produktdokumentation, potentiella falllösningar, felsökningsvideor och metodtips. </li>
-      <li><strong>Sammanslagna, erfarna team och varma metoder</strong> - Globala team är strukturerade i"Pods" med experter från olika bakgrunder samlade för att ge den snabbaste lösningen på ett visst problem. </li>
-      <li><strong>Obegränsat antal supportförfrågningar</strong> - Kontakta experterna för ett obegränsat antal problem, hantera driftstopp med proaktiva varningar och få snabbare lösning genom prioriterad ärendeeskaleringshantering.</li>
-      <li><strong>Evenemangsplanering (valfritt tillägg)</strong> - Experter granskar och rapporterar om din miljö och ger vägledning och support som förberedelse för kritiska, högtrafikrelaterade händelser</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><strong>Särskilt utsedd teknisk kontohanterare och supportansvarig</strong> - Tilldelade experter organiserar en helhetsbild av personaliserad support för olika lösningar, ansvarar för feedback och frågor, koordinerar regelbundna serviceöversyner och ger skräddarsydda insikter i kritiska driftavbrott. </li>
-      <li><strong>Proaktiva tekniska och operativa tjänster </strong> - få proaktiv vägledning som till exempel planering av leverans av tjänster, hälsokontroll, underhåll och bästa praxis, planering av uppgradering/migrering och rekommendationer av användningsfall. </li>
-      <li><strong>Starta rådgivning</strong> - Hjälp till att implementera och lansera din lösningsdesign med hjälp av de bästa metoderna för att starta och aktivera rådgivning om nya implementeringar. </li>
-      <li><strong>Förbereda och granska release</strong> - Granska nya funktioner och se vilka underhålls- och felsökningsaktiviteter som krävs för att förbereda dig för de senaste versionerna och plattformarna. </li>
-      <li><strong>Kunskapsöverföring </strong> - Tekniska kontoansvariga delar vägledning och bästa praxis kring specifika funktioner i olika lösningar </li>
-      <li><strong>Maximera drifttiden med prioriterad teknisk support</strong> - Få snabbare support med mer aggressiva svarstider för ett obegränsat antal frågor, grundorsaksanalys för P1- och P2-problem samt personaliserad eskaleringshantering </li>
-      <li><strong>Översyn av färdplaner</strong> - Granska de framtida färdplanerna för lösningar från Adobe, jämför och anpassa din färdplan med vår för att minska riskerna och planera för större förändringar. </li>
-      <li><strong>Händelseplanering (tillägg)</strong> - Experter granskar och rapporterar om din miljö och ger vägledning och support som förberedelse för kritiska, högtrafikrelaterade händelser</li>
-    </ul>
-  </td>
-</tr>
-</table>
-
-## Supporttillägg
-
-| Händelsehantering | Director med tekniskt konto (endast Ultimate) | Avancerad molnsupport |
-|---|---|---|
-| **Evenemangsplanering** - Planera, förbereda, vägleda, kommunicera <br>**Händelsekörning** - Konfigurera, implementera, testa, granska, granska <br>**Händelseövervakning** - Live-övervakning, systemövervakning, statusrum | **Myndigheter** engagemang och genomförande för att säkerställa högsta möjliga prestanda. <br>**Hanterar chefsrelationer** genom rapporter, granskningar och framtida planeringsdiskussioner. <br>**Ledande teknisk miljö** recensioner, riskreducering och prediktiva insikter för att förbättra den tekniska kvoten. <br>**Justerar och förespråkar** med tekniska team för att snabba upp genomförandet av uppgifter och lösa problem. <br>**Äger aktivitet och supportplanering** för smidig leverans och maximerat värde. <br>**Kommunikation och träning** interna och externa intressenter om värdedrivrutiner och engagemangsstrategi | Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder.  <br>Snabba upp övergången till molnet med hjälp av avancerad molnteknologi med proaktiv optimering, effektiva strategier och en överlägsen upplevelse <br> **Implementering:** Förbereda för migrering, månads- och direktsamtal före användning <br>**Engagemang:** Kickoff, onboarding, testing best practices <br>**Go-Live:** Stöd för händelser, domänövervakning, överlämning av produktion <br>**Kör och arbeta:** Proaktiv optimering av insikter och rapporter om lösningar <br> |
-| **Exempel på scenarier för händelsehantering:** <ul><li>Black Friday + Cyber Monday </li><li>Större sportevenemang (t.ex. Superbowl, Olympic games, FIFA World Cup) </li><li>Särskilda shoppingevenemang eller större årliga kampanjer </li></ul> | **Ett tekniskt konto Director kan ge mervärde om en eller flera av följande situationer är uppfyllda.** <ul><li>Du äger flera Adobe Experience Cloud-program. </li><li>Ni behöver stöd i flera regioner, varumärken eller affärsenheter. </li><li>Ni har komplexa användningsfall med Adobe och behöver strategisk ledarskap.</li></ul> | **När behöver du avancerad molnsupport?** <ul><li>Om du äger Adobe Experience Manager as a Cloud Service. </li><li>Om du genomgår en migrering till Experience Manager as a Cloud Service. </li><li>Om du har snäva deadlines eller komplicerade användningsfall med Experience Manager as a Cloud Service. </li></ul> |
+Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler och interagera efter behov med Adobe tekniska supportteam för kundens räkning. En (1) sådan kontaktperson för namngiven support kan också utses till kundens kontoadministratör, vilket tillåter självbetjäningsuppdateringar i listan över namngivna supportkontakter samt begränsade behörighetsinställningar via supportportalen som tillhandahålls av Adobe.
 
 ## Adobe Digital Learning Services
 
@@ -141,7 +105,7 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 |---|---|---|---|
 | 6:00-17:30 | 09:00-17:00 | 09:00-17:00 | 09:00-17:00 |
 
-## Ytterligare villkor för Adobe Commerce på Managed Services (tidigare Magento Commerce Pro: Managed Services
+## Ytterligare villkor för Adobe Commerce på Managed Services (tidigare Magento Commerce Pro: Managed Services)
 
 Standardsupport för Adobe Commerce: Managed Services-produkter som licensierats eller förnyats av kunden med licensavtalets startdatum den 20 september 2021 eller senare omfattas av de riktade svarstiderna som anges i tabellen nedan, som ersätter de riktade svarstiderna för support enligt tabellen ovan. Förutom vad som anges i tabellen nedan, övriga supportvillkor för Adobe Commerce: Managed Services förblir oförändrat. För tydlighetens skull påpekas att svarstiderna nedan endast gäller för serviceförfrågningar som rör Adobe Commerce: Managed Services, och inte några andra byggprodukter.
 
