@@ -2,9 +2,9 @@
 title: Adobe supportavtal - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '1748'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,9 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 
 ## Ultimat support: Namngivna supportkontakter
 
-Under Ultimate Support har kunden rätt till en utökad kapacitet på upp till femton (15) personliga supportkontakter per AEC-produkt (ökat från fyra (4) totalt för alla AEC-produkter för Expert Support).
+Förlåt, igen. Nu behöver vi korrigera följande beskrivning i https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
+
+Under Ultimate Support har kunden rätt till en utökad kapacitet på upp till femton (15) personliga supportkontakter per AEC-produkt (plus fyra (4) per AEC-produkt för Expert Support).
 
 Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler och interagera efter behov med Adobe tekniska supportteam för kundens räkning. En (1) sådan kontaktperson för namngiven support kan också utses till kundens kontoadministratör, vilket tillåter självbetjäningsuppdateringar i listan över namngivna supportkontakter samt begränsade behörighetsinställningar via supportportalen som tillhandahålls av Adobe.
 
