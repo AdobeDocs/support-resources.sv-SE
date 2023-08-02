@@ -1,7 +1,9 @@
 ---
 user-guide-title: Supportresurser
-user-guide-description: Supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
-source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
+user-guide-description: Support för Adobe Experience Cloud och Adobe Experience Platform.
+feature-set: Experience Cloud
+feature: Support
+source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 4%
@@ -21,8 +23,8 @@ ht-degree: 4%
       + [Enterprise](enterprise.md)
       + [Elit](elite.md)
       + [Kundsupportguide](support-guide.md)
-   + Creative Cloud &amp; Document Cloud {#dme-data-sheets}
-      + [Creative Cloud &amp; Document Cloud](dme-overview.md)
+   + CREATIVE CLOUD &amp; DOCUMENT CLOUD {#dme-data-sheets}
+      + [CREATIVE CLOUD &amp; DOCUMENT CLOUD](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Företag](dme-business.md)
       + [Enterprise](dme-enterprise.md)
