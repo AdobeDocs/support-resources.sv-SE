@@ -2,9 +2,9 @@
 title: Adobe supportavtal - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
+source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
 workflow-type: tm+mt
-source-wordcount: '1727'
+source-wordcount: '1756'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 
 |  | Expertsupportavtal | Ultimat supportavtal |
 |--- |--- |--- |
-| Två nivåer av engagemang -**Expert &amp; Ultimate**—säkerställa att alla kunder får rätt nivå av support, expertis och vägledning. | Med Expert Support-planen får du tillgång till **Experthjälp dygnet runt, alla dagar** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. *Ingår i alla Adobe Experience Cloud-licenser.* | Med det ultimata supportavtalet får du **stöd för högberöring med personaliserad, proaktiv expertvård och vägledning**. Adobe-applikationerna övervakas säkert och konsekvent av ett expertteam som är insatta i er miljö och fokuserade på era affärsmål och lösningar. |
+| Två nivåer av engagemang -**Expert &amp; Ultimate**—säkerställa att alla kunder får rätt nivå av support, expertis och vägledning. | Med Expert Support-planen får du tillgång till **Experthjälp dygnet runt** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. *Ingår i alla Adobe Experience Cloud-licenser.* | Med det ultimata supportavtalet får du **stöd för högberöring med personaliserad, proaktiv expertvård och vägledning**. Adobe-applikationerna övervakas säkert och konsekvent av ett expertteam som är insatta i er miljö och fokuserade på era affärsmål och lösningar. |
 | **Supportkanaler** | Online, chatt, telefon, Experience League, forum, självhjälpsvideor | Personaliserat online/chatt, prioriterad telefon, Experience League, personaliserat Ultimate-forum |
 | **supportteam** | Grupperat expertteam | Särskilt utsedd teknisk kontoansvarig, supportansvarig och grupperad teknisk expertis |
-| **Teknisk support** | <ul><li>Standardhantering av driftstopp </li><li>P1 24x7-support för problem</li><li>P2/P3/P4 support under kontorstid</li><li>Hantering av gruppeskalering</li></ul> | <ul><li>Prioriterad hantering av driftstopp</li><li>P1 24x7-support för problem</li><li>Stöd för P2/P3-utgåva, 24x5</li><li>Stöd för P4-kontorstid</li><li>Eskaleringshantering för experter</li></ul> |
+| **Teknisk support** | <ul><li>Standardhantering av driftstopp </li><li>P1 24x7-support för problem</li><li>P2/P3/P4 support under kontorstid</li><li>Hantering av gruppeskalering</li></ul> | <ul><li>Prioriterad hantering av driftstopp</li><li>P1 24x7-support för problem</li><li>Stöd för P2/P3-utgåva, 24x5</li><li>Stöd för P4-kontorstid</li><li>Eskaleringshantering för utsedd expert</li></ul> |
 | **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | <ul><li>Översyn av färdplaner, planering av tjänsteleverans </li><li>Underhåll och övervakning</li><li> Översyn av uppgraderingar och migrering</li><li>Förbereda och granska release </li><li>Kunskapsöverföring, felsökning av lösningar </li><li> Evenemangsplanering (begränsad, se tillägg för händelsehantering)</li><li> Starta rådgivning</li></ul> |
 
 {style="table-layout:fixed"}
@@ -29,11 +29,12 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 
 | Tillägg | Expertsupportavtal | Ultimat supportavtal |
 |--- |--- |--- |
-| **Tillägget Händelsehantering**<br> Ger ledarskap och support från början till slut som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
+| **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
+| **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ikon inte tillgänglig](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
 | **Tillägget Avancerat molnstöd**<br> Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
 | **Tillägget Mentor Sessions**<br> Erbjuder kunskapsbaserad inlärning i en just-in-time-utbildningsmetod | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägg för Developer Boost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inklusikon](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägg för Developer Boost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägg för paket med prioriteringsköer**<br> Hoppa över kön för att få dina biljetter bearbetade först med ytterligare åtkomst till Mentor Sessions och Developer Boost | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](assets/green_checkmark.svg){width="20"} Ingår |
 
 {style="table-layout:fixed"}
 
@@ -42,7 +43,7 @@ Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så at
 | Prioritet | Definition | Riktad svarstid - expertsupport | Riktad svarstid - Ultimat support | Kundåtagande |
 |---|---|---|---|---|
 | P1 | **Kritisk påverkan på verksamheten:** <br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet. | 1 timme | 15 minuter | Kunden förbinder sig att kontinuerligt, dygnet runt, alla dagar i veckan samarbeta med kundsupport på Adobe fram till en reducering. Om Adobe kundsupport inte kan få viktig information för att hantera supportsvar från namngivna supportkontakter kan Adobe minska en P1-serviceförfrågan till en lägre prioritetsnivå. |
-| P2 | **Större påverkan:** <br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | 2 timmar under Adobe normala kontorstid | 30 minuter under Adobe regionala arbetstider | Adobe support kommer endast att kontakta kontaktpersoner för namngiven support under Adobe kontorstid. Om Adobe kundsupport inte kan få viktig information för att hantera ett supportsvar från namngivna supportkontakter kan Adobe minska en P2-serviceförfrågan till en lägre prioritetsnivå. |
+| P2 | **Viktiga effekter för verksamheten:** <br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | 2 timmar under Adobe normala kontorstid | 30 minuter under Adobe regionala arbetstider | Adobe support kommer endast att kontakta kontaktpersoner för namngiven support under Adobe kontorstid. Om Adobe kundsupport inte kan få viktig information för att hantera ett supportsvar från namngivna supportkontakter kan Adobe minska en P2-serviceförfrågan till en lägre prioritetsnivå. |
 | P3 | **Minimal effekt för verksamheten:** <br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | 4 timmar under Adobe normala kontorstid | 1 timme under Adobe regionala arbetstimmar | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 | P4 | **Ingen inverkan på verksamheten:** <br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | 1 arbetsdag | 1 arbetsdag | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 
@@ -70,7 +71,7 @@ Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler 
     <p><strong>Teknisk support via telefon och online</strong></p>
   </td>
   <td>
-    <ul><li>Prioritet 1 incidenter: 24x7x365 via telefon- eller onlinesupport</li><li>Prioritet 2-4 incidenter: Support som är tillgänglig under lokal kontorstid via chatt eller onlinesupport.</li></ul>
+    <ul><li>Prioritet 1-ärenden: dygnet runt, alla dagar, året om via telefon eller onlinesupport</li><li>Prioritet 2-4 incidenter: Support som är tillgänglig under kontorstid via chatt eller onlinesupport.</li></ul>
   </td>
 </tr>
 <tr>
@@ -107,12 +108,12 @@ Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler 
 
 ## Ytterligare villkor för Adobe Commerce på Managed Services (tidigare Magento Commerce Pro: Managed Services)
 
-Standardsupport för Adobe Commerce: Managed Services-produkter som licensierats eller förnyats av kunden med licensavtalets startdatum den 20 september 2021 eller senare omfattas av de riktade svarstiderna som anges i tabellen nedan, som ersätter de riktade svarstiderna för support enligt tabellen ovan. Förutom vad som anges i tabellen nedan, övriga supportvillkor för Adobe Commerce: Managed Services förblir oförändrat. För tydlighetens skull påpekas att svarstiderna nedan endast gäller för serviceförfrågningar som rör Adobe Commerce: Managed Services, och inte några andra byggprodukter.
+Standardsupport för Adobe Commerce: Managed Services-produkter som licensierats eller förnyats av kunden med ett startdatum för licensvillkoren den 20 september 2021 eller senare omfattas av de riktade svarstiderna som anges i tabellen nedan, som ersätter de riktade svarstiderna för support enligt tabellen ovan. Förutom vad som anges i tabellen nedan ändras inte alla andra supportvillkor för Adobe Commerce: Managed Services. För tydlighetens skull påpekas att de riktade svarstiderna nedan endast gäller för serviceförfrågningar relaterade till Adobe Commerce: Managed Services, och inte andra AEC-produkter.
 
 | Prioritet | Definition | Inledande målsvarstid | Kundåtagande |
 |---|---|---|---|
 | P1 | **Kritisk påverkan på verksamheten:** <br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet. | 30 minuter | Kunden förbinder sig att kontinuerligt, dygnet runt, alla dagar i veckan samarbeta med kundsupport på Adobe fram till en reducering. Om Adobe kundsupport inte kan få viktig information för att hantera supportsvar från namngivna supportkontakter kan Adobe minska en P1-serviceförfrågan till en lägre prioritetsnivå. |
-| P2 | **Större påverkan:** <br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | 1 timme under Adobe normala kontorstid | Adobe support kommer endast att kontakta kontaktpersoner för namngiven support under Adobe kontorstid. Om Adobe kundsupport inte kan få viktig information för att hantera ett supportsvar från namngivna supportkontakter kan Adobe minska en P2-serviceförfrågan till en lägre prioritetsnivå. |
+| P2 | **Viktiga effekter för verksamheten:** <br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | 1 timme under Adobe normala kontorstid | Adobe support kommer endast att kontakta kontaktpersoner för namngiven support under Adobe kontorstid. Om Adobe kundsupport inte kan få viktig information för att hantera ett supportsvar från namngivna supportkontakter kan Adobe minska en P2-serviceförfrågan till en lägre prioritetsnivå. |
 | P3 | **Minimal effekt för verksamheten:** <br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | 2 timmar under Adobe normala kontorstid | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 | P4 | **Ingen inverkan på verksamheten:** <br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | 1 arbetsdag | Adobe kundsupport kommer endast att kontakta namngivna supportkontakter under Adobe kontorstid. |
 
