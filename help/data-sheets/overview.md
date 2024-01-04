@@ -1,33 +1,34 @@
 ---
-title: Adobe supportavtal - översikt
+title: Adobe Success Plans - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
+source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
 workflow-type: tm+mt
-source-wordcount: '1756'
+source-wordcount: '1830'
 ht-degree: 0%
 
 ---
 
-# Adobe supportavtal - översikt
+# Adobe Success Plans - översikt
 
-Supportavtal för Adobe går längre än att bara lösa reaktiva problem, så att ni får en ny typ av personaliserad upplevelse som hjälper er att ligga steget före alla problem. Genom att utnyttja vår djupa tekniska expertis och innovativa supportmodell kan du förbättra teknikens prestanda och hjälpa dig att utnyttja dina Adobe-lösningar bättre.
+Framgångsplanerna för Adobe går steget längre än att lösa reaktiva problem och ger dig en ny typ av personaliserad upplevelse som håller dina affärssteg före varje problem. Adobe-teamet har djup teknisk expertis, olika funktioner och en avancerad metod som ger dig rätt nivå av support, expertis samt teknisk och strategisk vägledning du behöver.
 
-## Jämförelse av supportavtal för Expert och Ultimate
+## Jämförelse av Expert and Ultimate-framgångsplaner
 
-|  | Expertsupportavtal | Ultimat supportavtal |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-| Två nivåer av engagemang -**Expert &amp; Ultimate**—säkerställa att alla kunder får rätt nivå av support, expertis och vägledning. | Med Expert Support-planen får du tillgång till **Experthjälp dygnet runt** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. *Ingår i alla Adobe Experience Cloud-licenser.* | Med det ultimata supportavtalet får du **stöd för högberöring med personaliserad, proaktiv expertvård och vägledning**. Adobe-applikationerna övervakas säkert och konsekvent av ett expertteam som är insatta i er miljö och fokuserade på era affärsmål och lösningar. |
-| **Supportkanaler** | Online, chatt, telefon, Experience League, forum, självhjälpsvideor | Personaliserat online/chatt, prioriterad telefon, Experience League, personaliserat Ultimate-forum |
-| **supportteam** | Grupperat expertteam | Särskilt utsedd teknisk kontoansvarig, supportansvarig och grupperad teknisk expertis |
-| **Teknisk support** | <ul><li>Standardhantering av driftstopp </li><li>P1 24x7-support för problem</li><li>P2/P3/P4 support under kontorstid</li><li>Hantering av gruppeskalering</li></ul> | <ul><li>Prioriterad hantering av driftstopp</li><li>P1 24x7-support för problem</li><li>Stöd för P2/P3-utgåva, 24x5</li><li>Stöd för P4-kontorstid</li><li>Eskaleringshantering för utsedd expert</li></ul> |
-| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | <ul><li>Översyn av färdplaner, planering av tjänsteleverans </li><li>Underhåll och övervakning</li><li> Översyn av uppgraderingar och migrering</li><li>Förbereda och granska release </li><li>Kunskapsöverföring, felsökning av lösningar </li><li> Evenemangsplanering (begränsad, se tillägg för händelsehantering)</li><li> Starta rådgivning</li></ul> |
+|  | Med planen Expert Success får du tillgång till **24X7 Expert Care** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. <p> *Ingår i alla Adobe Experience Cloud-licenser.* | Med Ultimate Success-planen får du en upplevelse **strategisk vägledning och proaktiv teknisk hälsa för att leverera högpresterande digitala upplevelser**. Din Adobe-miljö kommer att stödjas av ett expertteam som är bekanta med din verksamhet och fokuserar på att genomföra en färdplan som är anpassad efter dina mål och prioriteringar för affärsmässiga effekter. |
+| **Success team** | Samlat supporttekniker | Innehåller: <ul><li> Särskilt utsedd teknisk kontoansvarig </li><li> Utsedd Customer Success Manager </li><li> Särskilt avdelad supportansvarig</li><li> Samlat teknikerteam och strategiska experter som levererar Success Accelerators </li><li> Samlat supporttekniker </li></ul> |
+| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Innehåller: <ul><li>Översyn av uppgraderingar och migrering, förberedelse av releaser </li><li>Recensioner av produktplaner</li><li> Justerade tekniska och strategiska färdplaner</li><li>Förberedelse och planering av viktiga händelser</li><li>Planering för relevant och snabb aktivering</li><li>Tekniskt bästa praxis och branschvägledning</li><li>Lobbying/anpassning med produktteam</li><li>Enhetlig plan för att uppnå centrala affärsmål - handlingsplan för ömsesidigt erkännande</li></ul> |
+| **Teknisk support** | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2, P3, P4**: support under kontorstid</li><li>Standardhantering av driftstopp</li><li>Hantering av gruppeskalering</li></ul> | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2/P3**: Support dygnet runt, alla dagar</li><li>**P4**: support under kontorstid</li><li>Prioriterad hantering av driftstopp</li><li>Eskaleringshantering för utsedd expert</li></ul> |
+| **Success Accelerators** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Success Accelerators som schemaläggs regelbundet av TAM &amp; CSM<p>*(Mer information finns i katalogen Success Accelerator)* |
+| **Supportkanaler** | Online, telefon, Experience League, forum | Personaliserad webbportal, prioriterad telefon, Experience League, forum |
 
 {style="table-layout:fixed"}
 
 ## Supporttillägg
 
-| Tillägg | Expertsupportavtal | Ultimat supportavtal |
+| Tillägg | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
 | **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ikon inte tillgänglig](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
