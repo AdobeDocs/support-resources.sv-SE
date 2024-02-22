@@ -3,10 +3,10 @@ title: Testsida (dold)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: 8956f958d373f1c67f4ffddf48388f7611ce00ea
+source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 0%
+source-wordcount: '1015'
+ht-degree: 1%
 
 ---
 
@@ -126,3 +126,217 @@ Ladda ned [TXT-fil](assets/dots.txt)
 Ladda ned [XLSX-fil](assets/4-module_version.xlsx)
 
 Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+
+## HTML tabell med divar
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Versionsinformation" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Versionsinformation</strong></a>
+      <p>Läs igenom all versionsinformation om Adobe Commerce patchar och tjänster.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Installation" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Installation</strong></a>
+      <p>Lär dig hur du installerar Adobe Commerce för lokala distributioner.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Konfiguration" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Konfiguration</strong></a>
+      <p>Konfigurera funktioner och tjänster för ditt Adobe Commerce-program.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Datamigrering" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Datamigrering</strong></a>
+      <p>Läs mer om datamigreringsprocessen mellan Magento 1 och Magento 2.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Uppgradera" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Uppgradera</strong></a>
+      <p>Lär dig hur du uppgraderar ditt Adobe Commerce-projekt så att din butik är säker och fungerar effektivt.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Referens för kommandoradsverktyg" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Referens för kommandoradsverktyg</strong></a>
+      <p>Lär dig mer om kommandon, argument och alternativ för Adobe Commerce kommandoradsverktyg.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Prestanda" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Bästa praxis för prestanda</strong></a>
+      <p>Använd de här rekommendationerna för att optimera prestandan för Adobe Commerce-driftsättningen.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Verktyg" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>verktyg</strong></a>
+      <p>Lär dig mer om verktyg som du kan använda med Adobe Commerce.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementering" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Implementera spelningsbok</strong></a>
+      <p>Läs om strategier för att planera och implementera en framgångsrik Adobe Commerce-webbplats.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Användning" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Operativ spelningsbok</strong></a>
+      <p>Lär dig hur ni gör ert företag redo för att driva en framgångsrik e-handelsplats.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Handel i skala</strong></a>
+      <p>Lär dig leverera upplevelser i stor skala med Adobe Commerce och Adobe Experience Manager.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Säkerhet och efterlevnad</strong></a>
+      <p>Se hur Adobe Commerce handlare ansvarar för att upprätthålla en säker miljö.</p>
+    </div>
+  </td>
+</tr>
+</table>
+
+## HTML tabell utan divar
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Versionsinformation" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Versionsinformation</strong></a>
+    <p>Läs igenom all versionsinformation om Adobe Commerce patchar och tjänster.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Installation" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Installation</strong></a>
+    <p>Lär dig hur du installerar Adobe Commerce för lokala distributioner.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Konfiguration" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Konfiguration</strong></a>
+    <p>Konfigurera funktioner och tjänster för ditt Adobe Commerce-program.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Datamigrering" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Datamigrering</strong></a>
+    <p>Läs mer om datamigreringsprocessen mellan Magento 1 och Magento 2.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Uppgradera" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Uppgradera</strong></a>
+    <p>Lär dig hur du uppgraderar ditt Adobe Commerce-projekt så att din butik är säker och fungerar effektivt.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Referens för kommandoradsverktyg" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Referens för kommandoradsverktyg</strong></a>
+    <p>Lär dig mer om kommandon, argument och alternativ för Adobe Commerce kommandoradsverktyg.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Prestanda" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Bästa praxis för prestanda</strong></a>
+    <p>Använd de här rekommendationerna för att optimera prestandan för Adobe Commerce-driftsättningen.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Verktyg" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>verktyg</strong></a>
+    <p>Lär dig mer om verktyg som du kan använda med Adobe Commerce.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementering" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Implementera spelningsbok</strong></a>
+    <p>Läs om strategier för att planera och implementera en framgångsrik Adobe Commerce-webbplats.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Användning" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Operativ spelningsbok</strong></a>
+    <p>Lär dig hur ni gör ert företag redo för att driva en framgångsrik e-handelsplats.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Handel i skala</strong></a>
+    <p>Lär dig leverera upplevelser i stor skala med Adobe Commerce och Adobe Experience Manager.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Säkerhet och efterlevnad</strong></a>
+    <p>Se hur Adobe Commerce handlare ansvarar för att upprätthålla en säker miljö.</p>
+  </td>
+</tr>
+</table>
