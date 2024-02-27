@@ -4,9 +4,9 @@ description: En grundläggande introduktion till Markdown-format
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Guide för markeringssyntaxformat
 
 På den här sidan visas markeringskomponenten för redigering av digital Experience Technical Documentation med hjälp av markeringsformatet (.md). Den här sidan innehåller information om anställda i Adobe.
+
+EDS
 
 Se här: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
