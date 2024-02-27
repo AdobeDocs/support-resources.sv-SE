@@ -3,9 +3,9 @@ user-guide-title: Resurser för lyckade planer
 user-guide-description: Framgångsrika planer och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 708c3e3db885e2dce7d1d258189eb50a9ec4293c
+source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 0%
       + [Elit](dme-elite.md)
 + [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Dold testfil](hidden-test.md)
++ [Dold EDS-testruta](hidden/test-page.md)
 + [Guide för dold syntax](hidden/syntax-style-guide.md)
 + [Dolda tabellbrytningar](hidden/table-breaks.md)
 + [Testa dolda bilder](hidden/tables.md)
