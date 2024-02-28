@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Ladda ned Premium"
 badgeExam: label="tentamen ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,16 @@ ht-degree: 0%
 # Dold testsida
 
 Vill du aktivera? Kontrollera skicka igen runt klockan 17:10. Kommer det att bli levande klockan 17:30?
+
+## Knappar
+
+[Knappstandard](https://www.adobe.com/)
+
+**[Knapp primär](https://www.adobe.com/)**
+
+_[Knapp sekundär](https://www.adobe.com/)_
+
+**_[Knapp - tertiär](https://www.adobe.com/)_**
 
 ## Problem med förhandsgranskning
 
@@ -118,10 +128,10 @@ För märken används färger som definieras i Adobe Spectrum:
 | Typ | Badge |
 |---|---|
 | Informativ (standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Gå till example.com"} |
-| Negativ | [!BADGE Avbruten]{type=negative tooltip="Den här funktionen är nu inte längre användbar"} |
-| Neutral | [!BADGE Kanske]{type=Neutral tooltip="En ryttare föll av hästen..."} |
-| Varning | [!BADGE Attention]{type=Caution tooltip="Gul status"} |
+| Positiv | [!BADGE Ny funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Gå till example.com&quot;} |
+| Negativ | [!BADGE Avbruten]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutral | [!BADGE Kanske]{type=Neutral tooltip=&quot;En ryttare föll av hästen...&quot;} |
+| Varning | [!BADGE Attention]{type=Varning tooltip=&quot;Gul status&quot;} |
 
 Exempel på syntax
 
