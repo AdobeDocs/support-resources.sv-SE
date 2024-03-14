@@ -3,9 +3,9 @@ title: Testsida (dold)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 1%
 
 ---
@@ -17,14 +17,6 @@ Dold testsida
 ## Välkommen till AEM EDS!
 
 Publiceringstest
-
-**Emoji**
-
-Det här ser ut att ignoreras.
-
-Det är så roligt! :joy:
-
-:smiley:
 
 ## Knappar
 
@@ -41,12 +33,6 @@ _[Knapp sekundär](https://www.adobe.com/)_
 ### Bild med hovringstext
 
 ![alt text - package.png](assets/package.png "Hovringstext - det här är package.png")
-
-### Centrera text
-
-<p align="center">Jag är centrerad</p>
-
-<center>Jag är centrerad</center>
 
 ### Zoomningsbara bilder
 
@@ -131,7 +117,7 @@ Se fet rubrik ovan.
 
 Ikonen är högerjusterad, en div-bild är centrerad 200 pixlar och en vändbild är höger 50 %.
 
-| <center>Vänster | Mitten | Höger</center> |
+| Vänster | Mitten | Höger |
 |---|---|---|
 | ![alt-text](assets/package.png "align=right"){align=right} | ![alt-text](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![alt-text](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
