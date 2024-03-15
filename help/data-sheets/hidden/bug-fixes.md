@@ -3,14 +3,20 @@ title: Felkorrigeringar (dolda)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 1%
 
 ---
 
 # Felkorrigeringar
+
+## Inline-emblem fungerar inte
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE Anteckningar]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE Tabeller]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntaxstilguide]{type=Positive}
 
 ## UGP-10560 - emblem i fällningar som kan komprimeras
 
