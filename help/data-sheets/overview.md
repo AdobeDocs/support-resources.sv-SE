@@ -2,9 +2,9 @@
 title: Adobe Success Plans - översikt
 description: I den här artikeln finns en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,7 @@ Framgångsplanerna för Adobe går steget längre än att lösa reaktiva problem
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Framgångsplanerna för Adobe går steget längre än att lösa reaktiva problem
 
 | Tillägg | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-| **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | Tillgänglig |
+| **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | Tillgänglig | Tillgänglig |
 | **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | Inte tillgängligt | Tillgänglig |
 | **Tillägget Avancerat molnstöd**<br> Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder | Tillgänglig | Tillgänglig |
 | **Tillägget Mentor Sessions**<br> Erbjuder kunskapsbaserad inlärning i en just-in-time-utbildningsmetod | Tillgänglig | Ingår |
