@@ -158,10 +158,10 @@ För märken används färger som definieras i Adobe Spectrum:
 | Typ | Badge |
 |---|---|
 | Informativ (standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Ny funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Gå till example.com&quot;} |
-| Negativ | [!BADGE Avbruten]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
-| Neutral | [!BADGE Kanske]{type=Neutral tooltip=&quot;En ryttare föll av hästen...&quot;} |
-| Varning | [!BADGE Attention]{type=Varning tooltip=&quot;Gul status&quot;} |
+| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Gå till example.com"} |
+| Negativ | [!BADGE Avbruten]{type=negative tooltip="This feature is now end of life"} |
+| Neutral | [!BADGE Kanske]{type=Neutral tooltip="En ryttare föll av hästen..."} |
+| Varning | [!BADGE Attention]{type=Varning tooltip="Gul status"} |
 
 Exempel på syntax
 
