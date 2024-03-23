@@ -3,14 +3,19 @@ title: Felkorrigeringar (dolda)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
+exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
+source-git-commit: c937df9669153698a82842510337df73dfa28bd8
 workflow-type: tm+mt
-source-wordcount: '1841'
+source-wordcount: '1852'
 ht-degree: 1%
 
 ---
 
 # Felkorrigeringar
+
+## Automatisk aktiveringsprovning
+
+Jag skickade in den här på lördagsmorgon. Ingen publicering nu.
 
 ## Inline-emblem för UGP-10584 fungerar inte
 
