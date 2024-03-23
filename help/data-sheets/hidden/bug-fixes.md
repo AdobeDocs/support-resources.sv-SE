@@ -3,9 +3,9 @@ title: Felkorrigeringar (dolda)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 1%
 
 ---
@@ -180,6 +180,10 @@ _9 augusti 2022_
 ## [!BADGE Inaktuell]{type=negative}
 
 Se rubriken ovan. Och nästa.
+
+## Test för autoaktivering
+
+Jag lade till den här på fredag eftermiddag men klickade inte på Publicera nu.
 
 ### [!BADGE Beta]{type=Informative}
 
