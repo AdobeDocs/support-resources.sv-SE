@@ -4,10 +4,10 @@ description: Testsida för intern testning
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: c937df9669153698a82842510337df73dfa28bd8
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
 workflow-type: tm+mt
-source-wordcount: '1852'
-ht-degree: 1%
+source-wordcount: '1849'
+ht-degree: 25%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## Automatisk aktiveringsprovning
 
-Jag skickade in den här på lördagsmorgon. Ingen publicering nu.
+De här buggarna bör åtgärdas.
 
 ## Inline-emblem för UGP-10584 fungerar inte
 
@@ -308,28 +308,28 @@ Information om vilka funktioner som är tillgängliga i den nya kommentarsfunkti
 
 Jag tror att `{width="20"}` parametern orsakar problem i tabeller.
 
-## Jämförelse av Expert and Ultimate-framgångsplaner
+## Jämförelse av framgångsplanerna Expert och Ultimate
 
-|  | Expert Success Plan | Ultimate Success Plan |
+|  | Framgångsplanen Expert | Framgångsplanen Ultimate |
 |--- |--- |--- |
-|  | Med planen Expert Success får du tillgång till **24X7 Expert Care** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. <p> *Ingår i alla Adobe Experience Cloud-licenser.* | Med Ultimate Success-planen får du en upplevelse **strategisk vägledning och proaktiv teknisk hälsa för att leverera högpresterande digitala upplevelser**. Din Adobe-miljö kommer att stödjas av ett expertteam som är bekanta med din verksamhet och fokuserar på att genomföra en färdplan som är anpassad efter dina mål och prioriteringar för affärsmässiga effekter. |
-| **Success team** | Samlat supporttekniker | Innehåller: <ul><li> Särskilt utsedd teknisk kontoansvarig </li><li> Utsedd Customer Success Manager </li><li> Särskilt avdelad supportansvarig</li><li> Samlat teknikerteam och strategiska experter som levererar Success Accelerators </li><li> Samlat supporttekniker </li></ul> |
-| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](../assets/Cross_red_circle.svg){width="20"} Ingår inte | Innehåller: <ul><li>Översyn av uppgraderingar och migrering, förberedelse av releaser </li><li>Recensioner av produktplaner</li><li> Justerade tekniska och strategiska färdplaner</li><li>Förberedelse och planering av viktiga händelser</li><li>Planering för relevant och snabb aktivering</li><li>Tekniskt bästa praxis och branschvägledning</li><li>Lobbying/anpassning med produktteam</li><li>Enhetlig plan för att uppnå centrala affärsmål - handlingsplan för ömsesidigt erkännande</li></ul> |
-| **Teknisk support** | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2, P3, P4**: support under kontorstid</li><li>Standardhantering av driftstopp</li><li>Hantering av gruppeskalering</li></ul> | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2/P3**: Support dygnet runt, alla dagar</li><li>**P4**: support under kontorstid</li><li>Prioriterad hantering av driftstopp</li><li>Eskaleringshantering för utsedd expert</li></ul> |
-| **Success Accelerators** | ![ej inkluderad ikon](../assets/Cross_red_circle.svg){width="20"} Ingår inte | Success Accelerators som schemaläggs regelbundet av TAM &amp; CSM<p>*(Mer information finns i katalogen Success Accelerator)* |
-| **Supportkanaler** | Online, telefon, Experience League, forum | Personaliserad webbportal, prioriterad telefon, Experience League, forum |
+|  | Med framgångsplanen Expert får du tillgång till **experthjälp dygnet runt** för teknisk felsökning och vägledning om viktiga företagsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en onlinecommunity med experter och kollegor från Adobe. <p> *Ingår i alla Adobe Experience Cloud-licenser.* | Med framgångsplanen Ultimate får du uppleva en **strategisk vägledning och proaktiv teknisk hälsa för att leverera högpresterande digitala upplevelser**. Din Adobe-miljö kommer att stödjas av ett expertteam som är bekanta med din verksamhet och fokuserar på att genomföra en färdplan som är anpassad efter dina mål och prioriteringar för företagsmässiga effekter. |
+| **Framgångsteamet** | En samlad grupp supporttekniker | Innefattar: <ul><li> En särskilt utsedd teknisk kontohanterare </li><li> En särskilt utsedd framgångsansvarig för kunden </li><li> En särskilt utsedd tjänsteansvarig för supporten</li><li> Ett samlat teknikerteam och strategiska experter som levererar Success Accelerators </li><li> En samlad grupp supporttekniker </li></ul> |
+| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](../assets/Cross_red_circle.svg){width="20"} Ingår inte | Innefattar: <ul><li>Översyn av uppgraderingar och migrering, förberedelse av versioner </li><li>Recensioner av produktplaner</li><li> Justerade tekniska och strategiska färdplaner</li><li>Förberedelse och planering av viktiga händelser</li><li>Planering för relevant och snabb aktivering</li><li>Tekniskt bästa praxis och branschvägledning</li><li>Lobbying/anpassning med produktteam</li><li>Enhetlig plan för att uppnå centrala företagsmål – ömsesidig handlingsplan (MAP)</li></ul> |
+| **Teknisk support** | Innefattar: <ul><li>**P1**: support för problem dygnet runt, alla dagar</li><li>**P2, P3, P4**: support under kontorstid</li><li>Standardhantering av driftstopp</li><li>Hantering av gruppeskalering</li></ul> | Innefattar: <ul><li>**P1**: support för problem dygnet runt, alla dagar</li><li>**P2/P3**: support dygnet runt, alla arbetsdagar</li><li>**P4**: support under kontorstid</li><li>Prioriterad hantering av driftstopp</li><li>Eskaleringshantering för utsedd expert</li></ul> |
+| **Success Accelerators** | ![ej inkluderad ikon](../assets/Cross_red_circle.svg){width="20"} Ingår inte | Success Accelerators som schemaläggs regelbundet av TAM och CSM<p>*(Mer information finns i katalogen Success Accelerator)* |
+| **Supportkanaler** | Online, telefon, Experience League, forum | Personanpassad webbportal, prioriterad telefon, Experience League, forum |
 
 {style="table-layout:fixed"}
 
 ## Supporttillägg
 
-| Tillägg | Expert Success Plan | Ultimate Success Plan |
+| Tillägg | Framgångsplanen Expert | Framgångsplanen Ultimate |
 |--- |--- |--- |
-| **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ikon inte tillgänglig](../assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Tillägget Avancerat molnstöd**<br> Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Tillägget Mentor Sessions**<br> Erbjuder kunskapsbaserad inlärning i en just-in-time-utbildningsmetod | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](../assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägg för Developer Boost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](../assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägg för paket med prioriteringsköer**<br> Hoppa över kön för att få dina biljetter bearbetade först med ytterligare åtkomst till Mentor Sessions och Developer Boost | ![tillgänglig ikon](../assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](../assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Händelsehantering**<br> ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Director för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera resultaten i företaget | ![ikonen inte tillgängligt](../assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Avancerad molnsupport**<br> Avancerad vård och värdesäkring för kunder av Adobe Experience Manager as a Cloud Service | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Mentorsessioner**<br> Erbjuder kunskapsbaserad inlärning i en utbildningsmetod som är perfekt tidsmässigt | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](../assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Utvecklarboost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](../assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Paket med köprioritering**<br> Hoppa över kön för att få dina ärenden bearbetade först med ytterligare åtkomst till Mentorsessioner och Utvecklarboost | ![ikonen tillgängligt](../assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](../assets/green_checkmark.svg){width="20"} Ingår |
 
 {style="table-layout:fixed"}
