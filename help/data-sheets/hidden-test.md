@@ -4,63 +4,63 @@ description: Den här sidan är dold för sökning och från innehållsförteckn
 hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Ladda ned Premium"
-badgeExam: label="tentamen ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
+badgeExam: label="Exam ADO-E903" type="neutral"
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 0%
+ht-degree: 99%
 
 ---
 
 # Dold testsida
 
-Vill du aktivera? Kontrollera skicka igen runt klockan 17:10. Kommer det att bli levande klockan 17:30?
+Aktivera? Kontrollera inlämningen igen ca kl. 15.10. Kommer den att gå live kl. 15.30?
 
 ## Problemtabeller med bilder
 
+## Jämförelse av framgångsplanerna Expert och Ultimate
 
-## Jämförelse av Expert and Ultimate-framgångsplaner
-
-|  | Expert Success Plan | Ultimate Success Plan |
+|  | Framgångsplanen Expert | Framgångsplanen Ultimate |
 |--- |--- |--- |
-|  | Med planen Expert Success får du tillgång till **24X7 Expert Care** för teknisk felsökning och vägledning om viktiga affärsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en online-community med experter och kollegor från Adobe. <p> *Ingår i alla Adobe Experience Cloud-licenser.* | Med Ultimate Success-planen får du en upplevelse **strategisk vägledning och proaktiv teknisk hälsa för att leverera högpresterande digitala upplevelser**. Din Adobe-miljö kommer att stödjas av ett expertteam som är bekanta med din verksamhet och fokuserar på att genomföra en färdplan som är anpassad efter dina mål och prioriteringar för affärsmässiga effekter. |
-| **Success team** | Samlat supporttekniker | Innehåller: <ul><li> Särskilt utsedd teknisk kontoansvarig </li><li> Utsedd Customer Success Manager </li><li> Särskilt avdelad supportansvarig</li><li> Samlat teknikerteam och strategiska experter som levererar Success Accelerators </li><li> Samlat supporttekniker </li></ul> |
-| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Innehåller: <ul><li>Översyn av uppgraderingar och migrering, förberedelse av releaser </li><li>Recensioner av produktplaner</li><li> Justerade tekniska och strategiska färdplaner</li><li>Förberedelse och planering av viktiga händelser</li><li>Planering för relevant och snabb aktivering</li><li>Tekniskt bästa praxis och branschvägledning</li><li>Lobbying/anpassning med produktteam</li><li>Enhetlig plan för att uppnå centrala affärsmål - handlingsplan för ömsesidigt erkännande</li></ul> |
-| **Teknisk support** | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2, P3, P4**: support under kontorstid</li><li>Standardhantering av driftstopp</li><li>Hantering av gruppeskalering</li></ul> | Innehåller: <ul><li>**P1**: Support dygnet runt, alla dagar</li><li>**P2/P3**: Support dygnet runt, alla dagar</li><li>**P4**: support under kontorstid</li><li>Prioriterad hantering av driftstopp</li><li>Eskaleringshantering för utsedd expert</li></ul> |
-| **Success Accelerators** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Success Accelerators som schemaläggs regelbundet av TAM &amp; CSM<p>*(Mer information finns i katalogen Success Accelerator)* |
-| **Supportkanaler** | Online, telefon, Experience League, forum | Personaliserad webbportal, prioriterad telefon, Experience League, forum |
+|  | Med framgångsplanen Expert får du tillgång till **experthjälp dygnet runt** för teknisk felsökning och vägledning om viktiga företagsfrågor. Eller så kan du hitta snabba lösningar genom att utnyttja våra självstyrda resurser, vår unika bästa praxis och en onlinecommunity med experter och kollegor från Adobe. <p> *Ingår i alla Adobe Experience Cloud-licenser.* | Med framgångsplanen Ultimate får du uppleva en **strategisk vägledning och proaktiv teknisk hälsa för att leverera högpresterande digitala upplevelser**. Din Adobe-miljö kommer att stödjas av ett expertteam som är bekanta med din verksamhet och fokuserar på att genomföra en färdplan som är anpassad efter dina mål och prioriteringar för företagsmässiga effekter. |
+| **Framgångsteamet** | En samlad grupp supporttekniker | Innefattar: <ul><li> En särskilt utsedd teknisk kontohanterare </li><li> En särskilt utsedd framgångsansvarig för kunden </li><li> En särskilt utsedd tjänsteansvarig för supporten</li><li> Ett samlat teknikerteam och strategiska experter som levererar Success Accelerators </li><li> En samlad grupp supporttekniker </li></ul> |
+| **Proaktiv teknisk + operativ support** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Innefattar: <ul><li>Översyn av uppgraderingar och migrering, förberedelse av versioner </li><li>Recensioner av produktplaner</li><li> Justerade tekniska och strategiska färdplaner</li><li>Förberedelse och planering av viktiga händelser</li><li>Planering för relevant och snabb aktivering</li><li>Tekniskt bästa praxis och branschvägledning</li><li>Lobbying/anpassning med produktteam</li><li>Enhetlig plan för att uppnå centrala företagsmål – ömsesidig handlingsplan (MAP)</li></ul> |
+| **Teknisk support** | Innefattar: <ul><li>**P1**: support för problem dygnet runt, alla dagar</li><li>**P2, P3, P4**: support under kontorstid</li><li>Standardhantering av driftstopp</li><li>Hantering av gruppeskalering</li></ul> | Innefattar: <ul><li>**P1**: support för problem dygnet runt, alla dagar</li><li>**P2/P3**: support dygnet runt, alla arbetsdagar</li><li>**P4**: support under kontorstid</li><li>Prioriterad hantering av driftstopp</li><li>Eskaleringshantering för utsedd expert</li></ul> |
+| **Success Accelerators** | ![ej inkluderad ikon](assets/Cross_red_circle.svg){width="20"} Ingår inte | Success Accelerators som schemaläggs regelbundet av TAM och CSM<p>*(Mer information finns i katalogen Success Accelerator)* |
+| **Supportkanaler** | Online, telefon, Experience League, forum | Personanpassad webbportal, prioriterad telefon, Experience League, forum |
 
 {style="table-layout:fixed"}
 
 ## Supporttillägg
 
-| Tillägg | Expert Success Plan | Ultimate Success Plan |
+| Tillägg | Framgångsplanen Expert | Framgångsplanen Ultimate |
 |--- |--- |--- |
-| **Tillägget Händelsehantering**<br> Ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Director-tillägg för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera affärsresultaten | ![ikon inte tillgänglig](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Tillägget Avancerat molnstöd**<br> Avancerad vård och värdesäkring för Adobe Experience Manager as a Cloud Service-kunder | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig |
-| **Tillägget Mentor Sessions**<br> Erbjuder kunskapsbaserad inlärning i en just-in-time-utbildningsmetod | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![tillgänglig ikon](assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägg för Developer Boost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägg för paket med prioriteringsköer**<br> Hoppa över kön för att få dina biljetter bearbetade först med ytterligare åtkomst till Mentor Sessions och Developer Boost | ![tillgänglig ikon](assets/Plus_blue.svg){width="20"} Tillgänglig | ![inkluderingsikon](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Händelsehantering**<br> ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Director för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera resultaten i företaget | ![ikonen inte tillgängligt](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Avancerad molnsupport**<br> Avancerad vård och värdesäkring för kunder av Adobe Experience Manager as a Cloud Service | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
+| **Tillägget Mentorsessioner**<br> Erbjuder kunskapsbaserad inlärning i en utbildningsmetod som är perfekt tidsmässigt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Utvecklarboost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Paket med köprioritering**<br> Hoppa över kön för att få dina ärenden bearbetade först med ytterligare åtkomst till Mentorsessioner och Utvecklarboost | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
 
 {style="table-layout:fixed"}
 
 
 ## Knappar
 
-[Knappstandard](https://www.adobe.com/)
+[Knappen Standard](https://www.adobe.com/)
 
-**[Knapp primär](https://www.adobe.com/)**
+**[Knappen Primär](https://www.adobe.com/)**
 
-_[Knapp sekundär](https://www.adobe.com/)_
+_[Knappen Sekundär](https://www.adobe.com/)_
 
-**_[Knapp - tertiär](https://www.adobe.com/)_**
+**_[Knappen Tertiär](https://www.adobe.com/)_**
 
-## Problem med förhandsgranskning
+## Förhandsgranskningsproblem
 
-Följande stycke återges inte korrekt i VSC-förhandsvisning. Jag är inte säker på varför.
+Följande stycke återges inte korrekt i VSC Preview. Jag är inte säker på varför.
 
-Om ditt lösenord hanteras av [!DNL Adobe]kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Om ditt lösenord hanteras av [!DNL Adobe] kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Anteckningstyper
 
@@ -68,7 +68,7 @@ Alla anteckningstyper som stöds.
 
 >[!NOTE]
 >
->Det här är ett vanligt NOTE-block.
+>Det här är ett vanligt anteckningsblock.
 
 >[!TIP]
 >
@@ -96,11 +96,11 @@ Alla anteckningstyper som stöds.
 
 >[!PREREQUISITES]
 >
->Detta är en kravnotering. Endast EXL.
+>Detta är en kravanteckning. Endast EXL.
 
 >[!INFO]
 >
->Det här är en Info note. Endast EXL.
+>Det här är en informationsanteckning. Endast EXL.
 
 >[!ERROR]
 >
@@ -108,29 +108,29 @@ Alla anteckningstyper som stöds.
 
 >[!SUCCESS]
 >
->Detta är en Success note. Endast EXL.
+>Detta är en framgångsanteckning. Endast EXL.
 
 >[!MORELIKETHIS]
 >
 >* Sida 1
->* Sidan 2
+>* Sida 2
 
-## Badges
+## Märken
 
 Ett märke är en färgad etikett som används som innehållsindikator. Du kan till exempel lägga till ett märke för att markera en artikel som _Beta_ eller ett avsnitt som _Premium_. Du kan ändra färg på ett märke och koppla en URL och ett verktygstips.
 
-[!BADGE Exempel på badge]
+[!BADGE Exempel på märke]
 
-Det finns två typer of emblem med olika syntax:
+Det finns två typer of märken, vart och ett med olika syntax:
 
-* **Metadata** - Visar märket nära en sidas överkant
-* **Textbunden** - Visar märket där syntaxen finns
+* **Metadata** – Visar märket högst upp på en sida
+* **Textbundet** – Visar märket där syntaxen finns
 
-### Metadata-emblem
+### Metadata-märken
 
-Om du lägger till märkordssyntax i metadata placeras ett märke ovanför sidrubriken (H1) i artikeln.
+Genom att lägga till märkes-syntax i metadata placeras ett märke ovanför sidtiteln (H1) i artikeln.
 
-Du kan till exempel namnge emblem med _badge1_ eller _badge2_. Eller så kan du vara mer kreativ (förutsatt att namnet börjar med _bricka_).
+Du kan till exempel namnge märken med _badge1_ eller _badge2_. Eller så kan du vara mer kreativ (förutsatt att namnet börjar med _badge_).
 
 Exempel på metadata:
 
@@ -143,25 +143,25 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
 * **badgeExam:** I det här exemplet visas ett mörkt märke med ett ID-nummer för tentamen.
 
-#### Infogade emblem
+#### Infogade märken
 
-Ange information om emblem på sin egen rad eller i en rubrik, tabell eller något annat sidelement.
+Ange information om märken på sin egen rad eller i en rubrik, tabell eller något annat sidelement.
 
 Här är syntaxen för ett infogat märke med en betaetikett, blå färg, URL-adress och verktygstips:
 
 `[!BADGE Beta]{type=Informative url="https://www.example.com" tooltip="Go to example.com"}`
 
-### Tillgängliga märkordsfärger
+### Tillgängliga märkesfärger
 
 För märken används färger som definieras i Adobe Spectrum:
 
-| Typ | Badge |
+| Typ | Märke |
 |---|---|
 | Informativ (standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Gå till example.com"} |
-| Negativ | [!BADGE Avbruten]{type=negative tooltip="This feature is now end of life"} |
-| Neutral | [!BADGE Kanske]{type=Neutral tooltip="En ryttare föll av hästen..."} |
-| Varning | [!BADGE Attention]{type=Varning tooltip="Gul status"} |
+| Positiv | [!BADGE Ny funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativ | [!BADGE Avvecklad]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutral | [!BADGE Kanske]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Varning | [!BADGE Observera]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Exempel på syntax
 
@@ -175,16 +175,16 @@ Exempel på syntax
 |Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
 ```
 
-### Krav för emblem
+### Krav för märken
 
 * Endast två märken tillåts i metadata. Den här regeln kan konfigureras, så berätta för oss om du behöver ett undantag.
-* Endast etiketten krävs. The `type`, `url`och `tooltip` parametrar är valfria. The `type` -parametern bestämmer färgen. The `url` kan användarna klicka på märket för att öppna en artikel eller sida. The `tooltip` -parametern visar verktygstipstexten när muspekaren förs över.
-* Lägga till ett märke i `TOC.md` filen visar märket på alla artiklar i guiden. Om du anger en URL-adress där emblemet ska hoppa till en artikel måste du använda en rotlänk (t.ex. `/help/guide/article.md`) inte är en relativ länk (t.ex. `article.md`) för att ta hänsyn till artiklar i olika mappar.
-* Lägga till ett märke till `metadata-new.md` visar märket på alla artiklar i ett svar.
-* Se till att alla värden är omslutna av citattecken för metadatamärken. För infogade emblem måste du se till att `url` och `tooltip` är omslutna av citattecken.
-* Giltiga typvärden är *Informativ* (standard, blå), *Positiv* (grönt), *Negativ* (röd), *Neutral* (mörkgrå), och *Varning* (gult).
-* Badge-etiketter är lokaliserade.
-* Om flera metadatamärkningar anges visas märken i alfabetisk ordning baserat på märkordsnamnet, till exempel `badge1:` eller `badgeWeb`.
+* Endast märkesetiketten krävs. Parametrarna `type`, `url` och `tooltip` är valfria. Parametern `type` bestämmer färgen. Med parametern `url` kan användare klicka på märket för att öppna en artikel eller sida. Parametern `tooltip` visar verktygstipsets text vid muspekning.
+* När ett märke läggs till i filen `TOC.md` visar märket på varje artikel i guiden. Om du anger en URL för att märket ska navigera till en artikel, se till att du använder en rotlänk (t.ex. `/help/guide/article.md`) och inte en relativ länk (t.ex. `article.md`) för att ta hänsyn till artiklar i olika mappar.
+* Om du lägger till ett märke till `metadata-new.md` visas märket på varje artikel i ett repo.
+* Se till att alla värden är omslutna av citattecken för metadatamärken. För inline-märken, se till att `url` och `tooltip` är omslutna av citattecken.
+* Giltiga typvärden är *Informativ* (standard, blå), *Positiv* (grön), *Negativ* (röd), *Neutral* (mörkgrå), och *Försiktighet* (gul).
+* Märkesetiketter är lokaliserade.
+* Om flera metadatamärken anges visas märkena i alfabetisk ordning baserat på märkets namn, t.ex. `badge1:` eller `badgeWeb`.
 * Om du vill att URL:en ska öppnas på en ny flik använder du den här syntaxen:
 
   ```
@@ -193,11 +193,11 @@ Exempel på syntax
 
   Återgiven:
 
-  [!BADGE Öppna på ny flik]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Öppna adobe.com på ny flik"}
+  [!BADGE Öppna i ny flik]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Öppna adobe.com i ny flik"}
 
 ## Textmarkering
 
-Workfront-teamet bad om att få använda gula markeringar för att visa hur man förhandsgranskar kommande funktioner. Så här fungerar det.
+Workfront-teamet bad om att kunna använda gul markering för att indikera förhandsgranskning av kommande funktioner. Så fungerar det
 
 Exempel 1:
 
@@ -207,7 +207,7 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 Återgiven:
 
-Hela stycket ska INTE markeras. <span class="preview"> Det här ordet är **fet** inuti en markerad mening.</span> Och det här är bara den sista meningen.
+Hela stycket ska INTE markeras. <span class="preview"> Det här ordet är **fetstil** inuti en markerad mening.</span> Och det här är bara den sista meningen.
 
 Exempel 2:
 
@@ -249,13 +249,13 @@ Ej markerad
 
 ## Syntaxmarkering för kodblock
 
-Experience League har stöd för syntaxmarkering för kodblock. Se till att du anger ett språk som `java` efter den första uppsättningen bakåttickningar för att säkerställa att syntaxen är korrekt markerad. En lista över giltiga språk finns på [https://prismjs.com](https://prismjs.com/#supported-languages). Om några språk saknas, logga en jira-biljett.
+Experience League har stöd för syntaxmarkering för kodblock. Se till att du anger ett språk som `java` efter den första uppsättningen bakåtmarkeringar för att säkerställa att syntaxen är korrekt markerad. En lista över giltiga språk finns på [https://prismjs.com](https://prismjs.com/#supported-languages). Om något språk saknas, logga ett jira-ärende.
 
 ### Radnumrering i kodblock
 
 Lägg till `{line-numbers="true"}` efter språket för att aktivera radnumrering.
 
-Exempel med radnummer (&amp;grav;&amp;grav;&amp;grav;;)`html {line-numbers="true"}`):
+Exempel med radnummer (&grave;&grave;&grave;`html {line-numbers="true"}`):
 
 ```html {line-numbers="true"}
 <!DOCTYPE html>
@@ -269,11 +269,11 @@ Exempel med radnummer (&amp;grav;&amp;grav;&amp;grav;;)`html {line-numbers="true
 </html>
 ```
 
-**Börja numrera på rad _**
+**Börja numrering på rad _**
 
-Lägg till `start-number="n"` efter radnummersyntax för att starta numreringen på ett annat nummer än 1.
+Lägg till `start-number="n"` efter radnummer-syntax för att starta numreringen på ett annat nummer än 1.
 
-Exempel med ny startrad (&amp;grav;&amp;grav;&amp;grav;);`html {line-numbers="true" start-line="7"}`):
+Exempel på ny startlinje (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`):
 
 ```html {line-numbers="true" start-line="7"}
 <!DOCTYPE html>
@@ -290,9 +290,9 @@ Exempel med ny startrad (&amp;grav;&amp;grav;&amp;grav;);`html {line-numbers="tr
 
 ### Markering av rader i kodblock
 
-Lägg till `highlight="n"` efter radnummersyntax för att markera rader i ett kodblock. Ange `11-13, 16` markerar raderna 11 till 13 och 16.
+Lägg till `highlight="n"` efter radnummer syntax för att markera rader inom ett kodblock. Om du anger `11-13, 16` markeras rad 11 till 13 och 16.
 
-Exempel med radmarkering (&amp;grav; &amp;grav;&amp;grav;;;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
+Exempel med radmarkering (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
 
 ```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
 <!DOCTYPE html>
