@@ -1,19 +1,19 @@
 ---
-title: Elitstöd
-description: Adobe Experience Cloud Elite Support Services erbjuder förstklassiga servicenivåmål (SLT), proaktiv support och samarbete med en teknisk kontohanterare och en namngiven supporttekniker.
+title: Elite-support
+description: Adobe Experience Cloud Elite-supporttjänster erbjuder förstklassiga servicenivåmål (SLT), proaktiv support och partnerskap med en teknisk kontoansvarig och en namngiven supporttekniker.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
-source-wordcount: '1359'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '1386'
+ht-degree: 100%
 
 ---
 
-# Elitstöd
+# Elite-support
 
-![icon](assets/Elitebanner.png)
+![ikon](assets/Elitebanner.png)
 
-Adobe Experience Cloud Elite Support Services erbjuder förstklassiga servicenivåmål (SLT), proaktiv support och samarbete med en teknisk kontohanterare och en namngiven supporttekniker.
+Adobe Experience Cloud Elite-supporttjänster erbjuder förstklassiga servicenivåmål (SLT), proaktiv support och partnerskap med en teknisk kontoansvarig och en namngiven supporttekniker.
 
 <table>
 <thead>
@@ -21,7 +21,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <th></th>
     <th></th>
     <th>Onlinesupport</th>
-    <th>Elitstöd</th>
+    <th>Elite-support</th>
   </tr>
 </thead>
 <tbody>
@@ -33,7 +33,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
   </tr>
   <tr>
     <td rowspan="3">Tilldelade experter<br></td>
-    <td>Kontosupportlead</td>
+    <td>Supportansvarig</td>
     <td></td>
     <td></td>
   </tr>
@@ -43,7 +43,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technical Account Manager</td>
+    <td>Teknisk kontoansvarig</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -54,7 +54,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <td>24x5</td>
   </tr>
   <tr>
-    <td>24x7x365 P1 Issue Support</td>
+    <td>24x7x365 P1 problemsupport</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
@@ -74,7 +74,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <td>✔</td>
   </tr>
   <tr>
-    <td>Servicerecensioner per år</td>
+    <td>Serviceutvärderingar per år</td>
     <td></td>
     <td>4</td>
   </tr>
@@ -84,7 +84,7 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <td>4</td>
   </tr>
   <tr>
-    <td>Ärendegranskningar</td>
+    <td>Granskningar av ärenden</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -99,18 +99,18 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     <td>✔</td>
   </tr>
   <tr>
-    <td>Granska release, migrering, uppgradering och produktplaner</td>
+    <td>Granskning av lansering, migrering, uppgradering och produktfärdplan</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Molnsupportaktiviteter - Experience Manager som molnet</td>
+    <td>Cloud Support Activities – Experience Manager as Cloud</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Fälttjänster</td>
-    <td>Starta rådgivningstjänster - första året av ny lösning</td>
+    <td>Launch Advisory Services – Första året med ny lösning</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -122,40 +122,40 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
 </tbody>
 </table>
 
-## Servicenivåmål: Inledande svar
+## Mål för tjänstenivå: inledande svar
 
-| Prioritet | Onlinesupport | Elitstöd |
+| Prioritet | Onlinesupport | Elite-support |
 |--- |--- |--- |
-| <b>PRIORITET 1</b><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>15 minuter |
-| <b>PRIORITET 2</b><br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | 24x5/<br>30 minuter |
-| <b>PRIORITET 3</b><br>Kundens affärsfunktioner har liten eller ingen försämring av servicen, men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | 24x5/<br> 1 timme |
-| <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
+| <b>PRIORITET 1</b><br>Kundens affärsfunktioner för produktion är nere eller har betydande dataförluster eller försämrad prestanda och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>15 minuter |
+| <b>PRIORITET 2</b><br>Kundens företagsfunktioner har omfattande serviceförluster eller potentiell dataförlust, eller en viktig funktion har påverkats. | Kontorstid/<br>4 timmar | 24x5/<br>30 minuter |
+| <b>PRIORITET 3</b><br>Kundens företagsfunktioner har mindre eller ingen försämring av prestandan, men det finns en lösning/workaround som gör att företagsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | 24x5/<br> 1 timme |
+| <b>Prioritet 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag |
 
 {style="table-layout:auto"}
 
-## Elitsupport - funktioner
+## Funktioner i Elite-support
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Technical Account Manager" src="assets/namedsupportengineer.png"/>
+    <img alt="Teknisk kontoansvarig" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>Technical Account Manager</b></p>
-    <p>En utsedd teknisk kontohanterare som övervakar din Elite-upplevelse, koordinerar support- och fältserviceärendena och tillhandahåller proaktiva tjänster som maximerar ditt affärsvärde.</p>
+    <p><b>Teknisk kontoansvarig</b></p>
+    <p>En utsedd teknisk kontoansvarig som övervakar din Elite-upplevelse, samordnar support- och fältserviceåtaganden och tillhandahåller proaktiva tjänster för att maximera ditt företagsvärde.</p>
     </div>
   </td>
   <td>
     <img alt="Namngiven supporttekniker" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>Namngiven supporttekniker</b></p>
-    <p>En utsedd supporttekniker som bekant med er lösningsmiljö och era affärsmål. NSE är en erfaren supporttekniker som hjälper dig att samordna din Elite Support-upplevelse.</p>
+    <p>En utsedd supporttekniker som känner till din lösningsmiljö och dina företagsmål. NSE är en erfaren supporttekniker som hjälper dig att samordna din upplevelse av Elite-supporten.</p>
     </div>
   </td>
   <td>
-    <img alt="Ärendegranskningar" src="assets/casereviews.png"/>
+    <img alt="Granskningar av ärenden" src="assets/casereviews.png"/>
     <div>
-    <p><b>Ärendegranskningar</b></p>
-    <p>Regelbunden schemalagd granskning av öppna supportförfrågningar som säkerställer kundanpassning efter fallbeskrivning, affärsmässiga konsekvenser, status, prioritet och överenskommelse om nästa steg som krävs för att säkerställa en snabb lösning.</p>
+    <p><b>Granskningar av ärenden</b></p>
+    <p>Regelbunden schemalagd granskning av öppna supportärenden, för att säkerställa att kunderna är överens om ärendebeskrivning, företagspåverkan, status, prioritet och överenskommelse om nästa steg som krävs för att säkerställa en snabb lösning.</p>
     </div>
   </td>
 </tr>
@@ -168,69 +168,69 @@ Adobe Experience Cloud Elite Support Services erbjuder förstklassiga serviceniv
     </div>
   </td>
   <td>
-    <img alt="Servicerecensioner" src="assets/ServiceReviews.png"/>
+    <img alt="Granskningar av tjänster" src="assets/ServiceReviews.png"/>
     <div>
-    <p><b>Servicerecensioner</b></p>
-    <p>Regelbunden granskning av Elitprogramtjänster, supportstatistik och slutprodukter, inklusive en framåtblickande leveransplan.</p>
+    <p><b>Granskningar av tjänster</b></p>
+    <p>En regelbunden översyn av Elite-programmets tjänster, stödmått och resultat, inklusive en framåtblickande leveransplan.</p>
     </div>
   </td>
   <td>
     <img alt="Expertsessioner" src="assets/expertsessions.png"/>
     <div>
     <p><b>Expertsessioner</b></p>
-    <p>En 60-minuters session med fokus på en specifik produktfunktion och hur den kan användas för att lösa vanliga affärsproblem.</p>
+    <p>Ett 60-minuterssession som fokuserar på en specifik produktfunktion och hur den kan användas för att lösa vanliga företagsproblem.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Miljögranskning" src="assets/EnvironmentReview.png"/>
+    <img alt="Granskning av miljön" src="assets/EnvironmentReview.png"/>
     <div>
-    <p><b>Miljögranskning</b></p>
+    <p><b>Granskning av miljön</b></p>
     <p>Proaktiv granskning av driftsättning, konfiguration och övergripande arkitektur, inklusive integreringar.</p>
     </div>
   </td>
   <td>
-    <img alt="Granska lösningsöversikt" src="assets/SolutionRoadmapReview.png"/>
+    <img alt="Granska lösningsfärdplan" src="assets/SolutionRoadmapReview.png"/>
     <div>
-    <p><b>Granska lösningsöversikt</b></p>
-    <p>Jämför och anpassa lösningens färdplan för Adobe med din projektplan för att minska riskerna och förbereda dig för framtiden.</p>
+    <p><b>Granska lösningsfärdplan</b></p>
+    <p>Jämför och anpassa Adobes lösningsplan med din projektplan för att minska riskerna och förbereda dig för framtiden.</p>
     </div>
   </td>
   <td>
     <img alt="Underhåll och övervakning" src="assets/MaintenanceMonitoring.png"/>
     <div>
     <p><b>Underhåll och övervakning</b></p>
-    <p>Få bästa praxis för underhåll och de senaste fixarna (SP, MR, patches, FP) för att hålla dig uppdaterad om alla underhållskontroller</p>
+    <p>Ta del av bästa praxis för underhåll och de senaste korrigeringarna (SP, MR, patchar, FP) för att hålla dig uppdaterad om alla underhållskontroller</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Förberedelse och granskning av release" src="assets/releasepreview.png"/>
+    <img alt="Förberedelse och granskning av version" src="assets/releasepreview.png"/>
     <div>
-    <p><b>Förberedelse och granskning av release</b></p>
-    <p>Få personaliserad vägledning om nya produktfunktioner för att dra nytta av de senaste innovationerna och få Adobe-experter att granska release- och uppgraderingsplanen.</p>
+    <p><b>Förberedelse och granskning av version</b></p>
+    <p>Få personlig vägledning om nya produktfunktioner för att dra nytta av de senaste innovationerna, och låt Adobe-experter granska versions- och uppgraderingsplaner.</p>
     </div>
   </td>
   <td>
     <img alt="Kunskapsöverföring" src="assets/KnowledgeTransfer.png"/>
     <div>
     <p><b>Kunskapsöverföring</b></p>
-    <p>Fortsatt kunskapsöverföring från Adobe Support-team för att tillhandahålla bästa praxis för användning av lösningar.</p>
+    <p>Fortlöpande kunskapsöverföring från Adobes supportteam för att tillhandahålla bästa praxis kring användningen av lösningen.</p>
     </div>
   </td>
   <td>
     <img alt="Händelsehantering" src="assets/EventManagement1.png"/>
     <div>
     <p><b>Händelsehantering</b></p>
-    <p>Hantera viktiga händelser för att säkerställa att ni har rätt nivå av support, täckning och begränsning under dessa viktiga affärs- och projektmilstolpar.</p>
+    <p>Hantera viktiga händelser för att säkerställa att ni har rätt nivå av support, täckning och begränsningsplan på plats under dessa viktiga företags- och projektmilstolpar.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Onlinesupport - funktioner
+## Onlinesupportsfunktioner
 
 <!--
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Forum" src="assets/CommunityForums.png"/>
     <div>
-    <p>Community-forum</p>
+    <p>Användarforum</p>
     <p><b>Onlineforum</b></p>
     <p>Kontinuerlig tillgång online till en växande databas med tekniska lösningar, produktdokumentation, frågor och svar med mera. Håll kontakt med yrkesverksamma och andra kunder i Adobe Community för att dela med dig av bästa praxis och lärdomar.</p>
     </div>
@@ -251,7 +251,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>24x7x365 P1</p>
     <p><b>Telefonsupport</b></p>
-    <p>Auktoriserade användare eller kontaktpersoner för namngiven support kan skicka problem via alla tillgängliga kanaler (inklusive telefon för P1) och interagera med vårt supportteam för ditt företags räkning.</p>
+    <p>Behöriga användare eller namngivna supportkontakter kan skicka in frågor via alla tillgängliga kanaler (inklusive telefon för P1) och interagera med vårt tekniska supportteam på uppdrag av ditt företag.</p>
     </div>
   </td>
   <td>
@@ -259,78 +259,78 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Experience League</p>
     <p><b>Självstudiekurser</b></p>
-    <p>Upplevelsemakare är gjorda med Experience League. Kunderna kan komma igång snabbt med sina kundupplevelsehanteringsmöjligheter med personaliserad inlärning för att utveckla färdigheter, interagera med en global community av kollegor och få erkännande av karriärmöjligheter.</p>
+    <p>Experience Makers tillverkas med Experience League. Kunderna kan kickstarta sina kunskaper inom hantering av kundupplevelsen med personlig utbildning som utvecklar deras färdigheter, engagerar dem i en global grupp av kollegor och ger dem karriärutvecklande erkännanden.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Kontorstimmar" src="assets/Webinar.png"/>
+    <img alt="Kontorstid" src="assets/Webinar.png"/>
     <div>
-    <p>Kontorstimmar</p>
+    <p>Kontorstid</p>
     <p><b>Webbinarier</b></p>
-    <p>Kontorstid är ett initiativ som leds av Adobe kundsupport. Sessionerna är avsedda att informera såväl som hjälpa deltagare att felsöka problem och ge tips och råd för att lyckas med Adobe Experience Cloud.</p>
+    <p>Kontorstid är ett initiativ som leds av Adobes kundsupportteam. Dessa sessioner är utformade för att informera och hjälpa deltagarna att felsöka problem och ge tips och tricks för att lyckas med Adobe Experience Cloud.</p>
     </div>
   </td>
   <td>
-    <img alt="Stöd för chatt live" src="assets/LiveChat.png"/>
+    <img alt="Support för livechatt" src="assets/LiveChat.png"/>
     <div>
-    <p>Stöd för chatt*</p>
+    <p>Support via livechatt *</p>
     <p><b>Chattsupport</b></p>
     <p>Starta en chattsession för att få svar och hjälp med att skicka in ärenden.</p>
-    <p>* <i>Alla produkter har inte chattsupport live.</i></p>
+    <p>* <i>Inte alla produkter har support via livechatt.</i></p>
     </div>
   </td>
   <td>
     <img alt="Självhjälp" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Självhjälpsportaler</p>
-    <p><b>Support Portal dygnet runt, alla dagar</b></p>
-    <p>On-demand-åtkomst till självhjälp-supportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
+    <p><b>Supportportal dygnet runt</b></p>
+    <p>Åtkomst på begäran till självhjälpssupportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Supportaktiviteter i molnet - AEM
+## Molnsupportaktiviteter – AEM
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <div>
     <p><b>Styrning för AEM as a Cloud Service</b></p>
-    <p>Teknisk och operativ styrning för att hjälpa AEM as a Cloud Service kunder att följa branschstandarder och bästa praxis för AEM as a Cloud Service.</p>
+    <p>Teknisk och operativ styrning för att hjälpa AEM as a Cloud Service-kunder att följa branschstandarder och bästa praxis för AEM as a Cloud Service.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Tjänster med mervärde för AEM as a Cloud Service</b></p>
-    <p>Identifiera, granska och lämna rekommendationer om anpassade lösningar som ger möjligheter till optimering.</p>
+    <p><b>Mervärdestjänster för AEM as a Cloud Service</b></p>
+    <p>Identifiera, granska och ge rekommendationer om områden där det finns möjligheter till optimering av anpassade lösningar.</p>
     </div>
   </td>
   <td>
     <div>
     <p><b>Bästa praxis för anpassning av AEM as a Cloud Service</b></p>
-    <p>Driv till användning av vedertagna standarder för anpassning och centrala komponenter på AEM as a Cloud Service.</p>
+    <p>Driv införandet av bästa praxis för anpassning samt kärnkomponenter i AEM as a Cloud Service.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Starta rådgivning
+## Launch Advisory
 
-För kunder som implementerar en **ny Adobe Experience Cloud-lösning**, Launch Advisory är en *bastjänster för rådgivning* och rekommendationer som har visat sig stödja framgångsrika driftsättningar och som snabbar upp time-to-value.
+Launch Advisory är en grunduppsättning av *rådgivningstjänster* som har visat sig stödja framgångsrika implementeringar och påskynda tiden till värde för kunder som implementerar en **ny Adobe Experience Cloud-lösning**.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Adobe lösningsexperter hjälper till att validera krav, arkitektur, utvecklingsprocesser och starta beredskapsgranskningar med metodbaserad vägledning till kunder och implementeringspartners.
+Adobes lösningsexperter hjälper till att validera krav, arkitektur, utvecklingsprocess och granskningar av lanseringsberedskap med vägledning baserad på bästa praxis för kunder och implementeringspartners.
 
-Launch Advisory kommer att anpassas till ditt projektschema med vanliga milstolpar (Kickoff, Define, Design, Go-live och Post Launch) för att vägleda, validera, utvärdera och ge rekommendationer. Viktiga produkter:
+Launch Advisory anpassar sig till din projektplan genom gemensamma milstolpar (Kickoff, Define, Design, Go-live och Post Launch) för att vägleda, validera, bedöma och ge rekommendationer. Viktiga leveranser inkluderar:
 
-* Kickoff (inklusive projektsamarbetsplan)
-* Utvärderings- och rekommendationsdokument
+* Kickoff (inklusive plan för projektsamarbete)
+* Dokument med bedömningar och rekommendationer
 * Sammanfattning av engagemang
 
 <!--
@@ -339,42 +339,42 @@ Launch Advisory kommer att anpassas till ditt projektschema med vanliga milstolp
 
 ## Fältserviceaktiviteter
 
-Fälttjänster används för **snabb upplösning** fokuserade, framgångsrika kunder och snabbare **time-to-value**. Om Launch Advisory är aktiv finns det **inga fälttjänster i år 1** för alla lösningsprodukter som omfattas av ett Adobe Support-avtal.
+Fälttjänster används för **snabb lösning**, fokuserad kundframgång och snabbare **tid till värde**. Om Launch Advisory är aktivt kommer det **inte att finnas några fälttjänster under år 1** för någon lösningsprodukt som omfattas av ett Adobe Support-avtal.
 
-Som Elite-kund är du berättigad till **4 aktiviteter per år** från följande två spår: **Teknik** och/eller **Strategisk**.
+Som Elite-kund är du berättigad till **4 aktiviteter per år** från följande två spår: **Teknisk** och/eller **Strategisk**.
 
-**Tekniska spåraktiviteter** säkerställa att kunderna är tekniskt sunda och maximera användningen av sina verktyg. Dessa typer av aktiviteter omfattar support och rekommendationer för plattformskonfigurationer, integreringar och felsökning.
+**Tekniska spåraktiviteter** säkerställer att kunderna är tekniskt kunniga och maximerar sin verktygsanvändning. Dessa typer av aktiviteter omfattar specifikt support och rekommendationer relaterade till plattformskonfigurationer, integrationer och felsökning.
 
-Tillgängliga typer av teknisk verksamhet:
+Olika typer av teknisk verksamhet:
 
 * Hälsorevision
-* Plattformsgranskning
-* Funktionsuppsättning
-* Grundläggande integreringar och konfigurationer
+* Revision av plattform
+* Aktivering av funktionsuppsättning
+* Grundläggande integrationer och konfigurationer
 * Felsökning av kundlösningar
-* Support för molntjänster
+* Cloud service-support
 
-**Strategiska spårningsaktiviteter** hitta möjligheter att se till att kundens Adobe-lösningar ger valuta för pengarna. De innehåller supportrekommendationer som rör strategi, mätning och mognad för att driva värderealisering över en eller flera Adobe-lösningar.
+**Strategiska spårningsaktiviteter** hittar möjligheter att säkerställa att värdet realiseras från en kunds Adobe-lösningar. De omfattar rekommendationer som rör strategi, mätning och mognad för att skapa värdeutveckling i en eller flera Adobe-lösningar.
 
 Tillgängliga typer av strategiska aktiviteter:
 
-* Löptid
-* Använd fallutveckling/mätning
+* Mognadsfärdplan
+* Utveckling/mätning av användningsfall
 * Rapportering och analys
-* Aktivera bästa praxis
+* Möjlighet till bästa praxis
 
 ## Resurser
 
 | Resurs | Beskrivning |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League är hur Adobe kan hjälpa företag att uppnå det värde de förväntar sig av sin investering i Adobe. Det är en enhetlig plats där kunderna kan lära sig, kommunicera och växa längs en personaliserad väg till framgång som innefattar självhjälpssjälvstudiekurser, produktdokumentation, lärarledd utbildning, community och teknisk support. |
-| [Utbildning](https://training.adobe.com/training/) | Adobe Digital Learning Services-kurser är tillgängliga från Experience League. Lärarkurserna innehåller både on-demand- och lärarledda lektioner. Här kan ni skaffa er färdigheter som har ett erkänt marknadsvärde och positionera dem för att nå framgång i era organisationer. |
-| [Produktionsproblem och systemfel](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
+| [Experience League](https://experienceleague.adobe.com/?lang=sv#home) | Experience League är hur Adobe hjälper företag att uppnå det värde de förväntar sig av sin Adobe-investering. Det är en samlad plats där kunderna kan lära sig, skapa kontakter och växa på en personlig väg till framgång som inkluderar självhjälpshandledning, produktdokumentation, instruktörsledd utbildning, community och teknisk support. |
+| [Utbildning](https://training.adobe.com/training/) | Adobe Digital Learning Services-kurser är tillgängliga från Experience League. Utbildningskurserna innehåller både on-demand- och lärarledda lektioner. Här kan du skaffa dig färdigheter med erkänt marknadsvärde och positionera dem för att skapa framgång i dina organisationer. |
+| [Produktionsproblem och systemfel](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
+| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
-## Adobe support, lokal kontorstid och språkstöd på regional nivå
+## Adobe support, lokal kontorstid och språkstöd
 
-Det regionala omfånget för Adobe Support fastställs genom att kundens faktureringsadress (via försäljningsorder eller andra inköpsdokument för Adobe Support) justeras till någon av följande regioner:
+Den regionala omfattningen av Adobe Support fastställs genom att kundens faktureringsadress (via försäljningsordern eller annat inköpsdokument för Adobe Support) anpassas till en av följande regioner:
 
 <table>
 <thead>
@@ -387,10 +387,10 @@ Det regionala omfånget för Adobe Support fastställs genom att kundens fakture
 </thead>
 <tbody>
   <tr>
-    <td>6:00-17:30</td>
-    <td>09:00-17:00</td>
-    <td>09:00-17:00</td>
-    <td>9.00-17.30</td>
+    <td>6.00-17.30</td>
+    <td>09.00–17.00</td>
+    <td>09.00–17.00</td>
+    <td>9.00–17.30</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -401,4 +401,4 @@ Det regionala omfånget för Adobe Support fastställs genom att kundens fakture
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![ikon](assets/bottom-banner.png)

@@ -1,33 +1,33 @@
 ---
-title: Standard Support för Adobe Creative Cloud och Adobe Document Cloud
-description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Standardsupporten inkluderar dygnet runt-tillgång till våra självhjälpsresurser, inklusive artiklar om HelpX och interaktion med andra kunder i Adobe Community.
+title: Standardsupport för Adobe Creative Cloud och Adobe Document Cloud
+description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Standardsupport omfattar tillgång dygnet runt till våra supportresurser för självhjälp, inklusive artiklar på HelpX och dialog med andra kunder på Adobe Community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: tm+mt
-source-wordcount: '729'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '777'
+ht-degree: 100%
 
 ---
 
-# Standard Support för Creative Cloud och Adobe Document Cloud
+# Standardsupport för Creative Cloud och Adobe Document Cloud
 
-![icon](assets/StandardBanner.png)
+![ikon](assets/StandardBanner.png)
 
-Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Standardsupporten inkluderar dygnet runt-tillgång till våra självhjälpsresurser, inklusive artiklar om HelpX och interaktion med andra kunder i Adobe Community.
+Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Standardsupport omfattar tillgång dygnet runt till våra supportresurser för självhjälp, inklusive artiklar på HelpX och dialog med andra kunder på Adobe Community.
 
-Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsinformation som publiceras på <http://www.adobe.com>. Vår standardsupport inkluderar även åtkomst dygnet runt, alla dagar för auktoriserade användare (administratörer) till våra supportteam via chatt eller telefon, samt möjlighet att logga förfrågningar om hjälp via vår supportwebbportal.
+Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsinformation som publiceras på <http://www.adobe.com>. Vår standardsupport omfattar även dygnet runt-åtkomst för behöriga användare (administratörer) till våra tekniska supportteam via chatt eller telefon samt möjligheten att logga förfrågningar om hjälp via vår supportwebbportal.
 
-[Visa PDF version](assets/DMeStandardSupportDatasheet_2022.pdf)
+[Visa PDF-version](assets/DMeStandardSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Standard Support</th>
+    <th>Standardsupport</th>
     <th>Företagssupport</th>
-    <th>Enterprise Support</th>
-    <th>Elitstöd</th>
+    <th>Företagssupport</th>
+    <th>Elite-support</th>
   </tr>
 </thead>
 <tbody>
@@ -39,7 +39,7 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
   </tr>
   <tr>
     <td rowspan="3">Tilldelade experter<br></td>
-    <td>Kontosupportlead</td>
+    <td>Supportansvarig</td>
     <td></td>
     <td>✔</td>
     <td></td>
@@ -53,7 +53,7 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technical Account Manager</td>
+    <td>Teknisk kontoansvarig</td>
     <td></td>
     <td></td>
     <td></td>
@@ -61,7 +61,7 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
   </tr>
   <tr>
     <td rowspan="17">Supporttjänster</td>
-    <td>Självhjälp dygnet runt</td>
+    <td>Självhjälpssupport dygnet runt</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
@@ -75,14 +75,14 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
     <td>✔</td>
   </tr>
   <tr>
-    <td>Skicka webbärenden</td>
+    <td>Inlämning av webbärenden</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Routning av prioriterat ärende</td>
+    <td>Prioriterad hantering av ärenden</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
@@ -117,28 +117,28 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
     <td>✔</td>
   </tr>
   <tr>
-    <td>Servicerecensioner</td>
+    <td>Granskningar av tjänster</td>
     <td></td>
     <td></td>
     <td>2/år</td>
     <td>4/år</td>
   </tr>
   <tr>
-    <td>Ärendegranskningar</td>
+    <td>Granskningar av ärenden</td>
     <td></td>
     <td></td>
     <td>1/månad</td>
     <td>2/månad</td>
   </tr>
   <tr>
-    <td>Lösningsgranskning</td>
+    <td>Granskning av lösning</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Granska färdplan</td>
+    <td>Granskning av plan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -152,21 +152,21 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
     <td>✔</td>
   </tr>
   <tr>
-    <td>Upgrade/Migration Planning</td>
+    <td>Planering av uppgradering/migrering</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Utgivningsförberedelser och planering</td>
+    <td>Versionsförberedelser och planering</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Executive Sponsor</td>
+    <td>Verkställande sponsor</td>
     <td></td>
     <td></td>
     <td></td>
@@ -175,34 +175,34 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
 </tbody>
 </table>
 
-## Servicenivåmål: Inledande svar {#service-level-targets}
+## Mål för tjänstenivå: inledande svar {#service-level-targets}
 
 <table>
 <thead>
   <tr>
     <th>Prioritet</th>
-    <th>Standard Support</th>
+    <th>Standardsupport</th>
     <th>Företagssupport</th>
-    <th>Enterprise Support</th>
-    <th>Elitstöd</th>
+    <th>Företagssupport</th>
+    <th>Elite-support</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong>PRIORITET 1</strong><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet.</td>
+    <td><strong>Prioritet 1</strong><br>Kundens produktionsfunktioner i företaget är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet.</td>
     <td>24x7/<br>30 minuter</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendedirigering som snabbspårar ärenden till supportingenjörer på Adobe.</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendedirigering som påskyndar ärenden till Adobes supporttekniker.</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 2</strong><br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion.</td>
-    <td>24x7/<br>1 timme</td>
+    <td><strong>Prioritet 2</strong><br>Kundens företagsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion.</td>
+    <td>Dygnet runt/<br>1 timme</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 3</strong><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt.</td>
+    <td><strong>Prioritet 3</strong><br>Kundens företagsfunktioner försämras i mindre grad men det finns en lösning som gör att företagsfunktionerna kan fortsätta normalt.</td>
     <td>Arbetsdag/<br>4 timmar</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 4</strong><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring.</td>
+    <td><strong>Prioritet 4</strong><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring.</td>
     <td>Arbetsdag/<br>1 dag</td>
   </tr>
 </tbody>
@@ -212,16 +212,16 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
 &nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
 -->
 
-## Standard Support {#standard-support-options}
+## Standardsupport {#standard-support-options}
 
-Adobe kundsupport ger tillgång till resurser för dokumentation och samarbete med andra experter och kunder för bästa praxis. Flera kanaler finns också tillgängliga för frågor och ärendeinlämning
+Adobes kundsupport ger tillgång till resurser för dokumentation och samarbete med andra experter och kunder för bästa praxis. Flera kanaler finns också tillgängliga för frågor och ärendeinlämning
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <img alt="Forum" src="assets/community-forums-icon.png"/>
     <div>
-    <p><b>Community-forum</b></p>
+    <p><b>Användarforum</b></p>
     <p>Kontinuerlig tillgång online till en växande databas med tekniska lösningar, produktdokumentation, frågor och svar med mera. Håll kontakt med yrkesverksamma och andra kunder i Adobe Community för att dela med dig av bästa praxis och lärdomar.</p>
     </div>
   </td>
@@ -229,31 +229,31 @@ Adobe kundsupport ger tillgång till resurser för dokumentation och samarbete m
     <img alt="Självhjälp" src="assets/dme-selfhelp.png"/>
     <div>
     <p><b>Självhjälpsportal</b></p>
-    <p>On-demand-åtkomst till självhjälp-supportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
+    <p>Åtkomst på begäran till självhjälpssupportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Stöd för chatt live" src="assets/dmechat.png"/>
+    <img alt="Support för livechatt" src="assets/dmechat.png"/>
     <div>
     <p><b>Chattsupport</b></p>
     <p>Auktoriserade användare (administratörer) kan starta en chattsession med Adobe Support för att få svar och hjälp med att skicka in ärenden</p>
-    <p><i>Reservation för lokal tid.</i></p>
+    <p><i>Med förbehåll för lokala öppettider.</i></p>
     </div>
   </td>
   <td>
     <img alt="Telefonsupport" src="assets/dmephone.png"/>
     <div>
     <p><b>Telefonsupport</b></p>
-    <p>Auktoriserade användare (administratörer) kan ringa supporten till Adobe via telefon för att få svar och hjälp med att skicka in ärenden.</p>
-    <p><i>Reservation för lokal tid.</i></p>
+    <p>Auktoriserade användare (administratörer) kan ringa till Adobe Support via telefon för att få svar och hjälp med att skicka in ärenden.</p>
+    <p><i>Med förbehåll för lokala öppettider.</i></p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Webbärende" src="assets/dmewebcase.png"/>
+    <img alt="Webbärenden" src="assets/dmewebcase.png"/>
     <div>
     <p><b>Inlämning av webbärende</b></p>
     <p>Auktoriserade användare (administratörer) kan när som helst skicka in ett obegränsat antal webbärenden för supportärenden som kan granskas av vårt supportteam.</p>
@@ -266,16 +266,16 @@ Adobe kundsupport ger tillgång till resurser för dokumentation och samarbete m
 
 | Resurs | Beskrivning |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
-| [Adobe Support Community](https://community.adobe.com/) | På Adobe Support Community kan du ställa frågor, hitta svar, lära dig av experter och dela med dig av dina kunskaper. |
-| [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
+| [Experience League](https://experienceleague.adobe.com/?lang=sv#home) | Experience League är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
+| [Adobe Analytics Community](https://community.adobe.com/) | På Adobe Support Community kan du ställa frågor, hitta svar, lära dig av experter och dela med dig av dina kunskaper. |
+| [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
+| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
 {style="table-layout:auto"}
 
-## Regionala öppethållande och språkstöd
+## Regionala öppettider och språkstöd
 
-Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
+Adobes lokala arbetstider anpassas efter kundens faktureringsområde.
 
 <table>
 <thead>
@@ -288,10 +288,10 @@ Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
 </thead>
 <tbody>
   <tr>
-    <td>24x7</td>
-    <td>09:00-17:00</td>
-    <td>09:00-17:00</td>
-    <td>9.00-17.30</td>
+    <td>Dygnet runt</td>
+    <td>09.00–17.00</td>
+    <td>09.00–17.00</td>
+    <td>9.00–17.30</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -301,6 +301,6 @@ Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![ikon](assets/bottom-banner.png)
 
-*Om du vill veta mer om Adobe supporterbjudanden och rätt nivå för dig kontaktar du din namngivna kontohanterare (NAM) eller Customer Success Manager (CSM).*
+*Om du vill veta mer om Adobes supporterbjudanden och rätt nivå för dig kontaktar du din namngivna kontohanterare (NAM) eller Customer Success Manager (CSM).*

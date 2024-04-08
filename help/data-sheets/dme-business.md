@@ -1,11 +1,11 @@
 ---
 title: Business Support för Creative Cloud och Adobe Document Cloud
-description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Detta har förbättrats med BUSINESS support. BUSINESS-support omfattar prioriterad dirigering för supportärenden för att säkerställa en snabbare anslutning till högre supportresurser i inskickade ärenden.
+description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Detta har förbättrats med Business Support-planen. Business Support omfattar prioriterad dirigering av supportärenden för att säkerställa snabbare anslutning till mer erfarna supportresurser för inlämnade ärenden.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: tm+mt
-source-wordcount: '812'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '830'
+ht-degree: 100%
 
 ---
 
@@ -13,18 +13,18 @@ ht-degree: 1%
 
 ![icon](assets/Businessbanner.png)
 
-Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag att ingå i din företagsprenumeration på Adobe. Detta har förbättrats med BUSINESS support. BUSINESS-support omfattar prioriterad dirigering för supportärenden för att säkerställa en snabbare anslutning till högre supportresurser i inskickade ärenden.
+Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Detta har förbättrats med Business Support-planen. Business Support omfattar prioriterad dirigering av supportärenden för att säkerställa snabbare anslutning till mer erfarna supportresurser för inlämnade ärenden.
 
-Företagskunder har också tillgång till våra tekniska supportteam för alla produktfrågor via telefonen eller supportwebbportalen, vilket hjälper till att skydda ditt företag vid de mest kritiska tidpunkterna. BUSINESS-kunder kan utnyttja sin kundsupportlead för eskaleringshantering för supportärenden för att få regelbunden kommunikation och uppdateringar för de mest kritiska supportärendena.
+Företagskunder har också tillgång till våra tekniska supportteam för alla produktfrågor via telefonen eller supportwebbportalen, vilket hjälper till att skydda ditt företag vid de mest kritiska tidpunkterna. Business-kunder kan utnyttja sin kontosupportansvarige för eskaleringshantering för supportärenden för att få regelbunden kommunikation och uppdateringar för de mest kritiska supportärendena.
 
-[Visa PDF version](assets/DMeBusinessSupportDatasheet_2022.pdf)
+[Visa PDF-version](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Standard Support</th>
+    <th>Standardsupport</th>
     <th>Företagssupport</th>
   </tr>
 </thead>
@@ -37,7 +37,7 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
   </tr>
   <tr>
     <td rowspan="3">Tilldelade experter<br></td>
-    <td>Kontosupportlead</td>
+    <td>Supportansvarig</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -47,13 +47,13 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <td></td>
   </tr>
   <tr>
-    <td>Technical Account Manager</td>
+    <td>Teknisk kontoansvarig</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="17">Supporttjänster</td>
-    <td>Självhjälp dygnet runt</td>
+    <td>Självhjälpssupport dygnet runt</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
@@ -63,12 +63,12 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <td>✔</td>
   </tr>
   <tr>
-    <td>Skicka webbärenden</td>
+    <td>Inlämning av webbärenden</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Routning av prioriterat ärende</td>
+    <td>Prioriterad hantering av ärenden</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -93,22 +93,22 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <td></td>
   </tr>
   <tr>
-    <td>Servicerecensioner</td>
+    <td>Granskningar av tjänster</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ärendegranskningar</td>
+    <td>Granskningar av ärenden</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Lösningsgranskning</td>
+    <td>Granskning av lösning</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Granska färdplan</td>
+    <td>Granskning av plan</td>
     <td></td>
     <td></td>
   </tr>
@@ -118,51 +118,51 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <td></td>
   </tr>
   <tr>
-    <td>Upgrade/Migration Planning</td>
+    <td>Planering av uppgradering/migrering</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Utgivningsförberedelser och planering</td>
+    <td>Versionsförberedelser och planering</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Executive Sponsor</td>
+    <td>Verkställande sponsor</td>
     <td></td>
     <td></td>
   </tr>
 </tbody>
 </table>
 
-## Servicenivåmål: Inledande svar
+## Mål för tjänstenivå: inledande svar
 
 <table>
 <thead>
   <tr>
     <th>Prioritet</th>
-    <th>Standard Support</th>
+    <th>Standardsupport</th>
     <th>Företagssupport</th>
-    <th>Enterprise Support</th>
-    <th>Elitstöd</th>
+    <th>Företagssupport</th>
+    <th>Elite-support</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong>PRIORITET 1</strong><br>Kundens produktionsfunktioner är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet.</td>
-    <td>24x7/<br>30 minuter</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendedirigering som snabbspårar ärenden till supportingenjörer på Adobe.</td>
+    <td><strong>PRIORITET 1</strong><br>Kundens affärsfunktioner för produktion är nere eller har betydande dataförluster eller försämrad prestanda och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet.</td>
+    <td>Dygnet runt/<br>30 minuter</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendehantering som snabbar på ärenden till Adobes supporttekniker.</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 2</strong><br>Kundens affärsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion.</td>
-    <td>24x7/<br>1 timme</td>
+    <td><strong>Prioritet 2</strong><br>Kundens företagsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion.</td>
+    <td>Dygnet runt/<br>1 timme</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 3</strong><br>Kundens affärsfunktioner försämras i mindre grad men det finns en lösning/lösning som gör att affärsfunktionerna kan fortsätta normalt.</td>
+    <td><strong>Prioritet 3</strong><br>Kundens företagsfunktioner försämras i mindre grad men det finns en lösning som gör att de kan fortsätta normalt.</td>
     <td>Arbetsdag/<br>4 timmar</td>
   </tr>
   <tr>
-    <td><strong>PRIORITET 4</strong><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring.</td>
+    <td><strong>Prioritet 4</strong><br>Allmän fråga om aktuell produktfunktionalitet eller en begäran om förbättring.</td>
     <td>Arbetsdag/<br>1 dag</td>
   </tr>
 </tbody>
@@ -173,21 +173,21 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Kontosupportlead" src="assets/dmeaccountsupportlead.png"/>
+    <img alt="Supportansvarig" src="assets/dmeaccountsupportlead.png"/>
     <div>
-    <p><b>Kontosupportlead</b></p>
-    <p>En tilldelad kontosupport leder till att du kan övervaka ärendets förlopp och fungera som eskaleringspunkt och en intern supporttjänst i Adobe Support.</p>
+    <p><b>Supportansvarig</b></p>
+    <p>En utseddkontosupportansvarig som övervakar ärendets utveckling och fungerar som din eskaleringspunkt och interna förespråkare inom Adobe Support.</p>
     </div>
   </td>
   <td>
-    <img alt="Routning av prioriterat ärende" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Prioriterad hantering av ärenden" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Routning av prioriterat ärende</b></p>
-    <p>Få prioriterad routning för att säkerställa snabbare anslutning till mer erfarna supportresurser i inskickade ärenden.</p>
+    <p><b>Prioriterad hantering av ärenden</b></p>
+    <p>Få prioriterad dirigering för snabbare anslutning till mer erfarna supportresurser för inlämnade ärenden.</p>
     </div>
   </td>
   <td>
-    <img alt="Excalation Management" src="assets/dmeescalationmanagement.png"/>
+    <img alt="Eskaleringshantering" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>Eskaleringshantering</b></p>
     <p>En utsedd kontaktpunkt i Adobe som kan tillhandahålla eskaleringshjälp, regelbundna uppdateringar och se till att dina viktigaste öppna supportförfrågningar prioriteras.</p>
@@ -199,20 +199,20 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <img alt="Snabbare prioritering av ärenden" src="assets/dmeacceleratedissue.png"/>
     <div>
     <p><b>Snabbare prioritering av ärenden</b></p>
-    <p>Få högre prioritet över supportärenden genom att underlätta kontakten med tekniker.</p>
+    <p>Få högre prioritet för supportärenden tack vare förenklat samarbete med teknikavdelningen.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Standard Support Features
+## Standardsupportfunktioner
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <img alt="Forum" src="assets/community-forums-icon.png"/>
     <div>
-    <p><b>Community-forum</b></p>
+    <p><b>Användarforum</b></p>
     <p>Kontinuerlig tillgång online till en växande databas med tekniska lösningar, produktdokumentation, frågor och svar med mera. Håll kontakt med yrkesverksamma och andra kunder i Adobe Community för att dela med dig av bästa praxis och lärdomar.</p>
     </div>
   </td>
@@ -220,31 +220,31 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
     <img alt="Självhjälp" src="assets/dme-selfhelp.png"/>
     <div>
     <p><b>Självhjälpsportal</b></p>
-    <p>On-demand-åtkomst till självhjälp-supportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
+    <p>Åtkomst på begäran till självhjälpssupportportalen online där du kan skicka in supportförfrågningar, granska ärendestatus och bläddra bland andra resurser, som vår kunskapsbas, nyheter och aviseringar, funktionsbeskrivningar med mera.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Stöd för chatt live" src="assets/dmechat.png"/>
+    <img alt="Support för livechatt" src="assets/dmechat.png"/>
     <div>
     <p><b>Chattsupport</b></p>
     <p>Auktoriserade användare (administratörer) kan starta en chattsession med Adobe Support för att få svar och hjälp med att skicka in ärenden</p>
-    <p><i>Reservation för lokal tid.</i></p>
+    <p><i>Med förbehåll för lokala öppettider.</i></p>
     </div>
   </td>
   <td>
     <img alt="Telefonsupport" src="assets/dmephone.png"/>
     <div>
     <p><b>Telefonsupport</b></p>
-    <p>Auktoriserade användare (administratörer) kan ringa supporten till Adobe via telefon för att få svar och hjälp med att skicka in ärenden.</p>
-    <p><i>Reservation för lokal tid.</i></p>
+    <p>Auktoriserade användare (administratörer) kan ringa till Adobe Support via telefon för att få svar och hjälp med att skicka in ärenden.</p>
+    <p><i>Med förbehåll för lokala öppettider.</i></p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Webbärende" src="assets/dmewebcase.png"/>
+    <img alt="Webbärenden" src="assets/dmewebcase.png"/>
     <div>
     <p><b>Inlämning av webbärende</b></p>
     <p>Auktoriserade användare (administratörer) kan när som helst skicka in ett obegränsat antal webbärenden för supportärenden som kan granskas av vårt supportteam.</p>
@@ -257,16 +257,16 @@ Företagskunder har också tillgång till våra tekniska supportteam för alla p
 
 | Resurs | Beskrivning |
 |--- |--- |
-| [Utbildning och support för företag](https://helpx.adobe.com/enterprise.html) | Enterprise Learn &amp; Support är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
+| [Enterprise Learn &amp; Support](https://helpx.adobe.com/se/enterprise.html) | Enterprise Learn &amp; Support är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
 | [Adobe Support Community](https://community.adobe.com/) | På Adobe Support Community kan du ställa frågor, hitta svar, lära dig av experter och dela med dig av dina kunskaper. |
-| [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com visar hälsoinformation för alla Adobe-produkter och -tjänster som distribueras i multi-tenant-miljöer. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och närmare information om supporttjänster. |
+| [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
+| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
 {style="table-layout:auto"}
 
-## Regionala öppethållande och språkstöd
+## Regionala öppettider och språkstöd
 
-Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
+Adobes lokala arbetstider anpassas efter kundens faktureringsområde.
 
 <table>
 <thead>
@@ -279,10 +279,10 @@ Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
 </thead>
 <tbody>
   <tr>
-    <td>24x7</td>
-    <td>09:00-17:00</td>
-    <td>09:00-17:00</td>
-    <td>9.00-17.30</td>
+    <td>Dygnet runt</td>
+    <td>09.00–17.00</td>
+    <td>09.00–17.00</td>
+    <td>9.00–17.30</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -292,6 +292,6 @@ Adobe:s lokala arbetstider anpassas efter kundens faktureringsområde.
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![ikon](assets/bottom-banner.png)
 
 *Om du vill veta mer om Adobe supporterbjudanden och rätt nivå för dig kontaktar du din namngivna kontohanterare (NAM) eller Customer Success Manager (CSM).*
