@@ -3,10 +3,10 @@ user-guide-title: Resurser för framgångsplaner
 user-guide-description: Framgångsplaner och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: dcfa9fc647a8f0f302b0e747d701e53c7b589c12
+source-git-commit: b3905086f43e39304a7a2675575a8574e3157d52
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 95%
+source-wordcount: '103'
+ht-degree: 90%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 95%
 # Resurser för framgångsplaner {#data-sheets}
 
 + [Översikt över Adobes framgångsplaner](overview.md)
++ The Crux Podcast{#crux-podcast}
+   + [Ep.1 - Billy Georgaros](episode1.md)
 + Adobe Support-planer före den 16 juni 2022{#prior-plans}
    + [Översikt över tidigare Adobe Support-planer](overview-prior-plans.md)
    + Experience Cloud-tjänster {#data-sheets}
