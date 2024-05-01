@@ -3,10 +3,10 @@ user-guide-title: Resurser för framgångsplaner
 user-guide-description: Framgångsplaner och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 84d3ad629fc207c38400fc15416809c6edbe891c
+source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 89%
+source-wordcount: '116'
+ht-degree: 86%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 89%
 + [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Dold översikt](hidden-overview.md)
 + [Dolt nytt test](hidden-new-test.md)
++ [Dolt nytt test 2](hidden-new-test-2.md)
 + [Dold testfil](hidden-test.md)
 + [Dolda felkorrigeringar](hidden/bug-fixes.md)
 + [Dold EDS-testruta](hidden/test-page.md)
