@@ -4,10 +4,10 @@ description: Testsida för intern testning
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 25%
+source-wordcount: '1926'
+ht-degree: 24%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 25%
 ## Automatisk aktiveringsprovning
 
 De här buggarna bör åtgärdas.
+
+## UGP-10866 Länkar som inte är fet i skuggrutor
+
+>[!BEGINSHADEBOX]
+
+**Innehållsförteckning**
+
+* [Kom igång med AI-assistenten](note-test.md)
+* **[E-postgenerering med AI-assistenten](syntax-style-guide.md)**
+* [SMS-generering med AI-assistenten](test-page.md)
+* [Push-generering med AI Assistant](tables.md)
+* [Experimentera med AI-assistenten](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Ingen skuggningsruta
+
+**Innehållsförteckning**
+
+* [Kom igång med AI-assistenten](note-test.md)
+* **[E-postgenerering med AI-assistenten](syntax-style-guide.md)**
+* [SMS-generering med AI-assistenten](test-page.md)
+* [Push-generering med AI Assistant](tables.md)
+* [Experimentera med AI-assistenten](test-redirection.md)
+
 
 ## Inline-emblem för UGP-10584 fungerar inte
 
