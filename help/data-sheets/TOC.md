@@ -4,9 +4,9 @@ user-guide-description: Framgångsplaner och supportresurser för Adobe Experien
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 81%
 
 + [Översikt över Adobes framgångsplaner](overview.md)
 + The Crux Podcast{#crux-podcast}
-   + [Ep.1 - Billy Georgaros](episode1.md)
-     [Ep.2 - Karrie Benjamin](episode2.md)
-     [Ep.3 - George Kotsinis](episode3.md)
-     [Ep.4 - Jessica Ouellette](episode4.md)
-     [Ep.5 - Corey Blackburn](episode5.md)
+   + [Avsn. 1 – Billy Georgaros](episode1.md)
+     [Avsn. 2 – Karrie Benjamin](episode2.md)
+     [Avsn. 3 – George Kotsinis](episode3.md)
+     [Avsn. 4 – Jessica Ouellette](episode4.md)
+     [Avsn. 5 – Corey Blackburn](episode5.md)
 + Adobe Support-planer före den 16 juni 2022{#prior-plans}
    + [Översikt över tidigare Adobe Support-planer](overview-prior-plans.md)
    + Experience Cloud-tjänster {#data-sheets}
