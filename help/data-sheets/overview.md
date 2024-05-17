@@ -2,10 +2,10 @@
 title: Översikt över Adobes framgångsplaner
 description: Den här artikeln ger en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 8ed1a2a189ad715277aa48b578468ad90f8c18cf
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 83%
 
 ---
 
@@ -107,6 +107,41 @@ Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler 
 | Amerika | Europa, Mellanöstern och Afrika | Asien/Stillahavsområdet | Japan |
 |---|---|---|---|
 | 6.00-17.30 | 09.00–17.00 | 09.00–17.00 | 09.00–17.00 |
+
+## Livstid för supportärenden - kommer snart
+
+I den här dokumentationen beskrivs förbättringar av Adobe DX Support-ärendets livscykel i syfte att öka kommunikationen och tillhandahålla lösningar för kunder så snabbt som möjligt för att säkerställa att kunderna lyckas. Nedan visas tidslinjer och meddelanden för olika scenarier som påträffats under supportprocessen:
+
+**Påminnelser om uppföljning av ärenden**
+
+| Meddelande | Ärendestatus | Tidsinställning för meddelanden | Dagar till stängningsstatus |
+|--- |--- |--- |--- |
+| **1:a** | Väntande svar eller lösning har angetts | 24 timmar/1 dag | 5 dagar |
+| **2:a** | Väntande svar eller lösning har angetts | 72 timmar/3 dagar | 3 dagar |
+| **3:e** | Väntande svar eller lösning har angetts | 120 timmar/5 dagar | 1 dag |
+| **4:e** | Väntande svar eller upplösning har ändrats till &quot;Automatiskt stängd&quot; | 14 timmar/6 dagar | stängd |
+
+**Detaljerade scenarier**
+
+**Ytterligare information krävs från en kund**
+
+I det här scenariot utförs följande steg när ytterligare information krävs från en kund:
+
+* Teknikern skickar en uppdatering som begär information och ärendestatusen är inställd på Väntande svar.
+* Den 1, 3 och 5 dagen efter att statusen är inställd på &quot;Väntande svar&quot; skickas uppföljningsmeddelanden till kunden som begär ytterligare information.
+* Om kunden inte svarar inom 6 dagar efter att statusen hade angetts till Väntande svar, stängs ärendet och ett stängningsmeddelande skickas.
+
+Kunderna kan öppna ett stängt ärende på nytt inom 14 dagar för att fortsätta kommunicera. Efter 14 dagar kan ett nytt supportärende öppnas för att fortsätta kommunikation i samband med ett tidigare stängt ärende.
+
+**Teknikern tillhandahåller en lösning**
+
+I det här scenariot, när en tekniker erbjuder en lösning, utförs följande steg:
+
+* Teknikern skickar en uppdatering med en föreslagen lösning och ärendestatusen är inställd på&quot;Upplösning tillhandahålls&quot;.
+* Den 1, 3 och 5 dagen efter att statusen är inställd på &quot;Upplösning tillhandahålls&quot; skickas uppföljningsmeddelanden till kunden som ber om bekräftelse på den angivna lösningen.
+* Om kunden inte svarar inom 6 dagar efter att statusen hade angetts till&quot;Lösning tillhandahållen&quot;, stängs ärendet och ett stängningsmeddelande skickas.
+
+Kunderna kan öppna ett stängt ärende på nytt inom 14 dagar för att fortsätta kommunicera. Efter 14 dagar kan ett nytt supportärende öppnas för att fortsätta kommunikation i samband med ett tidigare stängt ärende.
 
 ## Ytterligare villkor för Adobe Commerce på Managed Services (tidigare Magento Commerce Pro: Managed Services)
 
