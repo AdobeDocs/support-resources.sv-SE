@@ -4,10 +4,10 @@ description: Den här sidan är dold för sökning och från innehållsförteckn
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
+source-git-commit: 43bc074148c66e460d999a73914be560921a8233
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 30%
+source-wordcount: '63'
+ht-degree: 36%
 
 ---
 
@@ -28,3 +28,5 @@ ht-degree: 30%
 ## Nytt avsnitt
 
 Jag klickar inte på Publicera nu, så om du ser detta så aktiveras funktionen automatiskt.
+
+22 maj 2024 2:14 PM PT
