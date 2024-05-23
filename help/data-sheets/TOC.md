@@ -3,10 +3,10 @@ user-guide-title: Resurser för framgångsplaner
 user-guide-description: Framgångsplaner och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 100%
      [Avsn. 3 – George Kotsinis](episode3.md)
      [Avsn. 4 – Jessica Ouellette](episode4.md)
      [Avsn. 5 – Corey Blackburn](episode5.md)
+     [Ep.6 - Kelly Oja](episode6.md)
+     [Ep.7 - Chris Diaz](episode7.md)
 + Adobe Support-planer före den 16 juni 2022{#prior-plans}
    + [Översikt över tidigare Adobe Support-planer](overview-prior-plans.md)
    + Experience Cloud-tjänster {#data-sheets}
