@@ -4,9 +4,9 @@ user-guide-description: Framgångsplaner och supportresurser för Adobe Experien
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
      [Ep.6 – Kelly Oja](episode6.md)
      [Ep.7 – Chris Diaz](episode7.md)
      [Ep.8 – Vincent Lee](episode8.md)
-     [Ep.9 - Ren Wightman](episode9.md)
+     [Avsn. 9 – Ren Wightman](episode9.md)
 + Adobe Support-planer före den 16 juni 2022{#prior-plans}
    + [Översikt över tidigare Adobe Support-planer](overview-prior-plans.md)
    + Experience Cloud-tjänster {#data-sheets}
@@ -39,7 +39,7 @@ ht-degree: 97%
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Dold översikt](hidden-overview.md)
 + [Dolt nytt test](hidden-new-test.md)
 + [Dolt nytt test 2](hidden-new-test-2.md)
