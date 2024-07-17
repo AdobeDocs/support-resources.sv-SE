@@ -3,7 +3,8 @@ description: Ansluta till Widget-Datan Warehouse - produktdokumentation
 title: Ansluta till Widget-Datan Warehouse
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 ## Nytt test
 
-<ol><li>Använd `{{name}}`-variabel.</li></ol>
+<ol><li>Använd variabeln {{name}}.</li></ol>
 
-<ol><li>Använd &amp;klammerparentes;<code>name</code>&amp;rbrace;&amp;rbrace; variabel.</li></ol>
+<ol><li>Använd variabeln &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Kapslat test
 
@@ -45,11 +46,11 @@ ht-degree: 0%
 
 Om du vill komma åt ditt Widget-datalager måste du navigera till den specifika URL:en för ditt Widget-konto.  Du hittar den här länken genom att logga in på Marketo Measure och följa stegen nedan för att navigera till informationssidan för Data Warehouse.
 
-1. I Marketo Measure klickar du på **Mitt konto** > **Inställningar**.
+1. Klicka på **Mitt konto** > **Inställningar** längst upp på sidan i Marketo Measure.
 
    ![](assets/adobe-logo-old.png)
 
-1. På den vänstra menyn under Dokumentskydd klickar du på **Data Warehouse**.
+1. Klicka på **Data Warehouse** under Dokumentskydd på den vänstra menyn.
 
    ![](assets/adobe-logo-old.png)
 
@@ -123,7 +124,7 @@ För att Marketo Measure ska kunna konfigurera en direktdelning måste kontot so
 
 **Åtkomst till resursen**
 
-När resursen har skapats för konto-ID:t måste du slutföra [konfigurationssteg](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} i Widget-instansen för att komma åt data.
+När resursen har skapats för det konto-ID som anges måste du slutföra [konfigurationsstegen](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} i Widget-instansen för att komma åt data.
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Mer detaljerade instruktioner och steg för att utföra dessa steg från widgetens användargränssnitt finns i [Dokumentation för widget direkt](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Mer detaljerade instruktioner och steg för att utföra de här stegen från widgetgränssnittet finns i [dokumentationen för widgeten direkt](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.

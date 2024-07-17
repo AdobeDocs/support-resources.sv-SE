@@ -7,7 +7,7 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
 source-wordcount: '1926'
-ht-degree: 24%
+ht-degree: 23%
 
 ---
 
@@ -48,7 +48,7 @@ Dessa märken ska ligga på samma rad som punkterna.
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Anteckningar]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tabeller]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntaxstilguide]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guide för syntaxformat]{type=Positive}
 
 ## UGP-10560 - emblem i fällningar som kan komprimeras
 
@@ -60,9 +60,9 @@ _13 feb 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Produktvideor stöds nu av katalogtjänstens API.
-![Korrigera](assets/package.png) Stöd finns nu för paketprodukter med fasta priser.
-![Korrigera](assets/package.png) Alternativ utanför lagret visas nu i PDP-widgeten.
+![Nya](assets/package.png) produktvideor stöds nu av katalogtjänstens API.
+![Åtgärda](assets/package.png) Paket med fasta priser stöds nu.
+![Korrigera](assets/package.png) Utmediefiler visas nu i PDP-widgeten.
 
 #### Kända begränsningar
 
@@ -83,9 +83,9 @@ _12 oktober 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Katalogtjänsten stöder `inStock` för produktvarianter.
-![Nytt](assets/package.png) `urlKey` och `externalId` har lagts till i GraphQL schema.
-![Nytt](assets/package.png) Nu finns det stöd för nedladdningsbara produkter och presentkort.
+![Ny](assets/package.png) katalogtjänst stöder flaggan `inStock` för produktvarianter.
+![Nytt](assets/package.png) `urlKey` och `externalId` har lagts till i GraphQL-schemat.
+![Nya](assets/package.png) hämtningsbara produkter och presentkort stöds nu.
 
 ### Version V1.12
 
@@ -102,7 +102,7 @@ _18 juli 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Katalogtjänsten har nu stöd för [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL query for Product Recommendations.
+![Ny](assets/package.png) katalogtjänst har nu stöd för GraphQL-frågan [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) för Recommendations.
 
 ### Version V1.10
 
@@ -110,7 +110,7 @@ _27 juni 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Katalogtjänstens API har nu stöd för&quot;relaterade produkter&quot;.
+![Nytt](assets/package.png) API för katalogtjänst har nu stöd för relaterade produkter.
 
 ### Version V1.7
 
@@ -118,7 +118,7 @@ _12 april 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Katalogtjänsten rensar nu borttagna produktvarianter.
+![Ny](assets/package.png) katalogtjänst rensar nu bort produktvarianter som tagits bort.
 ![Korrigera](assets/package.png) Infrastrukturskalbarhet och prestandaförbättringar.
 
 ### Version V1.6
@@ -127,7 +127,7 @@ _28 mars 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Lagt till färgrutor i [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) fråga.
+![Nya](assets/package.png) tillagda färgrutor i frågan [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/).
 ![Nytt](https://www.adobe.com).
 
 ### Version V1.5
@@ -136,7 +136,7 @@ _6 mars 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Tillagd [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL funktionalitet.
+![Ny](assets/package.png) tillagd [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL-funktionalitet.
 ![Korrigera](assets/package.png) Förbättrade prestanda och API-skalbarhet.
 
 ### Version V1.4
@@ -145,8 +145,8 @@ _7 februari 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Publicerat katalogtjänstpaket för att förenkla installationen.
-![Korrigera](assets/package.png) API-skalbarhet och prestandaförbättringar.
+![Nytt](assets/package.png) Katalogtjänstmetapaket har publicerats för att förenkla installationsstegen.
+![Åtgärda](assets/package.png) API-skalbarhet och prestandaförbättringar.
 
 ### Version V1.3
 
@@ -154,10 +154,10 @@ _17 januari 2023_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Förenklad och förbättrad startupplevelse.
-![Nytt](assets/package.png) Nya slutpunkter för kundsandlådor finns tillgängliga för testning före produktion.
-![Nytt](assets/package.png) Stöd tillagt för virtuella produkter.
-![Korrigera](assets/package.png) API-skalbarhet och prestandaförbättringar.
+![Nytt](assets/package.png) Förenklat och förbättrat startupplevelsen.
+![Nya](assets/package.png) slutpunkter för kundsandlådan är tillgängliga för testning före produktion.
+![Nytt](assets/package.png)-stöd har lagts till för virtuella produkter.
+![Åtgärda](assets/package.png) API-skalbarhet och prestandaförbättringar.
 
 ### Version V1.1
 
@@ -165,7 +165,7 @@ _18 november 2022_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Katalogtjänsten har nu stöd för Adobe [API-nät](https://developer.adobe.com/graphql-mesh-gateway/).
+![Ny](assets/package.png) katalogtjänst har nu stöd för Adobe [API Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
 ![Korrigera](assets/package.png) Förbättrad API-skalbarhet och övergripande prestanda.
 
 ### Version V1.0
@@ -174,28 +174,28 @@ _4 oktober 2022_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Nu support för paketerade och grupperade produkter.
-![Nytt](assets/package.png) B2B-synlighetsåsidosättningar har lagts till. Produkterna är nu sökbara och kan läggas till i kundvagnen för specifika kundgrupper.
-![Korrigera](assets/package.png) Tjänsten är nu stabilare och har förbättrat prestandan.
+![Nytt](assets/package.png) Nu stöd för paketerade och grupperade produkter.
+![Ny](assets/package.png) har lagt till åsidosättningar av B2B-synlighet. Produkterna är nu sökbara och kan läggas till i kundvagnen för specifika kundgrupper.
+![Korrigera](assets/package.png)-tjänsten är nu stabilare och har förbättrat prestandan.
 
-### 0.3-versionen - Beta+
+### 0.3-utgåvan - Beta+
 
 _12 september 2022_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) Bilder för variantstöd: produktbilder returneras baserat på de valda alternativen
-![Nytt](assets/package.png) Roller för prissupport: endast medlemmar i specifika kundgrupper kan se priset på produkter
-![Korrigera](assets/package.png) Förbättrad stabilitet och prestanda för tjänsten
-![Nytt](assets/package.png) Uppdateringar tas emot när produkter tas bort från katalogen
+![Nya](assets/package.png) bilder för variantstöd: produktbilder returneras baserat på de valda alternativen
+![Nytt](assets/package.png) Roller för prissupport: Tillåt endast medlemmar i specifika kundgrupper att se priset på produkter
+![Åtgärda](assets/package.png) Förbättrad stabilitet och prestanda för tjänsten
+![Nya](assets/package.png) uppdateringar tas emot när produkter tas bort från katalogen
 
-### Betaversion
+### Beta Release
 
 _9 augusti 2022_
 
 [!BADGE Stöds]{type=Informative tooltip="Stöds"}
 
-![Nytt](assets/package.png) The `products` och `refineProduct` frågor returnerar följande data:
+![Nya](assets/package.png) `products` - och `refineProduct`-frågor returnerar följande data:
 
 * Fördefinierade produktattribut (system).
 * Dynamiska produktattribut och filtrera dem efter roll (produktvisningssida/produktlistsida).
@@ -213,7 +213,7 @@ Se rubriken ovan. Och nästa.
 
 ## Test för autoaktivering
 
-Jag lade till den här på fredag eftermiddag men klickade inte på Publicera nu.
+Jag lade till detta på fredag eftermiddag men klickade inte på Publish Now.
 
 ### [!BADGE Beta]{type=Informative}
 
@@ -229,7 +229,7 @@ Text före `<div class="preview">`
 
 Du kan lägga till inbyggda Workfront-fält i dina anpassade formulär. När det anpassade formuläret bifogas till ett objekt fylls fältet i från objektdata. Fältet Beskrivning i ett anpassat formulär som är kopplat till ett projekt hämtas till exempel i projektbeskrivningen. (Fältet kan visa &quot;Ej tillämpligt&quot; om inga data är tillgängliga.)
 
-1. På skärmens vänstra sida finns **Ursprungligt fält** och dra den till ett avsnitt på arbetsytan.
+1. På skärmens vänstra sida söker du efter **Inbyggt fält** och drar det till ett avsnitt på arbetsytan.
 1. Konfigurera alternativen för det anpassade fältet till höger på skärmen:
 
    <table style="table-layout:auto"> 
@@ -238,7 +238,7 @@ Du kan lägga till inbyggda Workfront-fält i dina anpassade formulär. När det
     <tbody> 
      <tr> 
       <td role="rowheader">Etikett</td> 
-      <td> <p>(Obligatoriskt) Skriv en beskrivande etikett som ska visas ovanför fältet. Du kan när som helst ändra etiketten.</p> <p><b>VIKTIGT</b>: Använd inte specialtecken i den här etiketten. De visas inte korrekt i rapporter.</p> </td> 
+      <td> <p>(Obligatoriskt) Skriv en beskrivande etikett som ska visas ovanför fältet. Du kan när som helst ändra etiketten.</p> <p><b>VIKTIGT</b>: Undvik att använda specialtecken i den här etiketten. De visas inte korrekt i rapporter.</p> </td> 
      </tr> 
      <tr> 
       <td role="rowheader">Namn</td> 
@@ -264,11 +264,11 @@ Du kan lägga till inbyggda Workfront-fält i dina anpassade formulär. När det
     </tbody> 
    </table>
 
-1. Klicka på **Använd** och gå vidare till ett annat avsnitt för att fortsätta skapa formuläret.
+1. Om du vill spara ändringarna klickar du på **Använd** och går vidare till ett annat avsnitt för att fortsätta skapa formuläret.
 
    eller
 
-   Klicka **Spara och stäng**.
+   Klicka på **Spara och stäng**.
 
 </div>
 
@@ -287,7 +287,7 @@ Se även UGP-9780
 </tr>
 <tr> 
     <td role="rowheader">Etikett</td> 
-    <td> <p>(Obligatoriskt) Skriv en beskrivande etikett som ska visas ovanför det anpassade fältet. Du kan när som helst ändra etiketten. Mer information finns i <a href="https://www.adobe.com" class="MCXref xref">Lägga till ett anpassat fält i ett anpassat formulär</a> i den här artikeln.</p> <p><b>VIKTIGT</b>: Använd inte specialtecken i den här etiketten. De visas inte korrekt i rapporter.</p> </td> 
+    <td> <p>(Obligatoriskt) Skriv en beskrivande etikett som ska visas ovanför det anpassade fältet. Du kan när som helst ändra etiketten. Mer information finns i <a href="https://www.adobe.com" class="MCXref xref">Lägga till ett anpassat fält i ett anpassat formulär</a> i den här artikeln.</p> <p><b>VIKTIGT</b>: Undvik att använda specialtecken i den här etiketten. De visas inte korrekt i rapporter.</p> </td> 
     <td>
     <ul>
     <li>Alternativknappar. Mer information finns i <a href="https://www.adobe.com">Lägga till ett anpassat fält i ett anpassat formulär</a> i den här artikeln. (Ingen klass)</li>
@@ -302,36 +302,36 @@ Se även UGP-9780
 
 &quot;span&quot;-taggen fungerar inte så bra i en NOTE (och list)
 
-Information om vilka funktioner som är tillgängliga i den nya kommentarsfunktionen och för vilka objekt finns i [Ny kommentarsfunktion](note-test.md).
+Information om vilka funktioner som är tillgängliga i den nya kommentarsfunktionen och för vilka objekt som finns, finns i [Ny kommentarsfunktion](note-test.md).
 
 1. Gå till det objekt som du vill lägga till ett svar på.
-1. Klicka **Uppdateringar** och klickar sedan på **Kommentar** -fliken för objektet och hitta den kommentar eller det svar som du vill svara på
+1. Klicka på **Uppdateringar** och sedan på fliken **Kommentarer** för objektet och leta reda på kommentaren eller svaret som du vill svara på
 
    eller
 
-   <span class="preview">Klicka på **Alla** tabbtangenten och klicka sedan på **Svara i kommentarer** för att öppna kommentaren på fliken Kommentarer och svara på den. Du kan inte svara på fliken Alla.</span>
+   <span class="preview">Klicka på fliken **Alla** och sedan på **Svara i kommentarer** för att öppna kommentaren på fliken Kommentarer och svara på den. Du kan inte svara på fliken Alla.</span>
 
-1. (Valfritt) Om du vill ta med text från en tidigare uppdatering i ditt svar klickar du på **Mer** i det övre högra hörnet av kommentaren som du vill svara på och klicka sedan på **Offertsvar**. Texten från föregående uppdatering visas i indataområdet, markerat med en lodrät grå linje.
-1. Klicka **Svara**.
+1. (Valfritt) Om du vill ta med text från en tidigare uppdatering i ditt svar klickar du på menyn **Mer** i det övre högra hörnet av kommentaren som du vill svara på och sedan på **Offertsvar** . Texten från föregående uppdatering visas i indataområdet, markerat med en lodrät grå linje.
+1. Klicka på **Svara**.
 
    ![](assets/package.png)
 
-   Du kan se de användare som aktivt deltar i konversationen längst ned i **Lägg till svar...** och du kan lägga till fler eller ta bort de som inte längre är relevanta. Dessa användare, tillsammans med alla användare som prenumererar på objektet, får ett meddelande varje gång en uppdatering eller ett svar görs för objektet. Du kan också tagga fler användare så att de inkluderas i ditt svar.  Om du vill tagga fler användare läser du [Tagga andra för uppdateringar](note-test.md).
+   Du kan se de användare som aktivt deltar i konversationen längst ned i rutan **Lägg till svar..** och du kan lägga till fler eller ta bort de som inte längre är relevanta. Dessa användare, tillsammans med alla användare som prenumererar på objektet, får ett meddelande varje gång en uppdatering eller ett svar görs för objektet. Du kan också tagga fler användare så att de inkluderas i ditt svar.  Mer information om hur du taggar fler användare finns i [Tagga andra för uppdateringar](note-test.md).
 
    >[!TIP]
    >
-   >   Om du vill lägga till fler svar i ett befintligt svar kan du börja skriva i **Lägg till svar ...** eller klicka **Svara** på den ursprungliga kommentaren. Svaret läggs till i slutet av tråden.
+   >   Om du vill lägga till ytterligare svar i ett befintligt svar kan du börja skriva i rutan **Lägg till svar ...** eller klicka på **Svara** på den ursprungliga kommentaren. Svaret läggs till i slutet av tråden.
 
 1. Börja skriva ditt svar och använd eventuella ytterligare alternativ från verktygsfältet RTF. Mer information om hur du använder RTF eller andra uppdateringsfunktioner finns i [Uppdatera arbete](note-test.md).
 
-1. Klicka **Skicka** för att spara svaret.
+1. Klicka på **Skicka** för att spara svaret.
 
-1. (Valfritt) Klicka på **Mer** i det övre högra hörnet av kommentaren som du vill svara på om du vill ha fler alternativ för att hantera svaret. Mer information finns i [Uppdatera arbete](note-test.md).
+1. (Valfritt) Klicka på menyn **Mer** i det övre högra hörnet av kommentaren som du vill svara på om du vill ha fler alternativ för att hantera svaret. Mer information finns i [Uppdatera arbete](note-test.md).
 
 
 ## UGP-10614 - Problemtabeller med bilder
 
-Jag tror att `{width="20"}` parametern orsakar problem i tabeller.
+Jag tror att parametern `{width="20"}` orsakar problem i tabeller.
 
 ## Jämförelse av framgångsplanerna Expert och Ultimate
 

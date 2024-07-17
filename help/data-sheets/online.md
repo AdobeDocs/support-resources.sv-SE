@@ -3,7 +3,7 @@ title: Onlinesupport
 description: Adobe Experience Cloud Online Support Services ger begränsad tillgång till telefonsupport.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 100%
 
@@ -165,7 +165,7 @@ Adobe Experience Cloud Online Support Services ger begränsad tillgång till tel
 | <b>PRIORITET 1</b><br>Kundens affärsfunktioner för produktion är nere eller har betydande dataförluster eller försämrad prestanda och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet. | 24x7/<br>1 timme | 24x7/<br>1 timme | 24x7/<br>30 minuter | 24x7/<br>15 minuter |
 | <b>PRIORITET 2</b><br>Kundens företagsfunktioner har omfattande tjänsteförsämringar eller potentiell dataförlust, eller så påverkas en viktig funktion. | Kontorstid/<br>4 timmar | Kontorstid/<br>2 timmar | 24x5/<br>1 timme | 24x5/<br>30 minuter |
 | <b>PRIORITET 3</b><br>Kundens företagsfunktioner har mindre tjänsteförsämringar men det finns en lösning/workaround som gör att affärsfunktionerna kan fortsätta normalt. | Kontorstid/<br>6 timmar | Kontorstid/<br>4 timmar | Kontorstid/<br>2 timmar | 24x5/<br>1 timme |
-| <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en förbättringsförfrågan. | Affärsdagar/<br>3 dagar | Arbetsdag/<br>1 dag | Arbetsdag/<br>1 dag | Arbetsdag/<br>1 dag |
+| <b>PRIORITET 4</b><br>Allmän fråga om aktuell produktfunktionalitet eller en förbättringsförfrågan. | Arbetsdagar/<br>3 dagar | Arbetsdag/<br>1 dag | Arbetsdag/<br>1 dag | Arbetsdag/<br>1 dag |
 
 {style="table-layout:auto"}
 

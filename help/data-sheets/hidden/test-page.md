@@ -3,10 +3,11 @@ title: Testsida (dold)
 description: Testsida för intern testning
 hide: true
 hidefromtoc: true
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+exl-id: 40a9a186-54c4-409e-8afb-35e8e3c8503f
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '1026'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -16,47 +17,47 @@ Dold testsida
 
 ## Välkommen till AEM EDS!
 
-Publiceringstest
+Publish test
 
 ## Knappar
 
-[Knappstandard](https://www.adobe.com/)
+[Knappen Standard](https://www.adobe.com/)
 
-**[Knapp primär](https://www.adobe.com/)**
+**[Knappen Primär](https://www.adobe.com/)**
 
-_[Knapp sekundär](https://www.adobe.com/)_
+_[Knappen Sekundär](https://www.adobe.com/)_
 
-**_[Knapp - tertiär](https://www.adobe.com/)_**
+**_[Knappen Tertiär](https://www.adobe.com/)_**
 
 ## Bilder (EXLM-412)
 
 ### Bild med hovringstext
 
-![alt text - package.png](assets/package.png "Hovringstext - det här är package.png")
+![alt text - package.png](assets/package.png "Hover text - This is package.png")
 
 ### Zoomningsbara bilder
 
 `![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}`
 
-**Oformaterad**
+**Normal**
 
-![Dive image](assets/maui-dive.jpg "Dykning i Maui"){width=100 zoomable}
+![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}
 
-**Anteckning**
+**Obs!**
 
 >[!NOTE]
 >
 >Klicka på följande bild för att visa en diver:
 >
->![Dive image](assets/maui-dive.jpg "Dykning i Maui"){width=100 zoomable}
+>![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}
 
 **Tabell**
 
 |  | Nummer | Färger |
 |---|---|---|
-| Juanya | 17 | Grön<br>Röd<br>Blå |
-| Maria | 23 | Gul<br>Brun |
-| Bob | 60 | Se bild<br>![Dive image](assets/maui-dive.jpg "Dykning i Maui"){width=100 zoomable} |
+| Juanya | 17 | Grön<br>röd<br>blå |
+| Maria | 23 | Gul<br>brun |
+| Bob | 60 | Se bild<br>![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable} |
 
 {style="table-layout:fixed"}
 
@@ -64,29 +65,29 @@ _[Knapp sekundär](https://www.adobe.com/)_
 
 width=200 (jämför med tabellen nedan)
 
-![alt-text](assets/maui-dive.jpg "width = 200"){width=200}
+![Alt-text](assets/maui-dive.jpg "width = 200"){width=200}
 
 width=50% (jämfört med tabellen nedan)
 
-![alt-text](assets/maui-flip.jpg "width = 50%"){width=50%}
+![Alt-text](assets/maui-flip.jpg "width = 50%"){width=50%}
 
-### Testning av figursättning ![alt-text](assets/package.png "högerjusterad"){align="right"}
+### Figursättningstestning ![alternativ text](assets/package.png "högerjusterad"){align="right"}
 
 **Ingen justering**
 
-![alt-text](assets/maui-dive.jpg "width = 100"){width=100} Att klippa sig i Maui är inte så svårt som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad.
+![Alt-text](assets/maui-dive.jpg "width = 100"){width=100} Det är inte så svårt att klippa i Maui som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad.
 
 **Högerjustera**
 
-Att klippa sig i Maui är inte så svårt som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad. ![alt-text](assets/maui-dive.jpg "Högerjustera med 100 bredder"){width="100" align="right"}
+Att klippa sig i Maui är inte så svårt som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad. ![Alt-text](assets/maui-dive.jpg "Högerjustera med 100 bredd"){width="100" align="right"}
 
 **Vänsterjustera**
 
-![alt-text](assets/maui-dive.jpg "100-bredds vänsterjustering"){width="100" align="left"} Att klippa sig i Maui är inte så svårt som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad.
+![Alt-text](assets/maui-dive.jpg "100 width left align"){width="100" align="left"} Cliff diving in Maui är inte så svårt som man tror. Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad.
 
 **Justera utåt åt höger**
 
-Att klippa sig i Maui är inte svårt. ![alt-text](assets/maui-dive.jpg "Högerjustera med 100 bredder"){width="100" align="right"}
+Att klippa sig i Maui är inte svårt. ![Alt-text](assets/maui-dive.jpg "Högerjustera med 100 bredd"){width="100" align="right"}
 
 Det finns fyra steg för att göra en dyva och fem steg för att göra en säker dyva. Börja med att hoppa bort från klippan och omedelbart förlänga armarna och peka på tårna. Det här är kamerans attityd. För det andra kan du föra över kroppen till en rimlig landningsposition. Det kan se ut som panik, men det är bara en känslomässig justering. För det tredje, stänk på ett sätt som inte skadar din kropp. För det fjärde: Visa upp som om du gjort det här en miljon gånger och är lite uttråkad.
 
@@ -95,21 +96,21 @@ Det finns fyra steg för att göra en dyva och fem steg för att göra en säker
 
 Normal
 
-![alt-text](assets/package.png "hovringstext för ikon")
+![Alt-text](assets/package.png "hovringstext för ikon")
 
 Justera nedåt åt åt höger
 
-![alt-text](assets/package.png "align=right"){align="right"}
+![Alt-text](assets/package.png "align=right"){align="right"}
 
-Högerjustera ![alt-text](assets/package.png "align=right"){align="right"}
+Högerjustera ![alternativ text](assets/package.png "align=right"){align="right"}
 
 mittbredd = 250
 
-![alt-text](assets/maui-dive.jpg "align=center"){align=&quot;center&quot; width=250}
+![alt text](assets/maui-dive.jpg "align=center"){align=&quot;center&quot; width=250}
 
 ### Rubrikjustering
 
-**Fet rubrik** ![alt-text](assets/package.png "align=right"){align="right"}
+**Fet rubrik** ![alt text](assets/package.png "align=right"){align="right"}
 
 Se fet rubrik ovan.
 
@@ -119,21 +120,21 @@ Ikonen är högerjusterad, en div-bild är centrerad 200 pixlar och en vändbild
 
 | Vänster | Mitten | Höger |
 |---|---|---|
-| ![alt-text](assets/package.png "align=right"){align=right} | ![alt-text](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![alt-text](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
+| ![alt text](assets/package.png "align=right"){align=right} | ![Alt-text](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![Alt-text](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
 ## Bifogade filer (EXLM-1124)
 
-Ladda ned [PDF](/help/data-sheets/assets/BusinessSupportDatasheet.pdf)
+Hämta [PDF](/help/data-sheets/assets/BusinessSupportDatasheet.pdf)
 
-Ladda ned [JS](assets/main.js)
+Hämta [JS](assets/main.js)
 
-Ladda ned [CSS](assets/main.css)
+Hämta [CSS](assets/main.css)
 
-Ladda ned [TXT-fil](assets/dots.txt)
+Hämta [TXT-filen](assets/dots.txt)
 
-Ladda ned [XLSX-fil](assets/4-module_version.xlsx)
+Hämta [XLSX-filen](assets/4-module_version.xlsx)
 
-Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+Hämta [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
 
 ## HTML tabell med divar
 
@@ -209,7 +210,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Verktyg" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>verktyg</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>Verktyg</strong></a>
       <p>Lär dig mer om verktyg som du kan använda med Adobe Commerce.</p>
     </div>
   </td>
@@ -220,7 +221,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Implementering" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Implementera spelningsbok</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>Implementeringspellbook</strong></a>
       <p>Läs om strategier för att planera och implementera en framgångsrik Adobe Commerce-webbplats.</p>
     </div>
   </td>
@@ -229,7 +230,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Användning" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Operativ spelningsbok</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>Driftspelningsbok</strong></a>
       <p>Lär dig hur ni gör ert företag redo för att driva en framgångsrik e-handelsplats.</p>
     </div>
   </td>
@@ -238,7 +239,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Handel i skala</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>Commerce vid skalförändring</strong></a>
       <p>Lär dig leverera upplevelser i stor skala med Adobe Commerce och Adobe Experience Manager.</p>
     </div>
   </td>
@@ -321,7 +322,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Verktyg" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>verktyg</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>Verktyg</strong></a>
     <p>Lär dig mer om verktyg som du kan använda med Adobe Commerce.</p>
   </td>
 </tr>
@@ -331,7 +332,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Implementering" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Implementera spelningsbok</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>Implementeringspellbook</strong></a>
     <p>Läs om strategier för att planera och implementera en framgångsrik Adobe Commerce-webbplats.</p>
   </td>
   <td valign="top">
@@ -339,7 +340,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Användning" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Operativ spelningsbok</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>Driftspelningsbok</strong></a>
     <p>Lär dig hur ni gör ert företag redo för att driva en framgångsrik e-handelsplats.</p>
   </td>
   <td valign="top">
@@ -347,7 +348,7 @@ Ladda ned [ZIP-fil](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Handel i skala</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>Commerce at Scale</strong></a>
     <p>Lär dig leverera upplevelser i stor skala med Adobe Commerce och Adobe Experience Manager.</p>
   </td>
   <td valign="top">

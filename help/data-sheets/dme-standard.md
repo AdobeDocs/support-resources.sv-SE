@@ -3,7 +3,7 @@ title: Standardsupport för Adobe Creative Cloud och Adobe Document Cloud
 description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Standardsupport omfattar tillgång dygnet runt till våra supportresurser för självhjälp, inklusive artiklar på HelpX och dialog med andra kunder på Adobe Community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
 
@@ -189,16 +189,16 @@ Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsi
 </thead>
 <tbody>
   <tr>
-    <td><strong>Prioritet 1</strong><br>Kundens produktionsfunktioner i företaget är nere eller har betydande dataförlust eller försämrad service och det krävs omedelbar åtgärd för att återställa funktionalitet och användbarhet.</td>
-    <td>24x7/<br>30 minuter</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendedirigering som påskyndar ärenden till Adobes supporttekniker.</td>
+    <td><strong>PRIORITET 1</strong><br>Kundens affärsfunktioner för produktion är nere eller har betydande dataförluster eller försämrad prestanda och omedelbar åtgärd krävs för att återställa funktionalitet och användbarhet.</td>
+    <td>Dygnet runt/<br>30 minuter</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunder som köper en supportplan för tillämpliga Adobe-produkter och -tjänster får prioriterad ärendehantering som snabbar på ärenden till Adobes supporttekniker.</td>
   </tr>
   <tr>
     <td><strong>Prioritet 2</strong><br>Kundens företagsfunktioner försämras avsevärt, data kan gå förlorade eller så påverkas en viktig funktion.</td>
     <td>Dygnet runt/<br>1 timme</td>
   </tr>
   <tr>
-    <td><strong>Prioritet 3</strong><br>Kundens företagsfunktioner försämras i mindre grad men det finns en lösning som gör att företagsfunktionerna kan fortsätta normalt.</td>
+    <td><strong>Prioritet 3</strong><br>Kundens företagsfunktioner försämras i mindre grad men det finns en lösning som gör att de kan fortsätta normalt.</td>
     <td>Arbetsdag/<br>4 timmar</td>
   </tr>
   <tr>
@@ -303,4 +303,4 @@ Adobes lokala arbetstider anpassas efter kundens faktureringsområde.
 
 ![ikon](assets/bottom-banner.png)
 
-*Om du vill veta mer om Adobes supporterbjudanden och rätt nivå för dig kontaktar du din namngivna kontohanterare (NAM) eller Customer Success Manager (CSM).*
+*Om du vill veta mer om Adobe supporterbjudanden och rätt nivå för dig kontaktar du din namngivna kontohanterare (NAM) eller Customer Success Manager (CSM).*

@@ -4,10 +4,11 @@ description: En grundläggande introduktion till Markdown-format
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -25,7 +26,7 @@ Se här: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
 >[!TIP]
 >
->Titta på detta [Video om AdobeDocs Markdown](https://video.tv.adobe.com/v/26165).
+>Titta på den här [AdobeDocs Markdown-videon](https://video.tv.adobe.com/v/26165).
 
 För det mesta följer vi den standardiserade GIF-syntaxen (GIF) för textformatering. Vissa syntaxer (till exempel horisontella linjer) stöds inte och vi har utökat Markdown på flera sätt för att passa vår dokumentationsbehov.
 
@@ -33,19 +34,19 @@ För det mesta följer vi den standardiserade GIF-syntaxen (GIF) för textformat
 
 Ett stycke kräver ingen speciell syntax i Markdown. Lägg till en tom rad mellan varje stycke.
 
-Formatera text som **fet** omsluter du den med två asterisker:
+Om du vill formatera text som **fet** omsluter du den med två asterisker:
 
 ```
 This text is **bold**.
 ```
 
-Formatera text som *kursiv* omsluter du den med en asterisk:
+Om du vill formatera text som *kursiv* omsluter du den med en asterisk:
 
 ```
 This text is *italic*.
 ```
 
-Formatera text som båda ***fet och kursiv*** omger du den med tre asterisker:
+Om du vill formatera text som både ***fet och kursiv*** omsluter du den med tre asterisker:
 
 ```
 This is text is both ***bold and italic***.
@@ -57,7 +58,7 @@ Om du vill ignorera markeringsformateringstecken använder du `\` före tecknet:
 
 Återgiven: Detta är inte av typen \*kursiv\*.
 
-## Badges
+## Märken
 
 Pågår. Väntar på Loc.
 
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## Blockcitattecken
 
-Vårt redigeringssystem använder syntax med blockcitattecken (`>` i början av raderna) för att identifiera anpassade markeringstillägg för tips, anteckningar och videor. Du kan skapa riktiga blockcitattecken genom att lägga till en `>` framför ett stycke.
+I vårt redigeringssystem används blockquotes-syntax (`>` i början av raderna) för att identifiera anpassade markeringstillägg för tips, anteckningar och videor. Du kan skapa riktiga blockcitattecken genom att lägga till ett `>`-tecken framför ett stycke.
 
 >Det här är en blockoffert.
 
@@ -127,13 +128,13 @@ Vårt redigeringssystem använder syntax med blockcitattecken (`>` i början av 
 
 ## Kodblock (i rad){#code-block}
 
-**När ska du använda**
+**När ska jag använda**
 
 Används för att återge en del kod textbundet i en mening. Idealiskt att anropa ett cookie-namn, filnamn, värde eller kommando som inte kräver ett fullständigt kodsblock.
 
-Innehåll i kodblock återges som de är och inte lokaliseras. (Det enda undantaget till den här regeln är `!UICONTROL` och `!DNL` syntax, som tas bort vid publicering.)
+Innehåll i kodblock återges som de är och inte lokaliseras. (Det enda undantaget till den här regeln är `!UICONTROL` och `!DNL`-syntax, som tas bort vid paketering för publicering.)
 
-Använd även kodblock för exempel-URL:er som inte ska valideras: `https://www.example.com`
+Använd även kodblock för exempel-URL:er som inte ska verifieras: `https://www.example.com`
 
 **Syntax**
 
@@ -145,17 +146,17 @@ This is `inline code` within a paragraph of text.
 
 **Exempel**
 
-Det här är `inline code` i ett textstycke.
+Detta är `inline code` i ett textstycke.
 
 >[!TIP]
 >
->Du kan också radbryta text i tre bakåtrutor (&amp;grav;&amp;grav;&amp;grav;) om du vill skapa ett textbundet kodblock. Detta är särskilt användbart när du behöver referera till ett bakåtskalstreck i ett textbundet kodblock. Exempel:
+>Du kan också radbryta text i tre bakåtrutor (&grave;&grave;&grave;) för att skapa ett inline-kodblock. Detta är särskilt användbart när du behöver referera till ett bakåtskalstreck i ett textbundet kodblock. Exempel:
 >
-&amp;grav; &amp;grav; grav;`Use a back tick (`&amp;grav;`) for formatting`&amp;grav; &amp;grav; grav;
+&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
 
 ## Kodblock (fäst)
 
-**När ska du använda**
+**När ska jag använda**
 
 Använd ett kodblock för att visa kodsyntax. I ett avgränsat kodblock används trippelbakterier för att omsluta det kodelement som du vill markera. Lägg till tomma rader ovanför och under det avgränsade kodblocket.
 
@@ -163,13 +164,13 @@ Observera att kodblock inte är lokaliserade.
 
 >[!TIP]
 >
-Ange ett språk när du skapar ett avgränsat kodblock. Om du anger ett språk kan syntaxmarkering för det språket användas och en **Kopiera** för användarna. Du kan också visa radnummer om du anger ett språk.
+Ange ett språk när du skapar ett avgränsat kodblock. Om du anger ett språk kan syntaxmarkering bara användas för det språket och en **Kopiera**-knapp visas för användarna. Du kan också visa radnummer om du anger ett språk.
 
 **Syntax**
 
-Använd tre bakåtfästingar ( &amp;grav;&amp;grav;) före och efter kodraderna. Se till att de öppna och avslutande rutorna är indragna med samma antal mellanslag. För optimal återgivning anger du ett kodspråk.
+Använd tre bakåtmarkeringar ( &grave;&grave;&grave; ) före och efter kodraderna. Se till att de öppna och avslutande rutorna är indragna med samma antal mellanslag. För optimal återgivning anger du ett kodspråk.
 
-&amp;grav; &amp;grav; grav;`javascript`
+&grave;&grave;&grave;`javascript`
 
 **Exempel**
 
@@ -187,13 +188,13 @@ var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE",
 
 ### Syntaxmarkering för kodblock
 
-Experience League har stöd för syntaxmarkering för kodblock. Se till att du anger ett språk som `java` efter den första uppsättningen bakåttickningar för att säkerställa att syntaxen är korrekt markerad. En lista över giltiga språk finns på [https://prismjs.com](https://prismjs.com/#supported-languages). Om några språk saknas, logga en jira-biljett.
+Experience League har stöd för syntaxmarkering för kodblock. Se till att du anger ett språk som `java` efter den första uppsättningen bakåtmarkeringar för att säkerställa att syntaxen är korrekt markerad. En lista över giltiga språk finns på [https://prismjs.com](https://prismjs.com/#supported-languages). Om något språk saknas, logga ett jira-ärende.
 
 ### Radnumrering i kodblock
 
 Lägg till `{line-numbers="true"}` efter språket för att aktivera radnumrering.
 
-Exempel med radnummer (&amp;grav;&amp;grav;&amp;grav;;)`html {line-numbers="true"}`):
+Exempel med radnummer (&grave;&grave;&grave;`html {line-numbers="true"}`):
 
 ```html {line-numbers="true"}
 <!DOCTYPE html>
@@ -207,11 +208,11 @@ Exempel med radnummer (&amp;grav;&amp;grav;&amp;grav;;)`html {line-numbers="true
 </html>
 ```
 
-**Börja numrera på rad _**
+**Börja numrering på rad _**
 
-Lägg till `start-number="n"` efter radnummersyntax för att starta numreringen på ett annat nummer än 1.
+Lägg till `start-number="n"` efter radnummer-syntax för att starta numreringen på ett annat nummer än 1.
 
-Exempel med ny startrad (&amp;grav;&amp;grav;&amp;grav;);`html {line-numbers="true" start-line="7"}`):
+Exempel på ny startlinje (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`):
 
 ```html {line-numbers="true" start-line="7"}
 <!DOCTYPE html>
@@ -228,9 +229,9 @@ Exempel med ny startrad (&amp;grav;&amp;grav;&amp;grav;);`html {line-numbers="tr
 
 ### Markering av rader i kodblock
 
-Lägg till `highlight="n"` efter radnummersyntax för att markera rader i ett kodblock. Ange `11-13, 16` markerar raderna 11 till 13 och 16.
+Lägg till `highlight="n"` efter radnummer syntax för att markera rader inom ett kodblock. Om du anger `11-13, 16` markeras rad 11 till 13 och 16.
 
-Exempel med radmarkering (&amp;grav; &amp;grav;&amp;grav;;;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
+Exempel med radmarkering (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
 
 ```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
 <!DOCTYPE html>
@@ -247,11 +248,11 @@ Exempel med radmarkering (&amp;grav; &amp;grav;&amp;grav;;;`html {line-numbers="
 
 ### Variabel formatering i kodblock
 
-Variabel syntax som `<i>italic</i>` stöds inte i kodblock. Ett alternativ är att använda vinkelparenteser för att indikera variabel text `< >`.
+Variabelsyntax som `<i>italic</i>` stöds inte i kodblock. Ett alternativ för att ange variabeltext är att använda vinkelparenteser `< >`.
 
 ## Komprimerbara avsnitt
 
-Du kan skapa ett infällbart avsnitt (kallas ibland **accordion**) som är dold som standard. Användaren kan klicka på titeln för att expandera eller komprimera avsnittet.
+Du kan skapa ett infällbart avsnitt (kallas ibland **dragspelspanel**) som är dolt som standard. Användaren kan klicka på titeln för att expandera eller komprimera avsnittet.
 
 Komprimerbar text kan användas för att förenkla komplext innehåll, t.ex. effektivisera en sida med vanliga frågor och svar eller för att rensa en komplex procedur med kapslade listor. I stället för att visa en uppsättning delsteg kan du komprimera delstegen till ett&quot;Visa detaljer&quot;-avsnitt.
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **Exempel**
 
-+++Se information Det här är text i ett fällande avsnitt.
++++Se information
+Det här är text i ett fällt avsnitt.
 
 * Punkt ett
 * Punkt två
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **Anteckningar**
 
-* Kapsla inte infällbara avsnitt inuti fällbara sektioner. Kapslade komprimerbara avsnitt återges inte korrekt. De orsakar dock inte att valideringen misslyckas, så användarna ser `+++` syntax för det kapslade avsnittet.
+* Kapsla inte infällbara avsnitt inuti fällbara sektioner. Kapslade komprimerbara avsnitt återges inte korrekt. De orsakar dock inte att valideringen misslyckas, så användarna ser syntaxen `+++` för det kapslade avsnittet.
 * Se till att du lägger till tomma rader ovanför och nedanför objekt som punktlistor och kodblock inuti det komprimerbara avsnittet, annars får du ett valideringsfel.
 * Du kan lägga till rubriker inuti fällbara avsnitt, men det rekommenderas inte.
 * [Dragspel är inte alltid svaret på komplext innehåll på datorer](https://www.nngroup.com/articles/accordions-complex-content/)
-* En historisk nackdel med komprimerbara sektioner är att **Sök på sidan** (Ctrl/Cmd+F) ignorerar komprimerad text. Det är fortfarande sant i Safari, men det är inte längre sant i Chrome. Sök på sidan identifierar komprimerad text i Chrome.
-* Exempel på en [uppdaterar underhåll](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) sida med infällbara avsnitt.
+* En historisk nackdel med komprimerbara avsnitt är att **Sök på sida** (Ctrl/Cmd+F) ignorerar komprimerad text. Det är fortfarande sant i Safari, men det är inte längre sant i Chrome; Find in Page identifierar dold text i Chrome.
+* Exempel på en sida med [underhållsuppdateringar](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) med infällbara avsnitt.
 
 ## Kommentarer och kommentarer
 
@@ -368,11 +370,11 @@ Cat
 
 Ladda upp ZIP-filen eller någon annan hämtningsbar fil till katalogen assets och länka sedan till den. Om det är en ZIP-fil laddas filen ned om du klickar på länken. Om det är en filtyp, till exempel PDF eller PNG, som kan öppnas i en webbläsare, öppnas en ny flik när du klickar på länken. För sådana filer bör du överväga att zippa upp dem eller ge instruktioner om hur du högerklickar på länken och hämtar dem.
 
-`Download` &amp;Brack;`download-test.zip`&amp;rack;`(assets/download-test.zip)`
+`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
 
 Återgiven:
 
-Ladda ned [download-test.zip](assets/download-test.zip)
+Hämta [download-test.zip](assets/download-test.zip)
 
 >[!NOTE]
 >
@@ -380,7 +382,7 @@ Den maximala filstorleken för nedladdningsfiler och bilder är 100 MB. Det är 
 
 ## Rubriker {#headings}
 
-I Markering använder du nummertecken (`#`) för att identifiera rubriknivåer. Den första nivån (`#`) är artikelrubriken, som också anges i metadatahuvudet. Använd samma namn. Den andra nivån (`##`) är de huvudrubriker på sidan som ska inkluderas i miniinnehållsförteckningen. Om du är van vid att skriva i AEM (chl-author), nivå 2 rubriker (`##`) mappas till komponenten &quot;Rubrik 1&quot; i AEM.
+I Markering använder du nummertecken (`#`) för att identifiera rubriknivåer. Den första nivån (`#`) är artikelrubriken, som också anges i metadatahuvudet. Behåll dessa värden. Den andra nivån (`##`) representerar de huvudrubriker på sidan som ska inkluderas i miniinnehållsförteckningen. Om du är van vid att skriva i AEM (chl-author) mappas rubriknivå 2 (`##`) till komponenten &quot;Heading 1&quot; i AEM.
 
 Högsta antal tecken för rubriker: 69 tecken (engelska) / 120 tecken (LOC).
 
@@ -394,16 +396,16 @@ Högsta antal tecken för rubriker: 69 tecken (engelska) / 120 tecken (LOC).
 
 **Bästa praxis för rubriker**
 
-* Se till att det finns en rubrik på nivå 1 (`#`) följer en tom rad efter metadata i varje artikel.
+* Kontrollera att en rubrik på nivå 1 (`#`) följer en tom rad efter metadata i varje artikel.
 * Hoppa inte över nivåer, till exempel hoppa från nivå 2 (`##`) till nivå 4 (`####`).
-* Inkludera en tom rad *före* och *efter* varje rubrik.
+* Inkludera en tom rad *före* och *efter* för varje rubrik.
 * Om en rubrik innehåller siffror anger du ett explicit rubrik-ID som inte börjar med en siffra, till exempel `## Release notes for 2016 {#release-notes-2016}`.
 * Vi rekommenderar endast tre rubriknivåer. Nivåer 4 och senare återges för närvarande inte korrekt.
-* Rubriker visas i den högra navigeringen så att användarna kan klicka för att gå till ett avsnitt. Som standard visas två rubriknivåer i den högra navigeringen. Om du vill ändra antalet nivåer använder du `mini-toc-levels` metadata, som `mini-toc-levels: 3`.
+* Rubriker visas i den högra navigeringen så att användarna kan klicka för att gå till ett avsnitt. Som standard visas två rubriknivåer i den högra navigeringen. Om du vill ändra antalet nivåer använder du `mini-toc-levels`-metadata, till exempel `mini-toc-levels: 3`.
 
 **Rubrik-ID**
 
-Rubrik-ID (kallas även *fästpunkts-ID*) används för att skapa anpassade länkar till avsnitt i artiklar. Använd det här formatet om du vill ange ett rubrik-ID:
+Rubrik-ID (kallas även *ankar-ID*) används för att skapa anpassade djuplänkar till avsnitt i artiklar. Använd det här formatet om du vill ange ett rubrik-ID:
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ Rubrik-ID (kallas även *fästpunkts-ID*) används för att skapa anpassade län
 
 Rubrik-ID:n ska vara gemener och avstavade.
 
-Om du inte anger ett rubrik-ID för en rubrik är standardrubrikens ID &quot;instruerad&quot; (gemener och avstavade) rubrik. Till exempel `## Creating widgets and Such` rubriken har `#creating-widgets-and-such` ankare.
+Om du inte anger ett rubrik-ID för en rubrik är standardrubrikens ID &quot;instruerad&quot; (gemener och avstavade) rubrik. Rubriken `## Creating widgets and Such` får till exempel ett `#creating-widgets-and-such`-ankare.
 
 ## HTML syntax {#html}
 
@@ -458,13 +460,13 @@ Om du vill lägga till HTML-syntax i listan loggar du en biljett eller kontaktar
 
 ## Bilder {#images}
 
-Använd `![]()` syntax för bilder. Hakparenteserna `[ ]` ta med alt-text och parenteserna `( )` innehåller bildens placering och valfri hovringstext (verktygstips). Exklamationsmärket skiljer en bild från en länk.
+Använd syntaxen `![]()` för bilder. Hakparenteserna `[ ]` innehåller alternativ text, och parenteserna `( )` innehåller bildens plats och valfri hovringstext (verktygstips). Exklamationsmärket skiljer en bild från en länk.
 
 ```
 ![alt text](assets/logo.png "Hover text")
 ```
 
-![alt-text](assets/logo.png "Hovringstext")
+![Alt-text](assets/logo.png "Hovringstext")
 
 För delade bilder kan du placera bilderna i en rotresursmapp och sedan använda en rotlänk som fungerar från vilken fil som helst i ett svar:
 
@@ -474,7 +476,7 @@ För delade bilder kan du placera bilderna i en rotresursmapp och sedan använda
 
 ### Ändra storlek på och justera bilder
 
-**Bildegenskaper (med högerjusterad bild)** ![alt-text](assets/premium.png "Förstklassig hovringstext"){align="right"}
+**Bildegenskaper (med högerjusterad bild)** ![Alt-text](assets/premium.png "Premium-hover-text"){align="right"}
 
 Använd syntax som följande om du vill ändra bildens standardbredd eller mittpunkt eller högerjustera bilden i sidvyn eller tabellcellen.
 
@@ -484,12 +486,12 @@ Använd syntax som följande om du vill ändra bildens standardbredd eller mittp
 
 Återgiven:
 
-![Dirigera bildens alt-text](assets/maui-dive.jpg "Hovringstext - Maui-förflyttningens bredd är 300 pixlar och centrerad"){width="300" align="center"}
+![Dive image alt text](assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
 
 * För stora bilder rekommenderar vi att du skapar bilder som är tillräckligt stora för att skalas ned för att få plats inom sidbredden - minst 640 pixlar breda. Rekommenderad bredd är 1 500 pixlar. Du behöver inte skapa bilder som är större än 2 500 pixlar eller 5 000 kilobyte. Den största filstorleken för bilder är 100 MB.
 * För små bilder skapar du bilder med önskad bredd i pixlar eller använder breddparametern, till exempel `{width="250"}` (pixlar) eller `{width="50%"}` (procentandel av visningsområdet, inte den ursprungliga bildstorleken). Bilder skalas proportionellt. Observera att bilder kan skalas upp eller ned, så var försiktig med pixelering.
 * I vissa fall kommer bilder från samma gränssnitt att se oproportionella ut på sidan eftersom bredare bilder (t.ex. ett verktygsfält) skalas ned medan smala bilder (t.ex. en panel) inte skalas ned. I sådana fall bör du överväga att skala ned de bredare bilderna för att få bättre visuell enhetlighet.
-* Du kan ändra justeringen för en bild i visningsområdet. Använd antingen `{align="center"}` eller `{align="right"}`. The `valign` parametern stöds inte.
+* Du kan ändra justeringen för en bild i visningsområdet. Använd antingen `{align="center"}` eller `{align="right"}`. Parametern `valign` stöds inte.
 
 >[!NOTE]
 >
@@ -509,7 +511,7 @@ Använd det här formatet om du vill tillåta användare att klicka på en bild 
 
 Klicka på den här bilden för att gå till webbplatsen Adobe.
 
-[![image](assets/core-services_96.png)](https://www.adobe.com)
+[![bild](assets/core-services_96.png)](https://www.adobe.com)
 
 <!--
 ### Click-to-zoom images
@@ -540,7 +542,7 @@ Externa länkar är raka framåt och kan återges som en länkad bildtext eller 
 
 [Adobe](https://www.adobe.com)
 
-Om du lägger till en URL-adress direkt i texten konverteras den inte automatiskt till en länk. Om du vill att en URL ska visas som en länk lägger du till `< >` syntax. Exempel:
+Om du lägger till en URL-adress direkt i texten konverteras den inte automatiskt till en länk. Om du vill att en URL ska visas som en länk lägger du till syntaxen `< >`. Exempel:
 
 ```
 https://www.adobe.com
@@ -564,7 +566,7 @@ Så här ser en relativ länk ut:
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-Sökvägen måste ta hänsyn till både källfilens och målfilens plats. Du kan använda alla relativa länkoperander, till exempel `./` (aktuell katalog), `../` (en katalog bakåt) och `../../` (två kataloger bakåt).
+Sökvägen måste ta hänsyn till både källfilens och målfilens plats. Du kan använda alla relativa länkoperander, till exempel `./` (aktuell katalog), `../` (bakåt en katalog) och `../../` (bakåt två kataloger).
 
 **Alternativ 2: Rotrelativ länk**
 
@@ -588,9 +590,9 @@ Om du vill länka till den här rubriken från en annan artikel i svaret lägger
 
 `See [Audiences: Creating audience segments](audiences.md#creating-audience-segments)`
 
-**Öppna på ny flik**
+**Öppna i ny flik**
 
-Om du vill att en länk ska öppna en ny flik, till exempel när du går till en annan stödlinje, använder du `{target="_blank"}` i länken.
+Om du vill att en länk ska öppna en ny flik, till exempel när du går till en annan stödlinje, använder du egenskapen `{target="_blank"}` i länken.
 
 Exempel:
 
@@ -619,14 +621,14 @@ Använd komponenten &quot;Mer som den här&quot; för att visa relaterade länka
 
 **Syntax**
 
-![Mer som denna syntax](assets/morelikethis.png)
+![Mer som den här syntaxen](assets/morelikethis.png)
 
 **Exempel**
 
 >[!MORELIKETHIS]
 >
-* [Artikel 1](https://helpx.adobe.com/se/support/analytics.html)
-* [Artikel 2](https://helpx.adobe.com/se/support/audience-manager.html)
+* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
+* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
 
 ## Anteckningar/tillägg
 
@@ -644,7 +646,7 @@ Vi har utökat Markdown för att formatera olika typer av anteckningar: Obs!, Ti
 
 >[!NOTE]
 >
-Det här är ett vanligt NOTE-block.
+Det här är ett vanligt anteckningsblock.
 
 **Syntax**
 
@@ -702,7 +704,7 @@ Detta är ett viktigt standardblock.
 
 >[!NOTE]
 >
-Det här är ett vanligt NOTE-block.
+Det här är ett vanligt anteckningsblock.
 >
 Det innehåller flera stycken.
 
@@ -718,11 +720,11 @@ Det här är en tillgänglighetsanteckning. Endast EXL.
 
 >[!PREREQUISITES]
 >
-Detta är en kravnotering. Endast EXL.
+Detta är en kravanteckning. Endast EXL.
 
 >[!INFO]
 >
-Det här är en Info note. Endast EXL.
+Det här är en informationsanteckning. Endast EXL.
 
 >[!ERROR]
 >
@@ -730,13 +732,13 @@ Det här är en felanteckning. Endast EXL.
 
 >[!SUCCESS]
 >
-Detta är en Success note. Endast EXL.
+Detta är en framgångsanteckning. Endast EXL.
 
 ## Numrerade listor och punktlistor {#lists}
 
-Om du vill skapa numrerade listor börjar du en rad med `1.` eller `1)`, men välj en metod och använd den konsekvent i artikeln. Du behöver inte ange siffrorna. GitHub gör det åt dig.
+Om du vill skapa numrerade listor börjar du en rad med `1.` eller `1)`, men väljer en metod och använder den konsekvent i artikeln. Du behöver inte ange siffrorna. GitHub gör det åt dig.
 
-Använd talet `1` för varje steg i den numrerade listan.
+Använd numret `1` för varje steg i den numrerade listan.
 
 Lägg till tomma rader före och efter listor.
 
@@ -766,7 +768,7 @@ Lägg till tomma rader före och efter listor.
 
 1. Detta är ännu ett steg, det tredje.
 
-Om du vill skapa punktlistor börjar du en rad med `*` eller `-` eller `+`, men välj en metod och använd den konsekvent i artikeln. (Om du blandar formaten, till exempel `*` och `+`får du ett markeringsvalideringsfel när du checkar in filen.)
+Om du vill skapa punktlistor börjar du en rad med `*`, `-` eller `+`, men väljer en metod och använder den konsekvent i artikeln. (Om du blandar formaten, till exempel `*` och `+`, visas ett markeringsvalideringsfel när du checkar in filen.)
 
 **Bästa praxis:** Använd `*` för punkter. I Visual Studio Code används asterisken för punktlistor, så det är enklare att hålla dig med asterisker för att automatisera skapandet av en osorterad lista. (Du kanske har märkt att filen TOC.md använder plustecken `+` för listor. Det är en hållplats från migrationen. Alla giltiga punkter fungerar så länge de är konsekventa i artikeln.)
 
@@ -814,7 +816,7 @@ Du kan även bädda in listor i listor och lägga till innehåll mellan listobje
 1. Skapa tabeller och kodblock.
 1. Utför det här steget.
 
-   ![screen](assets/core-services_96.png)
+   ![skärm](assets/core-services_96.png)
 
 1. Se till att tabellen ser ut så här:
 
@@ -838,13 +840,13 @@ Obs! Om du drar in för långt, till exempel 6 blanksteg i stället för 3, beha
 
 Skuggrutor är användbara när du vill ställa in ett avsnitt av innehållet från resten av sidan. Workfront-teamet vill till exempel lägga till exempelrutor som innehåller text, bilder och kodexempel för att uppnå ett visst syfte. En skuggningsruta kan också vara användbar för avsnitten&quot;På egen hand&quot; eller&quot;Använd skiftläge&quot;, eller för utökade anteckningar eller tips.
 
-Om du vill skapa en skuggruta lägger du till `>[!BEGINSHADEBOX]` i början av avsnittet och `>[!ENDSHADEBOX]` i slutet. Allt innehåll mellan dessa start- och sluttaggar har en grå bakgrund. Lägga till en etikett i `BEGINSHADEBOX` (till exempel `>[!BEGINSHADEBOX "Use Case]` är ett valfritt sätt att skapa en textruta med fet ton. Du kan också lägga till fet text eller en rubrik på nästa rad.
+Om du vill skapa en skuggruta lägger du till `>[!BEGINSHADEBOX]` i början av avsnittet och `>[!ENDSHADEBOX]` i slutet. Allt innehåll mellan dessa start- och sluttaggar har en grå bakgrund. Att lägga till en etikett till `BEGINSHADEBOX` (till exempel `>[!BEGINSHADEBOX "Use Case]`) är ett valfritt sätt att skapa en textruta med fet ton. Du kan också lägga till fet text eller en rubrik på nästa rad.
 
 Exempel:
 
 >[!BEGINSHADEBOX]
 
-**Ta bort kantlinjen i en HTML-tabell**
+**Tar bort kantlinjen i en HTML-tabell**
 
 I vissa fall använder du en HTML-tabell för att skapa en balanserad design, men du vill inte att innehållet ska se ut som en tabell. Om du vill inaktivera kantlinjen för en HTML-tabell med en rad använder du följande syntax:
 
@@ -859,7 +861,7 @@ I vissa fall använder du en HTML-tabell för att skapa en balanserad design, me
 
 ![tabelltips](assets/table-no-border.png)
 
-I en tabell med tre kolumner kan du även lägga till `<td align="center">` och `<td align="right">` om du vill distribuera cellinnehållet jämnt över visningsområdet. Om det inte vore så, skulle jag ha sagt det till dig.
+I en tabell med tre kolumner kan du också lägga till `<td align="center">` och `<td align="right">` för att fördela cellinnehållet jämnt över visningsområdet. Om det inte vore så, skulle jag ha sagt det till dig.
 
 Det här är den sista raden i skuggrutan.
 
@@ -867,7 +869,7 @@ Det här är den sista raden i skuggrutan.
 
 ## Fragment och inkluderar
 
-Om du vill dela text mellan artiklar i ett svar skapar du en `_includes` i `help` mapp. Detta `_includes` -mappen kan ha .md-filer som kan refereras (inkluderas) från andra filer i svaret. Dessutom har `snippets.md` filen i den här rapporten kan innehålla Head2-ankarpunkter som kan refereras från vilken fil som helst i svaret.
+Om du vill dela text mellan artiklar i ett svar skapar du en `_includes`-mapp i mappen `help`. Den här `_includes`-mappen kan ha .md-filer som kan refereras (inkluderas) från andra filer i svaret. Dessutom kan en `snippets.md`-fil i den här rapporten innehålla Head2-ankarpunkter som kan refereras från vilken fil som helst i svaret.
 
 Referens till H2 i filen snippets.md: `{{id-name}}`
 
@@ -879,11 +881,11 @@ Tabeller kan vara problematiska i kod. När tabeller migreras från det tidigare
 
 >[!TIP]
 >
-Titta på [Video om markeringstabeller](https://video.tv.adobe.com/v/26220)
+Titta på videon [Markup Tables](https://video.tv.adobe.com/v/26220)
 
 Inbyggda tabeller ser ofta bättre ut i Markdown. Kolumnernas storlek beror på deras innehåll. HTML-tabeller återges med kolumner med samma bredd.
 
-Markering stöder som standard inte flera rader eller listor i celler. Vi har dock utökat markeringstabeller så att flera rader tillåts i celler (med `<p>` eller `<br>`) eller grundläggande listor (med `<ul><li>` osv.).
+Markering stöder som standard inte flera rader eller listor i celler. Vi har emellertid utökat Markdown-tabeller så att flera rader tillåts i celler (med `<p>` eller `<br>`) eller grundläggande listor (med `<ul><li>` etc.).
 
 >[!IMPORTANT]
 >
@@ -913,7 +915,7 @@ Se [Tabeller](tables.md)
 
 Enkla tabeller fungerar korrekt i Markdown. Tabeller som innehåller flera stycken eller listor i en cell är emellertid svåra att arbeta med. För sådant innehåll rekommenderar vi att du använder ett annat format, t.ex. rubriker och text.
 
-**Marginaltabell med styckebrytningar och listor**
+**Markeringstabell med styckebrytningar och listor**
 
 ```
 | Header | Another header | Yet another header |
@@ -945,7 +947,7 @@ Tillfällig lösning med manuella punkter.
 | Färg | Saker att göra |
 |--- |--- |
 | Röd | * Läs <br> * Skriv <br> * Studie |
-| Blå | * Swim <br> * Kör <br> * Lyft <br> **Anteckning**: Kom ihåg att träna smart. |
+| Blå | * Swim <br> * Kör <br> * Lyft <br> **Obs!**: Kom ihåg att träna smart. |
 0,32
 
 
@@ -953,7 +955,7 @@ Tillfällig lösning med manuella punkter.
 
 En flik är ett klickbart område högst upp i ett avsnitt som visar olika innehåll. När du klickar på en tabb visas flikens innehåll och innehållet på andra flikar döljs.
 
-Om du vill skapa en flikuppsättning lägger du till `>[!BEGINTABS]` i början av tabbuppsättningen och `>[!ENDTABS]` efter den sista fliken. Lägg till `>[!TAB <tab title>]` taggar för varje flikavsnitt och lägger till innehållet för varje flik under det.
+Om du vill skapa en flikuppsättning lägger du till `>[!BEGINTABS]` i början av flikuppsättningen och `>[!ENDTABS]` efter den sista fliken. Lägg till `>[!TAB <tab title>]` taggar för varje flikavsnitt och lägg till innehållet för varje flik under det.
 
 **Fliksyntax**
 
@@ -993,7 +995,7 @@ Innehållet visas på fliken iOS.
 
 >[!TAB Android]
 
-Det här innehållet visas på fliken Android.
+Innehållet visas på fliken Android.
 
 >[!TAB Windows]
 
@@ -1013,13 +1015,13 @@ Det här innehållet visas på fliken Linux.
 
 * Användare kan inte använda sidsökning (Ctrl+F/Cmd+F) för att hitta innehåll på flikar som inte visas.
 * Om tabbtitlarna sträcker sig utanför sidvyns bredd i användarens webbläsare visas en vågrät rullningslist.
-* Du kan inte formatera tabbtitlarna. Alla syntaxer som du lägger till skickas som en del av titeln. Till exempel: `>[!TAB **iOS**]` visas som `**iOS**`.
+* Du kan inte formatera tabbtitlarna. Alla syntaxer som du lägger till skickas som en del av titeln. `>[!TAB **iOS**]` visas till exempel som `**iOS**`.
 * Du kan skapa flera tabbuppsättningar på en sida, men du kan inte kapsla in en tabbuppsättning i en annan tabbuppsättning.
 * En skuggad bakgrund används på tabbuppsättningen så att användarna kan se skillnad på tabbinnehållet och annat innehåll.
 
 ## Textmarkering
 
-Workfront-teamet bad om att få använda gula markeringar för att visa hur man förhandsgranskar kommande funktioner. Så här fungerar det.
+Workfront-teamet bad om att kunna använda gul markering för att indikera förhandsgranskning av kommande funktioner. Så fungerar det
 
 Exempel:
 
@@ -1029,9 +1031,9 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 Återgiven:
 
-Hela stycket ska INTE markeras. <span class="preview"> Det här ordet är **fet** inuti en markerad mening.</span> Och det här är bara den sista meningen.
+Hela stycket ska INTE markeras. <span class="preview"> Det här ordet är **fetstil** inuti en markerad mening.</span> Och det här är bara den sista meningen.
 
-Som allmän regel gäller följande: `<span class="preview">` för att markera ett stycke eller en text i ett stycke och använda `<div class="preview">` för flera stycken och komponenter.
+Som allmän regel bör du använda `<span class="preview">` för att markera ett stycke eller en text i ett stycke och sedan använda `<div class="preview">` för flera stycken och komponenter.
 
 >[!NOTE]
 >
@@ -1041,7 +1043,7 @@ VSC-förhandsgranskning stöder ännu inte markering.
 
 ## Video
 
-Videor återges inte internt i Markdown. Använd komponentindikatorn för att visa en textbunden video `[!VIDEO]` och sedan URL:en.
+Videor återges inte internt i Markdown. Om du vill visa en textbunden video använder du komponentindikatorn `[!VIDEO]` och sedan webbadressen.
 
 **Syntax**
 
@@ -1076,15 +1078,15 @@ Specialkomponenter deklareras i ett innehållande blockcitat med hakparenteser o
 * Textmarkering
 * Sidflikar
 
-Använda markeringsblockcitattecken ( `>` ) i början av varje rad för att knyta samman en styckebaserad komponent, t.ex. en anteckning. Om du vill förbättra förhandsgranskningen lägger du till en rad omedelbart efter början av avsnittet som bara har ett blockcitattecken (`>`). Lägg till en tom rad för att avsluta avsnittet.
+Använd markeringsblockcitattecknet ( `>`) i början av varje rad för att koppla samman en styckebaserad komponent, till exempel en anteckning. Om du vill förbättra förhandsgranskningen lägger du till en rad omedelbart efter början av avsnittet som bara har en blockcitattecken (`>`). Lägg till en tom rad för att avsluta avsnittet.
 
-Om du behöver använda underkomponenter i komponenter lägger du till en extra nivå med blockcitattecken (`>  >`) för det delkomponentavsnittet. En NOTE i ett DONOTLOCALIZE-avsnitt ska till exempel börja med `>  >`.
+Om du behöver använda underkomponenter i komponenter lägger du till en extra nivå med blockcitattecken (`>  >`) för det underkomponentavsnittet. En NOTE i ett DONOTLOCALIZE-avsnitt ska till exempel börja med `>  >`.
 
-I vissa fall måste vi ha stöd för särskilda inställningar för markeringselement som rubriker. Om du behöver ändra standardinställningarna lägger du till parametrarna inom franska parenteser `{# }` efter komponenten.
+I vissa fall måste vi ha stöd för särskilda inställningar för markeringselement som rubriker. Om du behöver ändra standardinställningarna lägger du till parametrarna inom klammerparenteser `{# }` efter komponenten.
 
 ### Tomma rader
 
-Du kan lägga till lite andningsrum till textväggar med tomma linjer. Använd `<br>&nbsp;` som en tillfällig lösning för att lägga till en tom rad.
+Du kan lägga till lite andningsrum till textväggar med tomma linjer. Använd `<br>&nbsp;` som en tillfällig lösning om du vill lägga till en tom rad.
 
 Exempel: Detta är en första mening i vad som kan vara en väldigt lång text. Låt mig infoga en tom rad mellan det här stycket och nästa.
 
@@ -1094,7 +1096,7 @@ Det här kanske inte verkar särskilt imponerande här, men prova med tomma rade
 
 ### Tecken som ska&quot;escape&quot; {#characters-to-escape}
 
-Flera tecken (`# { } [ ] < > * + - . !`) har en speciell betydelse i Markup eller HTML för att skapa rubriker, bilder, listor och andra komponenter. När du använder dessa tecken tror återgivningsmotorn att du lägger till kod. I vissa fall vill du dock visa dessa tecken i texten. Om du vill göra det måste du&quot;fly&quot; från karaktärerna. Den enklaste escape-metoden är att före tecknet skriva ett omvänt snedstreck (`\`). Om du till exempel vill starta en rad med en `#` så att det inte tolkas som en rubrik skriver du `\#`:
+Flera tecken (`# { } [ ] < > * + - . !`) har en speciell innebörd i Markdown eller HTML för att skapa rubriker, bilder, listor och andra komponenter. När du använder dessa tecken tror återgivningsmotorn att du lägger till kod. I vissa fall vill du dock visa dessa tecken i texten. Om du vill göra det måste du&quot;fly&quot; från karaktärerna. Den enklaste escape-metoden är att lägga ett omvänt snedstreck (`\`) före tecknet. Om du till exempel vill starta en rad med ett `#`-tecken så att det inte tolkas som en rubrik skriver du `\#`:
 
 `\# This is not a heading`
 
@@ -1102,7 +1104,7 @@ Flera tecken (`# { } [ ] < > * + - . !`) har en speciell betydelse i Markup elle
 
 \# Det här är inte en rubrik
 
-Det omvända snedstrecket fungerar bara med följande tecken: `# { } [ ] * + - . !`. Om du behöver undvika tecken som vinkelparenteser (till exempel `<yourname>`) kan du antingen omsluta texten med bakåttickningar för att använda ett textbundet kodblock, eller använda enhetskoden HTML i stället för tecknet. Exempel på vanliga HTML-koder:
+Det omvända snedstrecket fungerar bara med följande tecken: `# { } [ ] * + - . !`. Om du behöver undvika tecken som vinkelparenteser (till exempel `<yourname>`) kan du antingen omsluta texten i bakåttickningar för att använda ett textbundet kodblock, eller använda enhetskoden HTML i stället för tecknet. Exempel på vanliga HTML-koder:
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,15 +1113,15 @@ Det omvända snedstrecket fungerar bara med följande tecken: `# { } [ ] * + - .
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-En fullständig lista över enheter i HTML finns på [Friformateringswebbplats](https://www.freeformatter.com/html-entities.html). Då kan du slå upp alla specialtecken.
+En fullständig lista över HTML-entiteter finns på webbplatsen [FreeFormatter](https://www.freeformatter.com/html-entities.html). Då kan du slå upp alla specialtecken.
 
 >[!NOTE]
 >
-För kedjesteg som &quot;Välj Arkiv > Spara som&quot; behöver du inte kringgå `>` därför att det inte står bredvid andra tecken. För variabler som `<filename>` du vill undvika vinkelparenteserna med något av kodblocken `backticks` eller teckenkoder (`&lt;filename&gt;`).
+För kedjesteg som &quot;Välj Arkiv > Spara som&quot; behöver du inte kringgå tecknet `>` eftersom det inte finns bredvid andra tecken. För variabler som `<filename>` vill du undvika vinkelparenteserna med kodblocket `backticks` eller teckenkoderna (`&lt;filename&gt;`).
 
-Om du använder HTML-enheter i kodblock konverteras inte enhetstexten till specialtecknet. Till exempel: `&gt;` visas i ett kodblock som &quot; `&gt;` i stället för >.
+Om du använder HTML-enheter i kodblock konverteras inte enhetstexten till specialtecknet. `&gt;` visas till exempel i ett kodblock som `&gt;` i stället för >.
 
-Använd om du vill undvika bakåttickningar ( &amp;grav; ) `&grave;` eller infoga baksidan i tre bakåtfästingar som omsluter ett textbundet kodblock.
+Om du vill undvika bakåtfästingar (&grave; ) använder du `&grave;` eller infogar bakstrecket inom tre bakåtfästingar som omsluter ett textbundet kodblock.
 
 ### Objekt som inte stöds
 
@@ -1152,9 +1154,9 @@ Stöds inte
 ***
 ```
 
-**Blockcitat**
+**Blockcitattecken**
 
-Vi använder blockcitattecken (`>` i början av en rad) till den markerade utökade markeringssyntaxen, t.ex. anteckningar och videoklipp, som beskrivs nedan. Men du kan också använda `>` syntax för att skapa ett avsnitt med blockcitattecken.
+Vi använder blockcitattecken (`>` i början av en rad) för att indikera utökad markeringssyntax, som anteckningar och videoklipp, som beskrivs nedan. Men du kan också använda syntaxen `>` för att skapa ett avsnitt med blockcitattecken.
 
 >[!NOTE]
 >

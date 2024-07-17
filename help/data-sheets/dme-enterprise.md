@@ -3,7 +3,7 @@ title: Enterprise-support för Creative Cloud och Adobe Document Cloud
 description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Detta har förbättrats med ENTERPRISE-supportplanen.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 100%
 

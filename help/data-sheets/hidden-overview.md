@@ -27,6 +27,6 @@ ht-degree: 35%
 
 ## Nytt avsnitt
 
-Jag klickar inte på Publicera nu, så om du ser detta så aktiveras funktionen automatiskt.
+Jag klickar inte på Publish Now, så om du ser detta så har autoactivate aktiverats.
 
 6 juni kl. 7:12 PT

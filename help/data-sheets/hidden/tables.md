@@ -33,22 +33,22 @@ Tyvärr har vi inte lyckats hitta ett enda verktyg som kan konvertera HTML-tabel
 |--- |--- |
 | [Generator för markeringstabeller](https://www.tablesgenerator.com/markdown_tables) | Bra för att skapa markeringsregister från början. |
 | [Avancerad tabellkonverterare](https://tableconvert.com/html-to-markdown) | Konvertera tabeller från alla format till alla format. <p>**Obs!** Länkar och bilder förenklas när de konverteras. |
-| [Basic table html > markdown converter](https://jmalarcon.github.io/markdowntables/) | Enkel konverterare för HTML <p>**Obs!** Länkar och bilder förenklas när de konverteras. |
-| [HTML > Marknedtryckskonverterare (ej tabellbar)](https://codebeautify.org/html-to-markdown) | Konverterar tabeller från HTML till syntax som inte kan tabellmarkeras. Använd i kombination med ovanstående verktyg för att kopiera länkar, bilder och andra förenklade objekt. |
+| [Grundläggande tabell-html > markeringskonverterare](https://jmalarcon.github.io/markdowntables/) | Enkel konverterare för HTML <p>**Obs!** Länkar och bilder förenklas när de konverteras. |
+| [Icke-tabellbar HTML > Markeringskonverterare](https://codebeautify.org/html-to-markdown) | Konverterar tabeller från HTML till syntax som inte kan tabellmarkeras. Använd i kombination med ovanstående verktyg för att kopiera länkar, bilder och andra förenklade objekt. |
 
 ## Grundläggande markeringstabeller
 
 * Se till att du lägger till minst tre bindestreck på den andra raden som bestämmer tabellegenskaperna. Exempel: `|--- |--- |--- |` för en tabell med tre kolumner.
 * Markeringstabeller måste ha minst en rubrikrad och en innehållsrad. Du kan inte skapa en enradig eller encellig markeringstabell (använd HTML istället).
-* Se till att varje rad har samma antal lodstreck (&amp;vert; ). Om du behöver ta med ett lodstreck i en tabellcell kan du undvika det genom att använda ett omvänt snedstreck (`\|`) eller använda enhetskoden HTML (`&vert;`).
+* Se till att varje rad har samma antal lodstreck (&amp;vert; ). Om du behöver inkludera ett lodstreck i en tabellcell kan du undvika det genom att föregå det med ett omvänt snedstreck (`\|`) eller använda enhetskoden HTML (`&vert;`).
 * Var försiktig med att använda kodblock i tabeller. Textbundna kodblock kan orsaka oproportionella kolumnbredder.
 * Du kan ändra hur tabellen återges genom att ange Auto eller Fast. Se [Ändra hur tabeller återges](#table-rendering).
 
 ## Skapa markeringstabeller med bonusen HTML
 
-För att underlätta migreringen har vi utökat markeringstabeller för att stödja styckebrytningar i HTML (`<p>`), radbrytningar (`<br>`) och grundläggande HTML-listor (`<ul>` och `<ol>`) i markeringstabeller.
+För att underlätta migreringen har vi utökat markeringstabeller med stöd för styckebrytningar i HTML (`<p>`), radbrytningar (`<br>`) och grundläggande HTML-listor (`<ul>` och `<ol>`) i markeringstabeller.
 
-**Markeringsregister med radbrytningar och listor**
+**Markeringstabell med radbrytningar och listor**
 
 ```
 | Header 1 | Header 2 | Header 3 |
@@ -122,12 +122,12 @@ Migreringsverktyget försökte bevara så mycket formatering som möjligt från 
   <tr>
    <td>badgingLevels</td> 
    <td>Lång</td> 
-   <td><p><i>(Valfritt)</i> Anger vilka kunskapsnivåer som ska tilldelas. Om det till exempel ska finnas en <code>expert </code>och <code>almost expert</code> (två emblem) ska värdet ställas in på 2. badgingLevel ska motsvara antalet expertrelaterade badge-bilder som anges för egenskapen badgingPath. Standardvärdet är 1.</p></td> 
+   <td><p><i>(Valfritt)</i> Anger vilka kunskapsnivåer som ska tilldelas. Om det till exempel ska finnas en <code>expert </code> och en <code>almost expert</code> (två emblem), ska värdet anges till 2. badgingLevel ska motsvara antalet expertrelaterade badge-bilder som anges för egenskapen badgingPath. Standardvärdet är 1.</p></td> 
   </tr>
   <tr>
    <td>badgingType</td> 
    <td>Sträng</td> 
-   <td><p><i>(Obligatoriskt)</i> Identifierar bedömningsmotorn som antingen "grundläggande" eller "avancerad". Ange som "avancerat", annars är standardvärdet "grundläggande".</p></td> 
+   <td><p><i>(Obligatoriskt)</i> Identifierar bedömningsmotorn som antingen grundläggande eller avancerad. Ange som "avancerat", annars är standardvärdet "grundläggande".</p></td> 
   </tr>
  </tbody>
 </table>
@@ -136,13 +136,13 @@ Migreringsverktyget försökte bevara så mycket formatering som möjligt från 
 
 * Balansera kolumner.
 * Om du vill utesluta tabellrubriker (markeringstabeller måste ha en rubrikrad).
-* Så här tar du bort kanten på en enradig tabell (`<tr style="border: 0;">`).
+* Om du vill ta bort kanten för en enradig tabell (`<tr style="border: 0;">`).
 * Lägga till kolumn- eller radintervall.
 * Justera text i en tabellcell.
 
-**Anteckningar för arbete med tabeller i HTML**
+**Anteckningar för arbete med HTML-tabeller**
 
-* Använd inte Markdown-syntax i HTML-tabeller. Om du till exempel lägger till `[!NOTE]` till en HTML-tabell återges det som (`[!NOTE]`). Använd i stället HTML-syntax för exempelvis anteckningar och bilder.
+* Använd inte Markdown-syntax i HTML-tabeller. Om du t.ex. lägger till `[!NOTE]` i en HTML-tabell återges den som den är (`[!NOTE]`). Använd i stället HTML-syntax för exempelvis anteckningar och bilder.
 
   Loc-taggar är ett undantag till den här regeln eftersom UICONTROL- och DNL-taggar tas bort innan sidorna återges.
 
@@ -164,11 +164,11 @@ Migreringsverktyget försökte bevara så mycket formatering som möjligt från 
 Vi kan återge tabeller på två sätt:
 
 * **Fast** (för närvarande standard) - Innehåller anpassade regler för återgivning av tabeller, inklusive HTML-tabeller med bilder. Tabeller återges som helbreddstecken utan bläddring, vilket ibland orsakar överlappande text.
-* **Auto** - Liknar Git-smaksatt Markdown (GFM). Tabeller kan rullas, så texten överlappar inte.
+* **Auto** - Liknar Git-smaksatt markering (GFM). Tabeller kan rullas, så texten överlappar inte.
 
-I de flesta fall återges tabellerna med samma utseende. Om tabellen däremot innehåller överlappande text bör du använda `auto` -tagg. Eller om tabellen HTML med bildkort inte återges korrekt kanske du vill använda `fixed` -tagg.
+I de flesta fall återges tabellerna med samma utseende. Om tabellen innehåller överlappande text bör du dock använda taggen `auto`. Eller om tabellen HTML med bildkort inte återges korrekt kanske du vill använda taggen `fixed`.
 
-Vi funderar på att ändra standardinställningen från `fixed` till `auto`.
+Vi överväger att ändra standardvärdet från `fixed` till `auto`.
 
 ## Redigera markeringstabeller
 
@@ -233,7 +233,7 @@ Använd `auto` för tabeller med långa kodblock eller text som orsakar överlap
 
 **HTML-tabeller med balanserade bilder**
 
-Använd `fixed` för HTML-tabeller som kräver balanserade bilder som inte är balanserade när `auto` är markerat. I det här exemplet har bilderna identiska storlekar, men det finns mer text i den mellersta kolumnen.
+Använd `fixed` för HTML-tabeller som kräver balanserade bilder som blir obalanserade när `auto` väljs. I det här exemplet har bilderna identiska storlekar, men det finns mer text i den mellersta kolumnen.
 
 *Auto*
 
@@ -246,7 +246,7 @@ Använd `fixed` för HTML-tabeller som kräver balanserade bilder som inte är b
     <div>
     <a href="note-test.md"><strong>Arbetsflöde för Adobe leads</strong></a>
     </div>
-    <em>Huvudredigeringsarbetsflöde för leadskrivare.</em>
+    <em>Huvudarbetsflöde för redigering för leadskrivare.</em>
     <br>
   </td>
   <td>
@@ -256,7 +256,7 @@ Använd `fixed` för HTML-tabeller som kräver balanserade bilder som inte är b
     <div>
     <a href="syntax-style-guide.md"><strong>Arbetsflöde för användare med låg frekvens</strong></a>
     </div>
-    <em>Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra.</em>
+    <em>Inte en huvudskrivare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig det enklaste sättet att göra bidrag.</em>
     <br>
   </td>
   <td>
@@ -283,7 +283,7 @@ Använd `fixed` för HTML-tabeller som kräver balanserade bilder som inte är b
     <div>
     <a href="note-test.md"><strong>Arbetsflöde för Adobe leads</strong></a>
     </div>
-    <em>Huvudredigeringsarbetsflöde för leadskrivare.</em>
+    <em>Huvudarbetsflöde för redigering för leadskrivare.</em>
     <br>
   </td>
   <td>
@@ -293,7 +293,7 @@ Använd `fixed` för HTML-tabeller som kräver balanserade bilder som inte är b
     <div>
     <a href="syntax-style-guide.md"><strong>Arbetsflöde för användare med låg frekvens</strong></a>
     </div>
-    <em>Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra.</em>
+    <em>Inte en huvudskrivare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig de enklaste sätten att bidra. Inte en ledande författare? Lär dig det enklaste sättet att göra bidrag.</em>
     <br>
   </td>
   <td>
