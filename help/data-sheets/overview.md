@@ -2,10 +2,10 @@
 title: Översikt över Adobes framgångsplaner
 description: Den här artikeln ger en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
 workflow-type: tm+mt
-source-wordcount: '2201'
-ht-degree: 100%
+source-wordcount: '2199'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Adobes framgångsplaner går steget längre än att lösa reaktiva problem och g
 | **Tillägget Avancerad molnsupport**<br> Avancerad vård och värdesäkring för kunder av Adobe Experience Manager as a Cloud Service | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
 | **Tillägget Mentorsessioner**<br> Erbjuder kunskapsbaserad inlärning i en utbildningsmetod som är perfekt tidsmässigt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/green_checkmark.svg){width="20"} Ingår |
 | **Tillägget Utvecklarboost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägget Paket med köprioritering**<br> Hoppa över kön för att få dina ärenden bearbetade först med ytterligare åtkomst till Mentorsessioner och Utvecklarboost | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägg för prioriteringsköpaket**<br> Ger snabbare svarstider, en enda kontaktpunkt för supportaktiviteter och åtkomst till Success Accelerators. | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
 
 {style="table-layout:fixed"}
 
