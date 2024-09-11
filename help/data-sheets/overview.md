@@ -2,9 +2,9 @@
 title: Översikt över Adobes framgångsplaner
 description: Den här artikeln ger en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: ht
-source-wordcount: '2199'
+source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+workflow-type: tm+mt
+source-wordcount: '2203'
 ht-degree: 100%
 
 ---
@@ -34,8 +34,8 @@ Adobes framgångsplaner går steget längre än att lösa reaktiva problem och g
 | **Tillägget Händelsehantering**<br> ger ett heltäckande ledarskap och stöd som krävs för att hantera hela livscykeln för viktiga händelser | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
 | **Tillägget Director för tekniskt konto**<br> Den ledande tekniska resursen som tillhandahåller ledarskapstillsyn, äger chefsengagemanget och säkerställer styrning för att maximera resultaten i företaget | ![ikonen inte tillgängligt](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
 | **Tillägget Avancerad molnsupport**<br> Avancerad vård och värdesäkring för kunder av Adobe Experience Manager as a Cloud Service | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt |
-| **Tillägget Mentorsessioner**<br> Erbjuder kunskapsbaserad inlärning i en utbildningsmetod som är perfekt tidsmässigt | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen tillgängligt](assets/green_checkmark.svg){width="20"} Ingår |
-| **Tillägget Utvecklarboost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Mentorsessioner**<br> Erbjuder kunskapsbaserad inlärning i en utbildningsmetod som är perfekt tidsmässigt | ![ikonen inte tillgängligt](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![ikonen tillgängligt](assets/green_checkmark.svg){width="20"} Ingår |
+| **Tillägget Utvecklarboost**<br> Ger tillgång till fältingenjörer som kan hjälpa till med arbetet med att åtgärda fel | ![ikonen inte tillgängligt](assets/Cross_red_circle.svg){width="20"} Inte tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
 | **Tilläggspaketet Prioriterad kö**<br> Ger snabbare svarstider, en enda kontaktpunkt för supportaktiviteter och tillgång till framgångscceleratorer. | ![ikonen tillgängligt](assets/Plus_blue.svg){width="20"} Tillgängligt | ![ikonen ingår](assets/green_checkmark.svg){width="20"} Ingår |
 
 {style="table-layout:fixed"}
