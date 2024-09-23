@@ -4,9 +4,9 @@ user-guide-description: Framgångsplaner och supportresurser för Adobe Experien
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2255dad674f1b4d456ffb50ebec9313bc4b3d7f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 96%
       + [Elite](dme-elite.md)
 + [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Dold översikt](hidden-overview.md)
-+ [Dold - snedstreck i kodblock](hidden/slashes-in-code-blocks.md)
++ [Dold – snedstreck i kodblock](hidden/slashes-in-code-blocks.md)
 + [Dolt nytt test](hidden-new-test.md)
 + [Dolt nytt test 2](hidden-new-test-2.md)
 + [Dold testfil](hidden-test.md)
