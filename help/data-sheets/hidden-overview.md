@@ -4,10 +4,10 @@ description: Den här sidan är dold för sökning och från innehållsförteckn
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 37%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 37%
 + [Omdirigeringstest](hidden/test-redirection.md)
 + [Autoaktivera test](hidden/autoactivate.md)
 
-## Nytt avsnitt
+## Nytt avsnitt Akamai
 
-Jag klickar inte på Publish Now, så om du ser detta så har autoactivate aktiverats.
-
-7 augusti 2024
+Testa om ändringarna fungerar med AEM Live.
