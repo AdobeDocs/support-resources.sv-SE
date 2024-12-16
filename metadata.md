@@ -5,17 +5,17 @@ product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.sv-SE
-index: true
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
+hide: true
+source-git-commit: 7e4ac30891832abca354e4f42530cc22aa808998
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 
 
 # Metadata för intern användning
 
-Filen metadata.md innehåller metadata på arkivnivå som skickas till användarhandbokens TOC.md-filer i arkivet. Om du vill ändra innehåll i metadata.md för någon användarhandbok gör du detta i en TOC.md-fil.
+Filen metadata.md innehåller metadata på lagringsplatsnivå som skickas till TOC.md-filer för användarhandboken i lagringsplatsen. Om du vill ändra innehållet för metadata.md för en användarhandbok gör du det i en TOC.md-fil.
 
 I [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=sv) finns en lista över giltiga värden för **lösning**, **produkt** och **typ**.
