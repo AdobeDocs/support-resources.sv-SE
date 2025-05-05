@@ -287,7 +287,7 @@ Det här är text i ett fällt avsnitt.
 * Du kan lägga till rubriker inuti fällbara avsnitt, men det rekommenderas inte.
 * [Dragspel är inte alltid svaret på komplext innehåll på datorer](https://www.nngroup.com/articles/accordions-complex-content/)
 * En historisk nackdel med komprimerbara avsnitt är att **Sök på sida** (Ctrl/Cmd+F) ignorerar komprimerad text. Det är fortfarande sant i Safari, men det är inte längre sant i Chrome; Find in Page identifierar dold text i Chrome.
-* Exempel på en sida med [underhållsuppdateringar](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) med infällbara avsnitt.
+* Exempel på en sida med [underhållsuppdateringar](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=sv-SE) med infällbara avsnitt.
 
 ## Kommentarer och kommentarer
 
@@ -626,8 +626,8 @@ Använd komponenten &quot;Mer som den här&quot; för att visa relaterade länka
 
 >[!MORELIKETHIS]
 >
->* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
->* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Artikel 1](https://helpx.adobe.com/se/support/analytics.html)
+>* [Artikel 2](https://helpx.adobe.com/se/support/audience-manager.html)
 
 ## Anteckningar/tillägg
 

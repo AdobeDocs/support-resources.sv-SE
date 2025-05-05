@@ -18,49 +18,49 @@ ht-degree: 6%
 
 ::::: landningskort-container
 ::
-![Alt-text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Alt-text](https://experienceleague.adobe.com/sv/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
-![ Alt-text ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ Alt-text ](https://experienceleague.adobe.com/sv/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
-![ Alt-text ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ Alt-text ](https://experienceleague.adobe.com/sv/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
-![ Alt-text ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ Alt-text ](https://experienceleague.adobe.com/sv/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
-![ Alt-text ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ Alt-text ](https://experienceleague.adobe.com/sv/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::::
 
@@ -73,7 +73,7 @@ Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
 
@@ -81,7 +81,7 @@ Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
 
@@ -89,7 +89,7 @@ Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
 
@@ -97,7 +97,7 @@ Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::
 
@@ -105,6 +105,6 @@ Avdelning 1
 
 Detta är kortbeskrivningen.
 Det här är kortets innehåll.
-[Läs mer](https://experienceleague.adobe.com/?lang=sv#home)
+[Läs mer](https://experienceleague.adobe.com/sv?lang=sv#home)
 ::
 ::::

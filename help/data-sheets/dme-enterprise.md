@@ -288,7 +288,7 @@ Ditt supportteam kan också hjälpa dig att samordna och arrangera leveransen av
 | [Enterprise Learn &amp; Support](https://helpx.adobe.com/se/enterprise.html) | Enterprise Learn &amp; Support är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
 | [Adobe Support Community](https://community.adobe.com/) | På Adobe Support Community kan du ställa frågor, hitta svar, lära dig av experter och dela med dig av dina kunskaper. |
 | [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
+| [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
 {style="table-layout:auto"}
 

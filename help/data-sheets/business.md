@@ -240,11 +240,11 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | Resurs | Beskrivning |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=sv#home) | Experience League är hur Adobe hjälper företag att uppnå det värde de förväntar sig av sin Adobe-investering. Det är en samlad plats där kunderna kan lära sig, skapa kontakter och växa på en personlig väg till framgång som inkluderar självhjälpshandledning, produktdokumentation, instruktörsledd utbildning, community och teknisk support. |
+| [Experience League](https://experienceleague.adobe.com/sv?lang=sv#home) | Experience League är hur Adobe hjälper företag att uppnå det värde de förväntar sig av sin Adobe-investering. Det är en samlad plats där kunderna kan lära sig, skapa kontakter och växa på en personlig väg till framgång som inkluderar självhjälpshandledning, produktdokumentation, instruktörsledd utbildning, community och teknisk support. |
 | [Utbildning](https://training.adobe.com/training/) | Adobe Digital Learning Services-kurser är tillgängliga från Experience League. Utbildningskurserna innehåller både on-demand- och lärarledda lektioner. Här kan du skaffa dig färdigheter med erkänt marknadsvärde och positionera dem för att skapa framgång i dina organisationer. |
 | [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Webbplats för företagssupport](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support-webbplatsen. |
-| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
+| [Webbplats för företagssupport](https://helpx.adobe.com/se/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support-webbplatsen. |
+| [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
 ## Adobe support, lokal kontorstid och språkstöd
 
