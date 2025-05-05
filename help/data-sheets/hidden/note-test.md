@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>Använd variabeln {{name}}.</li></ol>
 
-<ol><li>Använd variabeln &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Använd variabeln &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
 
 ## Kapslat test
 

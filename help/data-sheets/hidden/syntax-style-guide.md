@@ -132,7 +132,7 @@ I vårt redigeringssystem används blockquotes-syntax (`>` i början av raderna)
 
 Används för att återge en del kod textbundet i en mening. Idealiskt att anropa ett cookie-namn, filnamn, värde eller kommando som inte kräver ett fullständigt kodsblock.
 
-Innehåll i kodblock återges som de är och inte lokaliseras. (Det enda undantaget till den här regeln är `!UICONTROL` och `!DNL`-syntax, som tas bort vid paketering för publicering.)
+Innehåll i kodblock återges som de är och inte lokaliseras. (Det enda undantaget till den här regeln är `` och ``-syntax, som tas bort vid paketering för publicering.)
 
 Använd även kodblock för exempel-URL:er som inte ska verifieras: `https://www.example.com`
 
@@ -152,7 +152,7 @@ Detta är `inline code` i ett textstycke.
 >
 >Du kan också radbryta text i tre bakåtrutor (&grave;&grave;&grave;) för att skapa ett inline-kodblock. Detta är särskilt användbart när du behöver referera till ett bakåtskalstreck i ett textbundet kodblock. Exempel:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
 
 ## Kodblock (fäst)
 
@@ -164,7 +164,7 @@ Observera att kodblock inte är lokaliserade.
 
 >[!TIP]
 >
-Ange ett språk när du skapar ett avgränsat kodblock. Om du anger ett språk kan syntaxmarkering bara användas för det språket och en **Kopiera**-knapp visas för användarna. Du kan också visa radnummer om du anger ett språk.
+>Ange ett språk när du skapar ett avgränsat kodblock. Om du anger ett språk kan syntaxmarkering bara användas för det språket och en **Kopiera**-knapp visas för användarna. Du kan också visa radnummer om du anger ett språk.
 
 **Syntax**
 
@@ -282,7 +282,7 @@ Det här är text i ett fällt avsnitt.
 
 **Anteckningar**
 
-* Kapsla inte infällbara avsnitt inuti fällbara sektioner. Kapslade komprimerbara avsnitt återges inte korrekt. De orsakar dock inte att valideringen misslyckas, så användarna ser syntaxen `+++` för det kapslade avsnittet.
++++* Kapsla inte infällbara avsnitt inuti fällbara sektioner. Kapslade komprimerbara avsnitt återges inte korrekt. De orsakar dock inte att valideringen misslyckas, så användarna ser syntaxen `` för det kapslade avsnittet.
 * Se till att du lägger till tomma rader ovanför och nedanför objekt som punktlistor och kodblock inuti det komprimerbara avsnittet, annars får du ett valideringsfel.
 * Du kan lägga till rubriker inuti fällbara avsnitt, men det rekommenderas inte.
 * [Dragspel är inte alltid svaret på komplext innehåll på datorer](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Undvik att lägga till kommentarer i blockkomponenter som punktlistor, särskilt kapslade punktlistor. Kommentaren kan ändra hur punktlistan återges.
+>Undvik att lägga till kommentarer i blockkomponenter som punktlistor, särskilt kapslade punktlistor. Kommentaren kan ändra hur punktlistan återges.
 >
-Kommentera inte rader i mitten av innehållsförteckningslistan i filen TOC.md. Detta kan göra att innehållsförteckningslistan delas upp och orsaka valideringsfel. Flytta i stället kommentarerna i innehållsförteckningen till slutet av filen.
+>Kommentera inte rader i mitten av innehållsförteckningslistan i filen TOC.md. Detta kan göra att innehållsförteckningslistan delas upp och orsaka valideringsfel. Flytta i stället kommentarerna i innehållsförteckningen till slutet av filen.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Ladda upp ZIP-filen eller någon annan hämtningsbar fil till katalogen assets och länka sedan till den. Om det är en ZIP-fil laddas filen ned om du klickar på länken. Om det är en filtyp, till exempel PDF eller PNG, som kan öppnas i en webbläsare, öppnas en ny flik när du klickar på länken. För sådana filer bör du överväga att zippa upp dem eller ge instruktioner om hur du högerklickar på länken och hämtar dem.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 Återgiven:
 
@@ -378,7 +378,7 @@ Hämta [test-zip](assets/download-test.zip)
 
 >[!NOTE]
 >
-Den maximala filstorleken för nedladdningsfiler och bilder är 100 MB. Det är gränsen för github.com. git.corp.adobe.com är högre (250 MB), men vi måste kunna kopiera filer till github.com.
+>Den maximala filstorleken för nedladdningsfiler och bilder är 100 MB. Det är gränsen för github.com. git.corp.adobe.com är högre (250 MB), men vi måste kunna kopiera filer till github.com.
 
 ## Rubriker {#headings}
 
@@ -497,7 +497,7 @@ Bob - Bredd = 300 pixlar under
 
 >[!NOTE]
 >
-Den största filstorleken för bilder är 100 MB. Det är gränsen för github.com. git.corp.adobe.com är högre (250 MB), men vi måste kunna kopiera filer till github.com.
+>Den största filstorleken för bilder är 100 MB. Det är gränsen för github.com. git.corp.adobe.com är högre (250 MB), men vi måste kunna kopiera filer till github.com.
 
 ### Bildlänkar
 
@@ -626,8 +626,8 @@ Använd komponenten &quot;Mer som den här&quot; för att visa relaterade länka
 
 >[!MORELIKETHIS]
 >
-* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
-* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
+>* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
 
 ## Anteckningar/tillägg
 
@@ -645,7 +645,7 @@ Vi har utökat Markdown för att formatera olika typer av anteckningar: Obs!, Ti
 
 >[!NOTE]
 >
-Det här är ett vanligt anteckningsblock.
+>Det här är ett vanligt anteckningsblock.
 
 **Syntax**
 
@@ -659,7 +659,7 @@ Det här är ett vanligt anteckningsblock.
 
 >[!TIP]
 >
-Det här är ett standardtips.
+>Det här är ett standardtips.
 
 **Syntax**
 
@@ -673,7 +673,7 @@ Det här är ett standardtips.
 
 >[!WARNING]
 >
-Detta är ett standardvarningsblock.
+>Detta är ett standardvarningsblock.
 
 **Syntax**
 
@@ -687,7 +687,7 @@ Detta är ett standardvarningsblock.
 
 >[!IMPORTANT]
 >
-Detta är ett viktigt standardblock.
+>Detta är ett viktigt standardblock.
 
 **Syntax**
 
@@ -703,35 +703,35 @@ Detta är ett viktigt standardblock.
 
 >[!NOTE]
 >
-Det här är ett vanligt anteckningsblock.
+>Det här är ett vanligt anteckningsblock.
 >
-Det innehåller flera stycken.
+>Det innehåller flera stycken.
 
 Nya anteckningstyper som stöds:
 
 >[!ADMIN]
 >
-Det här är en administratörsanteckning. Endast EXL.
+>Det här är en administratörsanteckning. Endast EXL.
 
 >[!AVAILABILITY]
 >
-Det här är en tillgänglighetsanteckning. Endast EXL.
+>Det här är en tillgänglighetsanteckning. Endast EXL.
 
 >[!PREREQUISITES]
 >
-Detta är en kravanteckning. Endast EXL.
+>Detta är en kravanteckning. Endast EXL.
 
 >[!INFO]
 >
-Det här är en informationsanteckning. Endast EXL.
+>Det här är en informationsanteckning. Endast EXL.
 
 >[!ERROR]
 >
-Det här är en felanteckning. Endast EXL.
+>Det här är en felanteckning. Endast EXL.
 
 >[!SUCCESS]
 >
-Detta är en framgångsanteckning. Endast EXL.
+>Detta är en framgångsanteckning. Endast EXL.
 
 ## Numrerade listor och punktlistor {#lists}
 
@@ -827,7 +827,7 @@ Du kan även bädda in listor i listor och lägga till innehåll mellan listobje
 
    >[!NOTE]
    >
-   Det här är anteckningstext.
+   >Det här är anteckningstext.
 
 1. Gör ett steg till.
 
@@ -856,7 +856,7 @@ I vissa fall använder du en HTML-tabell för att skapa en balanserad design, me
 
 >[!NOTE]
 >
-Överdriv inte. För vanliga tabeller vill vi ha en enhetlig design för hela innehållet.
+>Överdriv inte. För vanliga tabeller vill vi ha en enhetlig design för hela innehållet.
 
 ![tabelltips](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Tabeller kan vara problematiska i kod. När tabeller migreras från det tidigare
 
 >[!TIP]
 >
-Titta på videon [Markup Tables](https://video.tv.adobe.com/v/26220)
+>Titta på videon [Markup Tables](https://video.tv.adobe.com/v/26220)
 
 Inbyggda tabeller ser ofta bättre ut i Markdown. Kolumnernas storlek beror på deras innehåll. HTML-tabeller återges med kolumner med samma bredd.
 
@@ -888,7 +888,7 @@ Markering stöder som standard inte flera rader eller listor i celler. Vi har em
 
 >[!IMPORTANT]
 >
-Var försiktig när du lägger till de här HTML-koderna i markeringstabeller. Om syntaxen är felaktig får du ett förvirrande valideringsfel som inte korrekt beskriver problemet. Kontrollera HTML-syntaxen för att se till att den är korrekt formaterad.
+>Var försiktig när du lägger till de här HTML-koderna i markeringstabeller. Om syntaxen är felaktig får du ett förvirrande valideringsfel som inte korrekt beskriver problemet. Kontrollera HTML-syntaxen för att se till att den är korrekt formaterad.
 
 Inte tillåtet i någon tabell: iframes, cellintervall eller inbäddade tabeller.
 
@@ -1035,9 +1035,9 @@ Som allmän regel bör du använda `<span class="preview">` för att markera ett
 
 >[!NOTE]
 >
-Vi arbetar fortfarande med att förbättra färgmarkeringen för vissa sidelement som anteckningar och tabeller. Du kan logga JIRA-fel om du ser felaktig återgivning. Pågår.
+>Vi arbetar fortfarande med att förbättra färgmarkeringen för vissa sidelement som anteckningar och tabeller. Du kan logga JIRA-fel om du ser felaktig återgivning. Pågår.
 >
-VSC-förhandsgranskning stöder ännu inte markering.
+>VSC-förhandsgranskning stöder ännu inte markering.
 
 ## Video
 
@@ -1115,7 +1115,7 @@ En fullständig lista över HTML-entiteter finns på webbplatsen [FreeFormatter]
 
 >[!NOTE]
 >
-För kedjesteg som &quot;Välj Arkiv > Spara som&quot; behöver du inte kringgå tecknet `>` eftersom det inte finns bredvid andra tecken. För variabler som `<filename>` vill du undvika vinkelparenteserna med kodblocket `backticks` eller teckenkoderna (`&lt;filename&gt;`).
+>För kedjesteg som &quot;Välj Arkiv > Spara som&quot; behöver du inte kringgå tecknet `>` eftersom det inte finns bredvid andra tecken. För variabler som `<filename>` vill du undvika vinkelparenteserna med kodblocket `backticks` eller teckenkoderna (`&lt;filename&gt;`).
 
 Om du använder HTML-enheter i kodblock konverteras inte enhetstexten till specialtecknet. `&gt;` visas till exempel i ett kodblock som `&gt;` i stället för >.
 
@@ -1158,4 +1158,4 @@ Vi använder blockcitattecken (`>` i början av en rad) för att indikera utöka
 
 >[!NOTE]
 >
-Om du drar in för långt, till exempel sex blanksteg i stället för tre, återges innehållet som en blockcitat. Använd rätt mängd indrag för att undvika att innehållet återges felaktigt som ett blockcitat.
+>Om du drar in för långt, till exempel sex blanksteg i stället för tre, återges innehållet som en blockcitat. Använd rätt mängd indrag för att undvika att innehållet återges felaktigt som ett blockcitat.

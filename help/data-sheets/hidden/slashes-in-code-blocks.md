@@ -26,4 +26,4 @@ vendor/bin/magento-patches -n status |grep &quot;27015\|Status&quot;
 
 Backslash med Escaped:
 
-vendor/bin/magento-patches -n status |grep &quot;27015&amp;bsol;|Status&quot;
+vendor/bin/magento-patches -n status |grep &quot;27015&bsol;|Status&quot;

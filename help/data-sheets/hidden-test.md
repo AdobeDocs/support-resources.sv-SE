@@ -160,10 +160,10 @@ För märken används färger som definieras i Adobe Spectrum:
 | Typ | Märke |
 |---|---|
 | Informativ (standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Ny funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
-| Negativ | [!BADGE Avvecklad]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
-| Neutral | [!BADGE Kanske]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
-| Varning | [!BADGE Observera]{type=Caution tooltip=&quot;Yellow status&quot;} |
+| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
+| Negativ | [!BADGE Avvecklad]{type=negative tooltip="This feature is now end of life"} |
+| Neutral | [!BADGE Kanske]{type=Neutral tooltip="A rider fell off the horse..."} |
+| Varning | [!BADGE Observera]{type=Caution tooltip="Yellow status"} |
 
 Exempel på syntax
 

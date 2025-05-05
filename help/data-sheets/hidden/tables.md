@@ -40,7 +40,7 @@ Tyvärr har vi inte lyckats hitta ett enda verktyg som kan konvertera HTML-tabel
 
 * Se till att du lägger till minst tre bindestreck på den andra raden som bestämmer tabellegenskaperna. Exempel: `|--- |--- |--- |` för en tabell med tre kolumner.
 * Markeringstabeller måste ha minst en rubrikrad och en innehållsrad. Du kan inte skapa en enradig eller encellig markeringstabell (använd HTML istället).
-* Se till att varje rad har samma antal lodstreck (&amp;vert; ). Om du behöver inkludera ett lodstreck i en tabellcell kan du undvika det genom att föregå det med ett omvänt snedstreck (`\|`) eller använda enhetskoden HTML (`&vert;`).
+* Se till att varje rad har samma antal lodstreck (&vert; ). Om du behöver inkludera ett lodstreck i en tabellcell kan du undvika det genom att föregå det med ett omvänt snedstreck (`\|`) eller använda enhetskoden HTML (`&vert;`).
 * Var försiktig med att använda kodblock i tabeller. Textbundna kodblock kan orsaka oproportionella kolumnbredder.
 * Du kan ändra hur tabellen återges genom att ange Auto eller Fast. Se [Ändra hur tabeller återges](#table-rendering).
 
