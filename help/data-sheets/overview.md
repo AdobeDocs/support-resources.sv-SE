@@ -3,7 +3,7 @@ title: Översikt över Adobes framgångsplaner
 description: Den här artikeln ger en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2203'
 ht-degree: 100%
 
