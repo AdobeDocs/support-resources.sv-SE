@@ -60,7 +60,7 @@ _[Knappen Sekundär](https://www.adobe.com/)_
 
 Följande stycke återges inte korrekt i VSC Preview. Jag är inte säker på varför.
 
-Om ditt lösenord hanteras av [!DNL Adobe] kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Om ditt lösenord hanteras av [!DNL Adobe] kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/se/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Anteckningstyper
 
