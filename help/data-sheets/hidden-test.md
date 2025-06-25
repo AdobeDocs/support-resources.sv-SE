@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Ladda ned Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 98%
+source-wordcount: '1258'
+ht-degree: 95%
 
 ---
 
 # Dold testsida
 
-Vill du förhandsgranska igen? Ska komma fram till Jenkins. 31 mars.
-
-3:02 PM
+Publiceringstest. 25 juni 2025 kl. 10.20.
 
 ## Problemtabeller med bilder
 
@@ -62,7 +60,7 @@ _[Knappen Sekundär](https://www.adobe.com/)_
 
 Följande stycke återges inte korrekt i VSC Preview. Jag är inte säker på varför.
 
-Om ditt lösenord hanteras av [!DNL Adobe] kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/se/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Om ditt lösenord hanteras av [!DNL Adobe] kan du [ändra lösenordet i ditt Adobe-konto](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Anteckningstyper
 
@@ -123,7 +121,7 @@ Ett märke är en färgad etikett som används som innehållsindikator. Du kan t
 
 [!BADGE Exempel på märke]
 
-Det finns två typer of märken, vart och ett med olika syntax:
+Det finns två typer av emblem med olika syntax:
 
 * **Metadata** – Visar märket högst upp på en sida
 * **Textbundet** – Visar märket där syntaxen finns
@@ -160,10 +158,10 @@ För märken används färger som definieras i Adobe Spectrum:
 | Typ | Märke |
 |---|---|
 | Informativ (standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativ | [!BADGE Avvecklad]{type=negative tooltip="This feature is now end of life"} |
-| Neutral | [!BADGE Kanske]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Varning | [!BADGE Observera]{type=Caution tooltip="Yellow status"} |
+| Positiv | [!BADGE Ny funktion]{type=Positive url="https://www.example.com" tooltip="Gå till example.com"} |
+| Negativ | [!BADGE Avbruten]{type=negative tooltip="Den här funktionen är nu inte längre användbar"} |
+| Neutral | [!BADGE Kanske]{type=Neutral tooltip="En ryttare föll av hästen..."} |
+| Varning | [!BADGE Obs!]{type=Caution tooltip="Gul status"} |
 
 Exempel på syntax
 
