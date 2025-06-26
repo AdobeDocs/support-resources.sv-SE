@@ -4,9 +4,9 @@ user-guide-description: Framgångsplaner och supportresurser för Adobe Experien
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Resurser för framgångsplaner {#data-sheets}
 
 + [Översikt över Adobes framgångsplaner](overview.md)
-+ The Crux Podcast{#crux-podcast}
++ Crux podcast{#crux-podcast}
    + [Avsn. 1 – Billy Georgaros](episode1.md)
-
      [Avsn. 2 – Karrie Benjamin](episode2.md)
      [Avsn. 3 – George Kotsinis](episode3.md)
      [Avsn. 4 – Jessica Ouellette](episode4.md)
@@ -25,7 +24,7 @@ ht-degree: 92%
      [Ep.7 – Chris Diaz](episode7.md)
      [Ep.8 – Vincent Lee](episode8.md)
      [Avsn. 9 – Ren Wightman](episode9.md)
-+ Adobe supportavtal före 16 juni 2022{#prior-plans}
++ Adobe Support-planer före 16 juni 2022{#prior-plans}
    + [Översikt över tidigare Adobe Support-planer](overview-prior-plans.md)
    + Experience Cloud-tjänster {#data-sheets}
       + [Översikt över Adobe Support](dx-overview.md)
@@ -34,8 +33,8 @@ ht-degree: 92%
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Guide för kundsupport](support-guide.md)
-   + Creative Cloud och Document Cloud Services {#dme-data-sheets}
-      + [Creative Cloud och Document Cloud Services](dme-overview.md)
+   + Creative Cloud- och Document Cloud-tjänster {#dme-data-sheets}
+      + [Creative Cloud- och Document Cloud-tjänster](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
