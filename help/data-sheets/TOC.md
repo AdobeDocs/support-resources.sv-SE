@@ -3,8 +3,8 @@ user-guide-title: Resurser för framgångsplaner
 user-guide-description: Framgångsplaner och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: ht
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 
@@ -52,10 +52,10 @@ ht-degree: 100%
 + [Guide för dold syntax](hidden/syntax-style-guide.md)
 + [Dolt tabelltest](hidden/tables.md)
 + [Dolda tabellbrytningar](hidden/table-breaks.md)
-+ [Test av dold anteckning](hidden/note-test.md)
 + [Dolda omdirigeringar](hidden/redirect-tests.md)
 + Testavsnitt {#test-section}
    + [Dold Ny autoaktivering endast](hidden/autoactivate.md)
+   + [Test av dold anteckning](hidden/note-test.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)

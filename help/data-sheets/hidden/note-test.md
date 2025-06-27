@@ -1,23 +1,25 @@
 ---
-description: Ansluta till Widget-Datan Warehouse - produktdokumentation
-title: Ansluta till Widget-Datan Warehouse
+description: Ansluta till widgeten Data Warehouse - produktdokumentation
+title: Ansluta till widgeten Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# Ansluta till Widget-Datan Warehouse {#connecting-to-the-widget-data-warehouse}
+# Ansluta till widgeten Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## Nytt test
 
+Juni 27
+
 <ol><li>Använd variabeln {{name}}.</li></ol>
 
-<ol><li>Använd variabeln &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
+<ol><li>Använd variabeln &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Kapslat test
 
@@ -50,7 +52,7 @@ Om du vill komma åt ditt Widget-datalager måste du navigera till den specifika
 
    ![](assets/adobe-logo-old.png)
 
-1. Klicka på **Data Warehouse** under Dokumentskydd på den vänstra menyn.
+1. Klicka på **Data Warehouse** under Säkerhet på den vänstra menyn.
 
    ![](assets/adobe-logo-old.png)
 
@@ -98,17 +100,17 @@ Du måste ange några uppgifter för att kunna koppla ditt Widget-datalager till
 * **URI** (alltid obligatoriskt)
    * Detta är domännamnet för widgetkontot.  Den finns i en del av widgetens inloggningslänk.
 * **Användarnamn** (alltid obligatoriskt)
-   * Användarnamnet visas på informationssidan för Data Warehouse i Marketo Measure.
+   * Användarnamnet visas på Data Warehouse informationssida i Marketo Measure.
 * **Lösenord** (alltid obligatoriskt)
    * Det här är det lösenord som du angav första gången du loggade in på ditt Widget-konto.  Information om hur du återställer lösenordet finns i instruktionerna ovan.
 * **Databasnamn** (krävs inte alltid)
-   * Databasen är den som lagrar data i widgeten. Det är lagringsresursen. Databasnamnet visas på Datans Warehouse informationssida i Marketo Measure.
+   * Databasen är den som lagrar data i widgeten. Det är lagringsresursen. Databasnamnet visas på Data Warehouse informationssida i Marketo Measure.
 * **Namn på lagerställe** (krävs inte alltid)
-   * Lagerstället är det som kör frågor i widgeten. Det är beräkningsresursen.  Lagerställets namn visas på informationssidan för Data Warehouse i Marketo Measure.
+   * Lagerstället är det som kör frågor i widgeten. Det är beräkningsresursen.  Lagerställets namn visas på Data Warehouse informationssida i Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
 
-## Direktdelning för Widget-Data Warehouse {#widget-data-warehouse-direct-share}
+## Widget Data Warehouse Direct Share {#widget-data-warehouse-direct-share}
 
 **Krav**
 
