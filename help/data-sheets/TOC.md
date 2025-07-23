@@ -4,9 +4,9 @@ user-guide-description: Framgångsplaner och supportresurser för Adobe Experien
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Översikt över Adobes framgångsplaner](overview.md)
 + Crux podcast{#crux-podcast}
    + [Avsn. 1 – Billy Georgaros](episode1.md)
-
      [Avsn. 2 – Karrie Benjamin](episode2.md)
      [Avsn. 3 – George Kotsinis](episode3.md)
      [Avsn. 4 – Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Dold översikt](hidden-overview.md)
 + [Dold felsökning](hidden-trouble.md)
-+ [Funktiva rubriker UGP-13342](hidden-funky-headings.md)
++ [Underliga rubriker UGP-13342](hidden-funky-headings.md)
 + [Dold – snedstreck i kodblock](hidden/slashes-in-code-blocks.md)
 + [Dolt nytt test](hidden-new-test.md)
 + [Dolt nytt test 2](hidden-new-test-2.md)
