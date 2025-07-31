@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Taggbiblioteken Granite, CQ och Sling ger dig tillgång till specifika funktione
 
 ## **Fet rubrik**
 
-Det här är en fet rubrik
+Det här är en fet rubrik ovan.
+
+29 juli 2025
 
 ## *Kursiv rubrik*
 
-Det här är en kursiv rubrik
+Det här är en kursiv rubrik ovan.
 
 ## Bibliotek för Granite-taggar {#granite-tag-library}
 
