@@ -16,7 +16,6 @@ ht-degree: 98%
 + [Översikt över Adobes framgångsplaner](overview.md)
 + Crux podcast{#crux-podcast}
    + [Avsn. 1 – Billy Georgaros](episode1.md)
-
      [Avsn. 2 – Karrie Benjamin](episode2.md)
      [Avsn. 3 – George Kotsinis](episode3.md)
      [Avsn. 4 – Jessica Ouellette](episode4.md)
