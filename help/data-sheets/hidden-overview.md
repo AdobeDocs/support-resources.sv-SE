@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Bild
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nytt avsnitt 30 januari
 
