@@ -35,7 +35,7 @@ syntax ett:
 
 renderad:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 syntax två:
@@ -48,7 +48,7 @@ syntax två:
 
 renderad:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
