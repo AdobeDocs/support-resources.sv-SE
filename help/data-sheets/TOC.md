@@ -3,9 +3,9 @@ user-guide-title: Resurser för framgångsplaner
 user-guide-description: Framgångsplaner och supportresurser för Adobe Experience Cloud och Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Dold översikt](hidden-overview.md)
-+ [Dold kollaps](hidden-collapse.md)
-+ [Dold felsökning](hidden-trouble.md)
-+ [Underliga rubriker UGP-13342](hidden-funky-headings.md)
-+ [Dold – snedstreck i kodblock](hidden/slashes-in-code-blocks.md)
-+ [Dolt nytt test](hidden-new-test.md)
-+ [Dolt nytt test 2](hidden-new-test-2.md)
-+ [Dold testfil](hidden-test.md)
-+ [Dolda felkorrigeringar](hidden/bug-fixes.md)
-+ [Dold EDS-testruta](hidden/test-page.md)
-+ [Dolt omdirigeringstest](hidden/test-redirection.md)
-+ [Guide för dold syntax](hidden/syntax-style-guide.md)
-+ [Dolt tabelltest](hidden/tables.md)
-+ [Dolda tabellbrytningar](hidden/table-breaks.md)
-+ [Test av dold anteckning](hidden/note-test.md)
-+ [Dolda omdirigeringar](hidden/redirect-tests.md)
-+ Testavsnitt {#test-section}
-   + [Dold Ny autoaktivering endast](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
