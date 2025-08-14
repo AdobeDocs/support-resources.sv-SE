@@ -2,10 +2,10 @@
 title: Översikt över Adobes framgångsplaner
 description: Den här artikeln ger en sammanfattning av kundsupportalternativen för Adobe Experience Cloud, Adobe Document Cloud och Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
 workflow-type: tm+mt
-source-wordcount: '2203'
-ht-degree: 100%
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Namngivna supportkontakter kan skicka in problem via alla tillgängliga kanaler 
 
 | Amerika | Europa, Mellanöstern och Afrika | Asien/Stillahavsområdet | Japan |
 |---|---|---|---|
-| 6.00-17.30 | 09.00–17.00 | 09.00–17.00 | 09.00–17.00 |
+| 6:00-17:00:30 | 09.00–17.00 | 09.00–17.00 | 09.00–17.00 |
 
 ## Livscykel för supportärenden – kommer snart
 
@@ -131,7 +131,7 @@ I det här scenariot utförs följande steg när ytterligare information krävs 
 * Den 1:a, 3:e och 5:e dagen efter att statusen angavs som Väntar på svar skickas uppföljningsmeddelanden till kunden med begäran om ytterligare information.
 * Ärendet stängs om kunden inte svarar inom 6 dagar efter att statusen angavs som Väntar på svar och ett stängningsmeddelande skickas.
 
-Kunderna kan öppna ett stängt ärende på nytt inom 14 dagar för att fortsätta kommunicera. Efter 14 dagar kan ett nytt supportärende öppnas för att fortsätta kommunicera gällande ett tidigare stängt ärende.
+Kunderna kan återuppta ett stängt ärende på Experience League inom 14 dagar för att fortsätta kommunicera. Efter 14 dagar kan ett nytt supportärende öppnas för att fortsätta kommunikation i samband med ett tidigare stängt ärende. Observera att svar på ett e-postmeddelande om en stängd biljett inte kommer att öppna den igen.
 
 **Teknikern tillhandahåller en lösning**
 
