@@ -12,6 +12,7 @@ ht-degree: 0%
 # [!DNL Adobe Success] portal: Frågor och svar
 
  
+
 ## Vilket omfång har portalen [!DNL Adobe Success]?
 
 Portalen [!DNL Adobe Success] Adobe en ny centraliserad, kundinriktad plattform som är utformad för att ge en enhetlig upplevelse efter försäljningen när det gäller support, framgång och engagemang. Alpha-versionen fokuserar på att leverera en sammanhängande upplevelse som sammanför verktyg och arbetsflöden som tidigare har spridits över flera plattformar (till exempel supportportalen, manuella Ultimate Success-artefakter). Målet är att effektivisera kundernas interaktion med Adobe under hela livscykeln - från introduktion till förnyelse - samtidigt som man förbättrar transparens, självbetjäning och värdeberäkning.
