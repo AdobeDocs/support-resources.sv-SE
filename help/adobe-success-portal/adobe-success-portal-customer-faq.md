@@ -1,18 +1,17 @@
 ---
 title: '[!DNL Adobe Success] portal: Frågor och svar om kunder'
 description: I den här artikeln finns vanliga frågor och svar om portalen [!DNL Adobe Success] .
-source-git-commit: 4175a16b38fcf481c9c10e55d989e86f8acfd637
+exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
 
-
 # [!DNL Adobe Success] portal: Frågor och svar
 
  
-
 ## Vilket omfång har portalen [!DNL Adobe Success]?
 
 Portalen [!DNL Adobe Success] Adobe en ny centraliserad, kundinriktad plattform som är utformad för att ge en enhetlig upplevelse efter försäljningen när det gäller support, framgång och engagemang. Alpha-versionen fokuserar på att leverera en sammanhängande upplevelse som sammanför verktyg och arbetsflöden som tidigare har spridits över flera plattformar (till exempel supportportalen, manuella Ultimate Success-artefakter). Målet är att effektivisera kundernas interaktion med Adobe under hela livscykeln - från introduktion till förnyelse - samtidigt som man förbättrar transparens, självbetjäning och värdeberäkning.
@@ -35,7 +34,7 @@ Mer information om portalen [!DNL Adobe Success] finns i [[!UICONTROL Portal Ove
 
 ## Hur får jag tillgång till portalen?
 
-Portalen [!DNL Adobe Success] ligger hos Adobe Experience Cloud. Åtkomst till Experience Cloud krävs för att få åtkomst till portalen [!DNL Adobe Success], som är inställd på IMS-organisationsnivå. Se [den här guiden]&#x200B;(https://adobe.sharepoint.com/:b:/r/sites/PPSO/Team Document Library/Ultimate_Portal/External Documentation/Success Portal Alpha Customer Documents/Access to the Adobe Success portal.pdf?csf=1&amp;web=1&amp;e=RQZack) för steg om hur du får åtkomst till portalen.
+Portalen [!DNL Adobe Success] ligger hos Adobe Experience Cloud. Åtkomst till Experience Cloud krävs för att få åtkomst till portalen [!DNL Adobe Success], som är inställd på IMS-organisationsnivå. Se [den här guiden](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) för steg om hur du kommer åt portalen.
 
 Portalåtkomst för Alpha begränsas till en fördefinierad lista över användare som har identifierats för att delta i Alpha-programmet. Om du vill veta mer om vem från din organisation som har åtkomst, och om du vill begära att fler användare får åtkomst, kontaktar du produktteamet med [Alpha Teams-kanalen](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 

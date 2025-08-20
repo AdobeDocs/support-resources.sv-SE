@@ -1,27 +1,27 @@
 ---
 title: Översikt över support och insikter
-description: Kontrollpanelen [!UICONTROL Support & Insights] i Adobe Success Portal ger tillgång till tekniska resurser, miljösökningsresultat och ärendehanteringsverktyg.
+description: /[!DNL Adobe Success/]-portalens [!UICONTROL Support & Insights]-kontrollpanel ger åtkomst till tekniska resurser, miljösökningsresultat och ärendehanteringsverktyg.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
+source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
 # Översikt över support och insikter
 
-Kontrollpanelen **[!UICONTROL Support & Insights]** i Adobe Success Portal ger åtkomst till tekniska resurser, miljösökningsresultat och ärendehanteringsverktyg. Här visas alla dina Adobe-lösningar som enskilda produktrutor.
-
-Använd listrutan *filter* längst upp på sidan om du vill fokusera på en viss produkt.
+Kontrollpanelen **[!UICONTROL Support & Insights]** i portalen [!DNL Adobe Success] ger tillgång till tekniska resurser, miljösökningsresultat och verktyg för ärendehantering. Här visas alla dina Adobe-lösningar som enskilda produktrutor.
 
 Om du vill komma åt den här sidan klickar du på ikonen ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) direkt från den vänstra navigeringspanelen på portalens hemsida.
 
 ![support-and-insights-landing-page](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+Använd listrutan *filter* längst upp på sidan om du vill fokusera på en viss produkt.
+
 Varje produktpanel innehåller viktiga mätvärden, till exempel **[!UICONTROL Findings]**, **[!UICONTROL Open and Closed Cases]** och **[!UICONTROL Major Issues]**. Du kan klicka på någon av dessa mätvärden för att navigera direkt till underavsnittet där du kan utforska detaljerade supportinsikter om din produkt.
 
-## Ögonblicksbild {#snapshot}
+## [!UICONTROL Snapshot] {#snapshot}
 
 Fliken **[!UICONTROL Snapshot]** innehåller chefsanalyser av dina ärenden, upptäckter och varningar. Du öppnar den här fliken genom att klicka på *produktnamnet* på en platta.
 
@@ -31,11 +31,11 @@ Knappen **[!UICONTROL View all]** i varje analys tar dig till motsvarande flik i
 
 ![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## Resultat {#findings}
+## [!UICONTROL Findings] {#findings}
 
 Fliken **[!UICONTROL Findings]** markerar problem som upptäckts med prestanda, säkerhet och funktionalitet. Posterna flaggas baserat på risknivå, status och tid sedan den senaste sökningen.
 
-Klicka på ett inlägg i listan för att visa status, risknivå, orsak, symtom och våra rekommendationer för att ta itu med det. Mer information finns i vår dokumentation om [Hantera resultat i Adobe Success Portal].
+Klicka på ett inlägg i listan för att visa status, risknivå, orsak, symtom och våra rekommendationer för att ta itu med det. Mer information finns i vår dokumentation om [Hantera resultat i [!DNL Adobe Success] portalen](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![finding-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -43,7 +43,7 @@ Navigera till den här sidan direkt från en produktpanel på sidan **[!UICONTRO
 
 ![finding-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## Ärendehantering {#case-management}
+## [!UICONTROL Case Management] {#case-management}
 
 Fliken **[!UICONTROL Case Management]** visar en lista över öppna och stängda ärenden. Klicka på en *[!UICONTROL Case Number]* om du vill visa mer information om problemet och hantera fallrelaterade åtgärder direkt.
 
