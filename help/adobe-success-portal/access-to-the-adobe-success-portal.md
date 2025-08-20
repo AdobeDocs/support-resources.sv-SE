@@ -1,9 +1,10 @@
 ---
 title: Öppna  [!DNL Adobe Success] portalen
 description: Lär dig hur du hanterar ärenden i  [!DNL Adobe Success] portalen.
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -14,9 +15,9 @@ I den här guiden beskrivs hur du loggar in på portalen [!DNL Adobe Success] oc
 
 Du får ett meddelande från portalteamet på **[!UICONTROL Success]** som bekräftar din åtkomst. Det här meddelandet kommer att innehålla inloggningsuppgifter.
 
-1. Gå till https://experience.adobe.com/.
+1. Gå till [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Logga in med din Adobe ID.
-1. Välj portalsikonen [!DNL Adobe Success] (Alpha).
+1. Välj ikonen **[!UICONTROL Success portal (Alpha)]**.
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ Du kan använda knappen **[!UICONTROL Alpha Feedback]** på portalen för att sk
 >Återkoppling är inte en dedikerad supportkanal. Det är inte lämpligt för brådskande inloggningsproblem.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
