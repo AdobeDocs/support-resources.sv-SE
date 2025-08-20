@@ -61,7 +61,8 @@ Så här visar du insikter om en produkt:
 
 Följ de här stegen för att validera om varje upptäckt fortfarande kan användas eller avvisas.
 
->[!NOTE]:
+>[!NOTE]
+>:
 >
 >Standardkontroller körs på dina instanser. Om det inte går att hitta problemet i din instans har statusen **[!UICONTROL Not Detected]**.
 
