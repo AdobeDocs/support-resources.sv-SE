@@ -1,23 +1,23 @@
 ---
-title: Viktiga funktioner för teknisk personal
+title: Viktiga funktioner för teknisk persona
 description: /[!DNL Adobe Success/]-portalens funktioner för en teknisk profil gör det möjligt för användare att skapa och hantera supportärenden, övervaka systemprestanda och spåra varningar som rör säkerhet och funktioner.
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
 source-git-commit: 0d7392f983323fb18fb9e7e21fa3111e1ee51795
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 46%
 
 ---
 
-# Viktiga funktioner för teknisk personal
+# Viktiga funktioner för teknisk persona
 
 Portalens vy för en teknisk profil i [!DNL Adobe Success] är avsedd att hjälpa användare att skapa biljetter, hantera supportärenden och övervaka systemprestanda. Här följer portalens huvudfunktioner för sådana användare.
 
 ## Skapa ett nytt ärende
 
-Så här skickar du en supportförfrågan:
+Så här skickar du en supportbegäran:
 
-1. Navigera till det övre högra hörnet på portalens hemsida.
+1. Navigera till det övre högra hörnet på portalens startsida.
 1. Välj **[!UICONTROL Open Case]** i widgeten **[!UICONTROL Create a New Case]**.
 
    ![create-a-new-case](/help/adobe-success-portal/assets/technical-persona-create-case.png)
@@ -40,7 +40,7 @@ Du dirigeras om till avsnittet [[!UICONTROL Case Management]](/help/adobe-succes
 
 ## [!UICONTROL Alerts & Adobe Status]
 
-I det här avsnittet på portalens hemsida visas proaktiva varningar om prestanda, säkerhet och funktioner. Dessa aviseringar genereras från miljösökningar och integreras med **[!UICONTROL Adobe Status]** för att ge synlighet i potentiella produktdriftstopp.
+I det här avsnittet på portalens startsida visas proaktiva varningar om prestanda, säkerhet och funktioner. Dessa aviseringar genereras från miljöskanningar och integreras med **[!UICONTROL Adobe Status]** för att synliggöra potentiella produktdriftstopp.
 
 ![alert-and-adobe-status](/help/adobe-success-portal/assets/alerts-and-adobe-status.png)
 

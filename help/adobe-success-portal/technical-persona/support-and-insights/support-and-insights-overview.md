@@ -5,7 +5,7 @@ exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 0%
+ht-degree: 60%
 
 ---
 
@@ -19,7 +19,7 @@ Om du vill komma åt den här sidan klickar du på ikonen ![support-and-insights
 
 Använd listrutan *filter* längst upp på sidan om du vill fokusera på en viss produkt.
 
-Varje produktpanel innehåller viktiga mätvärden, till exempel **[!UICONTROL Findings]**, **[!UICONTROL Open and Closed Cases]** och **[!UICONTROL Major Issues]**. Du kan klicka på någon av dessa mätvärden för att navigera direkt till underavsnittet där du kan utforska detaljerade supportinsikter om din produkt.
+Varje produktruta innehåller viktiga mätvärden, till exempel **[!UICONTROL Findings]**, **[!UICONTROL Open and Closed Cases]** och **[!UICONTROL Major Issues]**. Du kan klicka på någon av dessa mätvärden för att navigera direkt till underavsnittet, där du kan utforska detaljerade supportinsikter som relaterar till din produkt.
 
 ## [!UICONTROL Snapshot] {#snapshot}
 
@@ -33,13 +33,13 @@ Knappen **[!UICONTROL View all]** i varje analys tar dig till motsvarande flik i
 
 ## [!UICONTROL Findings] {#findings}
 
-Fliken **[!UICONTROL Findings]** markerar problem som upptäckts med prestanda, säkerhet och funktionalitet. Posterna flaggas baserat på risknivå, status och tid sedan den senaste sökningen.
+Fliken **[!UICONTROL Findings]** markerar upptäckta problem avseende prestanda, säkerhet och funktionalitet. Posterna flaggas baserat på risknivå, status och tid sedan den senaste skanningen.
 
 Klicka på ett inlägg i listan för att visa status, risknivå, orsak, symtom och våra rekommendationer för att ta itu med det. Mer information finns i vår dokumentation om [Hantera resultat i [!DNL Adobe Success] portalen](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![finding-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
-Navigera till den här sidan direkt från en produktpanel på sidan **[!UICONTROL Support & Insights]** genom att klicka på **[!UICONTROL Findings]**.
+Navigera till den här sidan direkt från en produktruta på sidan **[!UICONTROL Support & Insights]** genom att klicka på **[!UICONTROL Findings]**.
 
 ![finding-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
@@ -49,16 +49,16 @@ Fliken **[!UICONTROL Case Management]** visar en lista över öppna och stängda
 
 ![case-management-tab](/help/adobe-success-portal/assets/case-management-tab-support-and-insights.png)
 
-Du kan även komma åt den här fliken direkt från en produktpanel på sidan **[!UICONTROL Support & Insights]** genom att klicka på **[!UICONTROL Open Cases]** eller **[!UICONTROL Closed Cases]**.
+Du får även åtkomst till den här fliken direkt från en produktruta på sidan **[!UICONTROL Support & Insights]** genom att klicka på **[!UICONTROL Open Cases]** eller **[!UICONTROL Closed Cases]**.
 
 ![case-management-from-support-and-insights-card](/help/adobe-success-portal/assets/case-management-from-support-insights-card.png)
 
-## Adobe statusvarning {#adobe-status-alert}
+## Adobe-statusvarning {#adobe-status-alert}
 
-Fliken **[!UICONTROL Adobe Status Alert]** visar aviseringar baserade på aktuella och/eller nyligen stängda händelser från som omfattar alla Adobe Cloud-produkter och -tjänster. Du kan prenumerera på de aviseringar som är mest relevanta för dina behov för att hålla dig informerad om uppdateringar och problem som påverkar din miljö.
+Fliken **[!UICONTROL Adobe Status Alert]** visar aviseringar baserat på aktuella och/eller nyligen stängda händelser från , som omfattar Adobes samtliga molnprodukter och molntjänster. Du kan prenumerera på de aviseringar som är mest relevanta för dina behov för att hålla dig informerad om uppdateringar och problem som påverkar din miljö.
 
 ![adobe-status-alert-tab](/help/adobe-success-portal/assets/status-alert-tab-support-and-insights.png)
 
-Om du vill få tillgång till den här sidan direkt från **[!UICONTROL Support & Insights]**-kontrollpanelen klickar du på den sista raden i produktrutan.
+Om du vill få tillgång till den här sidan direkt från kontrollpanelen för **[!UICONTROL Support & Insights]** klickar du på den sista raden i produktrutan.
 
 ![adobe-status-alert-support-and-insights-card](/help/adobe-success-portal/assets/status-alerts-from-support-insights-card.png)
