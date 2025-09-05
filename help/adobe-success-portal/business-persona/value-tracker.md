@@ -1,23 +1,23 @@
 ---
 title: '[!UICONTROL Value Tracker]'
-description: Sidan [!UICONTROL Value Tracker] innehåller en vy över din [!UICONTROL Use Cases] som ordnats av KBO:er.
+description: På sidan [!UICONTROL Value Tracker] finns en vy över dina [!UICONTROL Use Cases] organiserade efter nyckeltal.
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
 source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL Value Tracker]
 
-Sidan **[!UICONTROL Value Tracker]** innehåller en vy med olika **[!UICONTROL Use Cases]** ordnade efter KBO:er. Du kan filtrera vilka användningsfall som visas i den här vyn genom att använda filtren längst upp på sidan.
+På sidan **[!UICONTROL Value Tracker]** finns en vy med olika **[!UICONTROL Use Cases]** organiserade efter nyckeltal. Du kan filtrera vilka användningsfall som visas i vyn med filtren längst upp på sidan.
 
-Om du vill komma åt **[!UICONTROL Value Tracker]** klickar du på ikonen ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) på den vänstra navigeringspanelen på portalhemsidan.
+Om du vill få åtkomst till **[!UICONTROL Value Tracker]** klickar du på ikonen ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) på den vänstra navigeringspanelen på portalhemsidan.
 
 ![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-Klicka på ett **[!UICONTROL Use Case]**-kort för att öppna en detaljerad vy av användningsfallet med:
+Klicka på ett **[!UICONTROL Use Case]**-kort om du vill öppna en detaljerad vy av användningsfallet med:
 
 * *[!UICONTROL Success Metric]*
 * *[!UICONTROL Audience]*

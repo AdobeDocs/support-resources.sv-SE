@@ -1,17 +1,17 @@
 ---
-title: Introduktion till  [!DNL Adobe Success] portalen
-description: /[!DNL Adobe Success/]-portalen är en enhetlig portal där kunderna kan skicka in ärenden, visa biljettstatus, få tillgång till support och planeringsverktyg.
+title: Introduktion till  [!DNL Adobe Success] -portalen
+description: /[!DNL Adobe Success/]-portalen är en samlad portal där kunderna kan skicka in ärenden, visa ärendestatus och få tillgång till support och planeringsverktyg.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
-# Introduktion till portalen [!DNL Adobe Success]
+# Introduktion till [!DNL Adobe Success]-portalen
 
-[!DNL Adobe Success]-portalen är ditt personliga nav för att hantera din resa med Adobe. Här samlas stöd, framgångsplanering och förloppsuppföljning på ett och samma ställe, vilket gör det enklare att hitta svar, hålla sig informerad och uppnå sina mål.
+[!DNL Adobe Success]-portalen är ditt personliga nav för hanteringen av Adobe-resan. Här samlas stöd, framgångsplanering och förloppsuppföljning på ett och samma ställe, vilket gör det enklare att hitta svar, hålla sig informerad och uppnå sina mål.
 
 ![adobe-success-portal-hompage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 

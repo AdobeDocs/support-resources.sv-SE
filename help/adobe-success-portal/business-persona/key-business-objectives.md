@@ -1,17 +1,17 @@
 ---
 title: '[!UICONTROL Key Business Objectives]'
 description: /[!UICONTROL Key Business Objectives/] är högnivåmål som en kund vill uppnå genom sitt samarbete med Adobe.
-source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
-workflow-type: tm+mt
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL Key Business Objectives] (nyckeltal)
 
-# [!UICONTROL Key Business Objectives] (KBO)
-
-KBO:er visas i en vågrät rullningsvy högst upp på portalens hemsida. Varje KBO-kort innehåller:
+Nyckeltal visas i en vågrät rullningsvy högst upp på portalens hemsida. Varje nyckeltalskort innehåller:
 
 * En kort beskrivning
 * Aktuell status
@@ -20,13 +20,12 @@ KBO:er visas i en vågrät rullningsvy högst upp på portalens hemsida. Varje K
 
 ![kbo-home-page](/help/adobe-success-portal/assets/kbo-home-page.png)
 
-Klicka på ett kort för att öppna en detaljerad vy av information om KBO, som:
+Klicka på ett kort för att öppna en detaljerad vy med information som rör nyckeltalet, till exempel:
 
 * Status
-* Prestandaindikatorer för nyckel ([!UICONTROL KPIs])
+* Nyckeltal ([!UICONTROL KPIs])
 * [!UICONTROL Use Cases]
-* Relaterad [!UICONTROL Adobe solutions]
+* Relaterade [!UICONTROL Adobe solutions]
 * Lista över associerade [!UICONTROL Accelerators] och [!UICONTROL Activities]
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
-
