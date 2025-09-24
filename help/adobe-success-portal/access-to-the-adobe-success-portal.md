@@ -2,10 +2,10 @@
 title: Få åtkomst till  [!DNL Adobe Success] -portalen
 description: Lär dig hur du hanterar ärenden i  [!DNL Adobe Success] -portalen.
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 79%
 
 ---
 
@@ -19,13 +19,13 @@ Du får ett meddelande från **[!UICONTROL Success]**-portalteamet som bekräfta
 1. Logga in med ditt Adobe ID.
 1. Välj ikonen **[!UICONTROL Success portal (Alpha)]**.
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   ![Ikon och etikett för portalen Slutfört (Alpha)](assets/alpha-success-portal-alpha.png "portalen Slutfört (Alpha)")
 
 
 
 1. När du har loggat in ser du fem flikar:
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Sidofältet i Adobe Success Portal-gränssnittet](assets/adobe-success-portal-tabs.png "Sidofält-flikar")
 
 
    * Startsida
@@ -44,4 +44,4 @@ Du kan använda knappen **[!UICONTROL Alpha Feedback]** på portalen för att sk
 >
 >Feedbackverktyget är inte en dedikerad supportkanal. Det är inte lämpligt för brådskande inloggningsproblem.
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+![Alpha Feedback-knappen på portalen för att skicka feedback](assets/adobe-success-portal-home.png "Alpha Feedback-knappen")

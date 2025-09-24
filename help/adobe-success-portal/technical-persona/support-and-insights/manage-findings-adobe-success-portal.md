@@ -2,10 +2,10 @@
 title: 'Hantera resultat i portalen  [!DNL Adobe Success] '
 description: Den här guiden förklarar hur du får tillgång till, tolkar och agerar utifrån resultat i portalen  [!DNL Adobe Success]  för att proaktivt hantera risker gällande produktprestanda, säkerhet och funktionalitet.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '708'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '807'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Så här visar du insikter om en produkt:
 1. Navigera till **[!UICONTROL Support & Insights]**.
 1. Välj relevant produktkort. Klicka på fliken **[!UICONTROL Findings]**.  
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Adobe Success Portal - markera Findings under AEM som Cloud Service - Assets med 3 listade objekt](../../assets/asp-support-inisghts-findings.png "Visa resultat för AEM Assets i Cloud Service")
 
 
 1. Du ser en lista över alla resultat för den valda produkten.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Adobe Success Portal med fliken Sökningar för AEM Cloud-tjänsten - Assets med cachelagringsproblem listade](../../assets/adobe-success-portal-findings.png "Visa cachelagringsrelaterade upptäckter för AEM Assets i Cloud Service")
 
 1. Här kan du:
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![Adobe Success Portal-gränssnittet som markerar sökfältet, hämtningsknappen och en allvarlig säkerhetslucka i AEM Sites](../../assets/adobe-success-portal-download.png "Söka, hämta eller visa resultat för AEM Sites i Cloud Service")
 
    * Sök efter specifika poster.
    * Exportera listan med resultat genom att välja **[!UICONTROL Download Findings]**. Om du vill exportera en rapport för en sökning markerar du kryssrutan bredvid den relevanta sökningen i kolumnen **[!UICONTROL Finding Name]**. Om du inte väljer något resultat innehåller PDF-filen som standard en lista med alla resultat.
    * Se information om ett resultat, inklusive en rekommenderad upplösning genom att välja ett resultat under **[!UICONTROL Finding Name]**. På sidan Resultatinformation visas den valda sökningen med ytterligare kontext och en rekommendation. Välj hämtningspilen för att se den här rapporten.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![Knappen Hämta för att exportera sökinformation i Adobe Success Portal](../../assets/findings-details.png "Ladda ned rapporten för den här sökningen")
 
 
 ## Åtgärdsresultat
@@ -72,7 +72,7 @@ Följ de här stegen för att validera om varje resultat fortfarande kan använd
 1. Välj en post under **[!UICONTROL Finding Name]**. På sidan Resultatinformation kan du:
    * Välj **[!UICONTROL Validate]** om du vill kontrollera om problemet fortfarande kvarstår (knappen **[!UICONTROL Validate]** är en bekräftelse på att problemet har lösts):
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![Validera-knappen på panelen Sökningar för att bekräfta problemlösning i Adobe Success Portal](../../assets/adobe-success-portal-validate.png "Validera-knappen")
 
 
    * Om problemet kvarstår visas följande meddelande: *[!UICONTROL Validation complete. Finding still detected]*. Använd informationen och rekommendationen på sidan Information om upptäckt för att undersöka och lösa problemet.

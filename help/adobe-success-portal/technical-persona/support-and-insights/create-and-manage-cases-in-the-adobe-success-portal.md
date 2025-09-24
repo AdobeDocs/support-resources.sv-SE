@@ -2,10 +2,10 @@
 title: Skapa och hantera ärenden i  [!DNL Adobe Success] -portalen
 description: Lär dig hur du hanterar ärenden i  [!DNL Adobe Success] -portalen.
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '386'
+ht-degree: 56%
 
 ---
 
@@ -23,7 +23,7 @@ Så här kommer du åt sidan **[!UICONTROL Open Case]** från hemfliken:
 1. Välj **[!UICONTROL Open Case]**.
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Knappen Öppna ärende i avsnittet Skapa ett nytt ärende i Adobe Success Portal](../../assets/adobe-success-portal-home-page-open-case.png "Knappen Öppna ärende")
 
 
 
@@ -35,7 +35,7 @@ Så här kommer du åt sidan **[!UICONTROL Open Case]** från hemfliken:
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Skicka ärende-knappen längst ned i supportformuläret i Adobe Success Portal](../../assets/adobe-success-portal-submit-case.png "Skicka din supportförfrågan")
 
 
 
@@ -47,7 +47,7 @@ Så här kommer du åt sidan **[!UICONTROL Open Case]** från fliken **[!UICONTR
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Knappen Öppna ärende i avsnittet Skapa ett nytt ärende i Adobe Success Portal](../../assets/adobe-success-portal-support-insights-open-case.png "Knappen Öppna ärende")
 
 
 
@@ -64,7 +64,7 @@ Så här kommer du åt sidan **[!UICONTROL View Cases]** från hemfliken:
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Visa ärenden i delen Skapa ett nytt ärende i Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "Visa dina befintliga supportärenden")
 
 
 
@@ -76,7 +76,7 @@ Så här kommer du åt sidan **[!UICONTROL View Cases]** från hemfliken:
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indikatorer för öppna och stängda ärenden i avsnittet Support och insikter för AEM Cloud-tjänsten - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visa sammanfattning av öppna och stängda supportärenden")
 
 
 
@@ -84,7 +84,7 @@ Så här kommer du åt sidan **[!UICONTROL View Cases]** från hemfliken:
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Länken Fallnummer i supportärenden på Adobe Success Portal](../../assets/adobe-success-portal-case-number.png "Klicka för att visa ärendeinformation")
 
 
 
@@ -96,7 +96,7 @@ Så här hämtar du PDF-rapporter för dina ärenden:
 1. Välj **[!UICONTROL View Cases]**.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Visa ärenden i delen Skapa ett nytt ärende i Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "Visa dina befintliga supportärenden")
 
 
 1. Välj det produktkort som du vill visa och välj sedan **[!UICONTROL Open Cases]** eller **[!UICONTROL Closed Cases]**.
@@ -105,8 +105,8 @@ Så här hämtar du PDF-rapporter för dina ärenden:
    >
    >Du kan också välja fliken **[!UICONTROL Support & Insights]** för att snabbt få åtkomst till produktkort med länkar till **[!UICONTROL Open Cases]** eller **[!UICONTROL Closed Cases]**.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indikatorer för öppna och stängda ärenden i avsnittet Support och insikter för AEM Cloud-tjänsten - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visa sammanfattning av öppna och stängda supportärenden")
 
 1. Markera kryssrutan bredvid ärendet som du vill hämta på sidan [Produkt] – Supportärenden och välj **[!UICONTROL Download Cases]**.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Knappen Hämta ärenden i delen Ärendehantering i Adobe Success Portal](../../assets/adobe-success-portal-download-cases.png "Hämta supportärendedata")
