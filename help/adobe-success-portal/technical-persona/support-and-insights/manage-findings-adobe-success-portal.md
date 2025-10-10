@@ -3,9 +3,9 @@ title: 'Hantera resultat i portalen  [!DNL Adobe Success] '
 description: Den här guiden förklarar hur du får tillgång till, tolkar och agerar utifrån resultat i portalen  [!DNL Adobe Success]  för att proaktivt hantera risker gällande produktprestanda, säkerhet och funktionalitet.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '807'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -39,12 +39,12 @@ Så här visar du insikter om en produkt:
 1. Navigera till **[!UICONTROL Support & Insights]**.
 1. Välj relevant produktkort. Klicka på fliken **[!UICONTROL Findings]**.  
 
-   ![Adobe Success Portal - markera Findings under AEM som Cloud Service - Assets med 3 listade objekt](../../assets/asp-support-inisghts-findings.png "Visa resultat för AEM Assets i Cloud Service")
+   ![Adobe Success Portal markerar resultat under AEM as a Cloud Service – resurser med tre listade objekt](../../assets/asp-support-inisghts-findings.png "Visa resultat för AEM-resurser i Cloud Service")
 
 
 1. Du ser en lista över alla resultat för den valda produkten.
 
-   ![Adobe Success Portal med fliken Sökningar för AEM Cloud-tjänsten - Assets med cachelagringsproblem listade](../../assets/adobe-success-portal-findings.png "Visa cachelagringsrelaterade upptäckter för AEM Assets i Cloud Service")
+   ![Adobe Success Portal med fliken Sökningar för AEM Cloud Service – resurser med cachelagringsproblem listade](../../assets/adobe-success-portal-findings.png "Visa cachelagringsrelaterade upptäckter för AEM-resurser i Cloud Service")
 
 1. Här kan du:
 
@@ -62,8 +62,7 @@ Så här visar du insikter om en produkt:
 
 Följ de här stegen för att validera om varje resultat fortfarande kan användas eller avvisas.
 
->[!NOTE]
->:
+>[!NOTE]:
 >
 >Standardkontroller körs på dina instanser. Om kontrollerna inte visar att problemet finns i din instans har den statusen **[!UICONTROL Not Detected]**.
 
@@ -73,7 +72,7 @@ Följ de här stegen för att validera om varje resultat fortfarande kan använd
 1. Välj en post under **[!UICONTROL Finding Name]**. På sidan Resultatinformation kan du:
    * Välj **[!UICONTROL Validate]** om du vill kontrollera om problemet fortfarande kvarstår (knappen **[!UICONTROL Validate]** är en bekräftelse på att problemet har lösts):
 
-   ![Validera-knappen på panelen Sökningar för att bekräfta problemlösning i Adobe Success Portal](../../assets/adobe-success-portal-validate.png "Validera-knappen")
+   ![Knappen Validera på panelen Sökningar för att bekräfta problemlösning i Adobe Success Portal](../../assets/adobe-success-portal-validate.png "Knappen Validera")
 
 
    * Om problemet kvarstår visas följande meddelande: *[!UICONTROL Validation complete. Finding still detected]*. Använd informationen och rekommendationen på sidan Information om upptäckt för att undersöka och lösa problemet.
