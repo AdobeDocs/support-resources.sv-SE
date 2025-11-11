@@ -3,10 +3,10 @@ title: Versionsinformation om portalen Adobe Success
 description: Den senaste versionsinformationen för [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 36%
+source-wordcount: '527'
+ht-degree: 31%
 
 ---
 
@@ -17,6 +17,18 @@ Versionsinformationen innehåller uppdateringar för [!DNL Adobe Success portal]
 ![Nytt](../adobe-success-portal/assets/new.svg) – Nya funktioner
 ![Korrigering](../adobe-success-portal/assets/fix.svg) – Korrigeringar och förbättringar
 ![Fel](../adobe-success-portal/assets/bug.svg) – Kända problem
+
+## 4,0
+
+_11 nov 2025_
+
+![Korrigera](../adobe-success-portal/assets/fix.svg) Optimerade konversationsordningen på sidan med ärendeinformation så att den automatiskt rullar till det senaste meddelandet.
+
+![Korrigera](../adobe-success-portal/assets/fix.svg) Ärendeinformationen har uppdaterats så att knappen Bakåt inaktiveras korrekt när den öppnas på en ny flik med **Ctrl+klicka** / **Kommando+klicka** för att förhindra navigeringsfel.
+
+![Fel](../adobe-success-portal/assets/bug.svg) Korrigerade ett fel där felaktig status, region eller tidszonsinformation visades för **[!UICONTROL Adobe Status]** aviseringar i **[!UICONTROL Support & Insights]**.
+
+![Fel](../adobe-success-portal/assets/bug.svg) Åtgärdade visningsproblem med **[!UICONTROL Accelerators]** och **[!UICONTROL Activities]** länkade till **[!UICONTROL Strategic Partners]**.
 
 ## 3,0
 
