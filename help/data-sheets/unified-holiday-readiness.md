@@ -209,7 +209,7 @@ Följ rekommendationerna i guiden [Planering och pivotering: En strategisk strat
 
 ### Bästa praxis
 
-* Följ Adobe guide [Så här förbereder du din infrastruktur för hög trafik - de 5 Ps med högsäsong ](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
+* Följ Adobe guide [Så här förbereder du din infrastruktur för hög trafik - de 5 Ps med högsäsong &#x200B;](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
 * Ta en titt på [Tekniska tips om hur du kan förbereda din infrastruktur för högtrafik, förhindra driftstopp och optimera prestanda under semesterperioden.](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness)
 
 +++
