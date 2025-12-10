@@ -27,7 +27,7 @@ Den administrativa hierarkin kan användas för att passa företagets unika beho
 
 >[!NOTE]
 >
->Den administrativa hierarkin gäller inte för teamkunder. Teamkunder har en enda **systemadministratörsroll**. Kontraktsägaren (_som tidigare kallats **primär administratör**_) är systemadministratören med tillgång till avtalsinformationen och faktureringshistoriken. Om du är den nuvarande avtalsägaren kan du utse en befintlig systemadministratör (_ som tidigare kallats **sekundär administratör**_) som avtalsägare.
+>Den administrativa hierarkin gäller inte för teamkunder. Teamkunder har en enda **systemadministratörsroll**. Kontraktsägaren (_som tidigare kallats **primär administratör**&#x200B;_) är systemadministratören med tillgång till avtalsinformationen och faktureringshistoriken. Om du är den nuvarande avtalsägaren kan du utse en befintlig systemadministratör (_ som tidigare kallats **sekundär administratör**&#x200B;_) som avtalsägare.
 
 ![administratörsbild](assets/storage_admin.png)
 
