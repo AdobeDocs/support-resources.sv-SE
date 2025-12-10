@@ -25,7 +25,7 @@ Om du vill ha en detaljerad genomgång av Adobe Identity och Admin Console kan d
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=sv-SE
 -->
 
 Dessutom finns det en FAQ tillgänglig för referens [här](faq.md).

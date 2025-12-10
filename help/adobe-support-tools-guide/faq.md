@@ -57,7 +57,7 @@ Se [det här dokumentet](overview.md) där några av de nya funktionerna som fin
 
 +++**Vilka utbildningsresurser finns för AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html>
+&lt;https://helpx.adobe.com/se/enterprise/using/admin-console.html>
 
 +++
 
