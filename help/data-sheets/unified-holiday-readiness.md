@@ -119,7 +119,7 @@ För att förbereda Adobe Journey Optimizer för semestersäsongen bör man kunn
    * sändningstid
    * erbjudandetyp
    * kanalmix
-Läs [AJO Experimentation Accelerator bästa praxis](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Läs [AJO Experimentation Accelerator bästa praxis](https://experienceleague.adobe.com/sv/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Genomför komplett validering av resan:
    * händelseutlösare
    * segmenteringspost
