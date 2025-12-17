@@ -2,24 +2,24 @@
 keywords: Vanliga frågor och svar;Vanliga frågor
 title: Adobe Business Platform & Admin Console - frågor och svar
 description: Frågor och svar om Adobe Workfront
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 6%
 
 ---
 
-# Adobe Business Platform &amp; Admin Console - frågor och svar
+# [!DNL Adobe Business Platform] &amp; Admin Console - frågor och svar
 
 +++**Vad är Adobe Identity och Admin Console?**
 
-Adobe Business Platform ger administratörer och funktionalitet en avancerad kontrollkonsol för att hantera sin anpassade version av Workfront-programmet.
+[!DNL Adobe Business Platform] ger administratörer och funktioner en avancerad kontrollkonsol för att hantera den anpassade versionen av Workfront-programmet.
 
 +++
 
 +++**Varför måste kunderna gå över till Adobe Identity och Admin Console (AAC)?**
 
-Kunderna får en ännu säkrare och mer intuitiv administrationskonsol genom att gå över till Adobe Business Platform.
+Kunderna kommer att uppleva en ännu säkrare och intuitivare administrationskonsol genom att gå över till [!DNL Adobe Business Platform].
 
 +++
 
@@ -57,7 +57,7 @@ Se [det här dokumentet](overview.md) där några av de nya funktionerna som fin
 
 +++**Vilka utbildningsresurser finns för AAC?**
 
-&lt;https://helpx.adobe.com/se/enterprise/using/admin-console.html>
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html>
 
 +++
 
@@ -81,7 +81,7 @@ Hur lång tid det tar att implementera AAC för kunderna kan variera, men den ty
 
 +++**Kommer detta att påverka andra tekniker som jag har integrerat i Workfront-lösningen utanför Adobe Products?**
 
-Kunder som använder Fusion-applikationen för att ansluta till andra tjänster flyttas bara när Fusion-applikationen är klar att göra den här ändringen.
+Kunder som använder programmet [!DNL Fusion] för att ansluta till andra tjänster flyttas bara när programmet [!DNL Fusion] är redo att göra den här ändringen.
 
 +++
 
