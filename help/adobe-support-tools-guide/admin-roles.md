@@ -1,10 +1,9 @@
 ---
 title: Administrativa roller
 description: Med Adobe Admin Console kan man definiera en flexibel administrativ hierarki som detaljerat kan hantera åtkomst och användning av Adobe-produkter.
-exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1593'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Den administrativa hierarkin kan användas för att passa företagets unika beho
 
 >[!NOTE]
 >
->Den administrativa hierarkin gäller inte för teamkunder. Teamkunder har en enda **systemadministratörsroll**. Kontraktsägaren (_som tidigare kallats **primär administratör**&#x200B;_) är systemadministratören med tillgång till avtalsinformationen och faktureringshistoriken. Om du är den nuvarande avtalsägaren kan du utse en befintlig systemadministratör (_ som tidigare kallats **sekundär administratör**&#x200B;_) som avtalsägare.
+>Den administrativa hierarkin gäller inte för teamkunder. Teamkunder har en enda **systemadministratörsroll**. Kontraktsägaren (_som tidigare kallats **primär administratör**_) är systemadministratören med tillgång till avtalsinformationen och faktureringshistoriken. Om du är den nuvarande avtalsägaren kan du utse en befintlig systemadministratör (_ som tidigare kallats **sekundär administratör**_) som avtalsägare.
 
 ![administratörsbild](assets/storage_admin.png)
 
@@ -53,33 +52,33 @@ Som administratör kan du tilldela en administratörsroll till andra användare 
 
 Så här lägger du till eller bjuder in en administratör:
 
-1. I [Admin Console](https://adminconsole.adobe.com/) väljer du **Användare** > **Administratörer**.
+1. I **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)** väljer du **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
-   Du kan också gå till den relevanta produkten, produktprofilen eller användargruppen och navigera till fliken **Administratörer** .
+   Du kan också gå till den relevanta produkten, produktprofilen eller användargruppen och gå till fliken **[!UICONTROL Admins]**.
 
-1. Klicka på **Lägg till administratör**.
+1. Klicka på **[!UICONTROL Add Admin]**.
 1. Ange namn eller e-postadress. Du kan söka efter befintliga användare eller lägga till en ny användare genom att ange en giltig e-postadress och fylla i informationen på skärmen.
-1. Klicka på **Nästa**. En lista med administratörsroller visas.
+1. Klicka på **[!UICONTROL Next]**. En lista med administratörsroller visas.
 
->[!NOTE]
->
->* Vilka alternativ som visas på den här skärmen beror på ditt konto och din administratörsroll. Du kan antingen ge samma behörigheter som du har eller behörigheter för en roll som finns under din i hierarkin.
->* Som systemadministratör för ett team kan du bara tilldela en administratörsroll: Systemadministratör.
+   >[!NOTE]
+   >
+   >* Vilka alternativ som visas på den här skärmen beror på ditt konto och din administratörsroll. Du kan antingen ge samma behörigheter som du har eller behörigheter för en roll som finns under din i hierarkin.
+   >* Som systemadministratör för ett team kan du bara tilldela en administratörsroll: Systemadministratör.
 
 1. Välj en eller flera administratörsroller.
 1. För Admin-typer som produktadministratör, produktprofiladministratör och administratör för användargrupp väljer du de specifika produkterna, profilerna och grupperna.
 
->[!NOTE]
->
->För en produktprofiladministratör kan du inkludera profiler för mer än en produkt.
+   >[!NOTE]
+   >
+   >För en produktprofiladministratör kan du inkludera profiler för mer än en produkt.
 
-![lägg till administratör](assets/add-admin.png)
+   ![lägg till administratör](assets/add-admin.png)
 
 1. Granska de administratörsroller som tilldelats användaren och klicka på **Spara**.
 
 Användaren får en e-postinbjudan om de nya administratörsbehörigheterna från `message@adobe.com`.
 
-Användarna måste klicka på **Kom igång** i e-postmeddelandet för att kunna gå med i organisationen. Om nya administratörer inte använder länken **Kom igång** i e-postinbjudan kan de inte logga in på Admin Console.
+Användarna måste klicka på **[!UICONTROL Get started]** i e-postmeddelandet för att gå med i organisationen. Om nya administratörer inte använder länken **[!UICONTROL Get started]** i e-postinbjudan kan de inte logga in på Admin Console.
 
 Som en del av inloggningsprocessen kan användare uppmanas att konfigurera en Adobe-profil om de inte redan har en. Om flera profiler är associerade med användarens e-postadress måste användarna välja&quot;Gå med i team&quot; (om de uppmanas till det) och sedan välja den profil som är associerad med den nya organisationen.
 
@@ -93,19 +92,19 @@ Som administratör kan du tilldela systemadministratörsrollen till andra använ
 
 Så här lägger du till eller bjuder in en systemadministratör:
 
-1. I Admin Console väljer du **Användare** > **Administratörer**.
+1. I **[!UICONTROL Adobe Admin Console]** väljer du **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
    En lista över befintliga administratörer visas.
 
-1. Klicka på **Lägg till administratör**.
+1. Klicka på **[!UICONTROL Add Admin]**.
 
-   Skärmen **Lägg till en administratör** visas.
+   Skärmen **[!UICONTROL Add an Administrator]** visas.
 
 1. Ange namn eller e-postadress. Du kan söka efter befintliga användare eller lägga till en ny användare genom att ange en giltig e-postadress och fylla i informationen på skärmen.
 
    Som standard är Systemadministratör valt.
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
 ![Teamadministratörsbild](assets/teams-admin.png)
 
@@ -124,12 +123,12 @@ Som administratör kan du redigera administratörsrollen till andra administrat�
 
 Så här redigerar du administratörsroller:
 
-1. I Admin Console väljer du **Användare** > **Administratörer**. Listan över befintliga administratörer visas.
+1. I **[!UICONTROL Adobe Admin Console]** väljer du **[!UICONTROL Users]** > **[!UICONTROL Administrators]**. Listan över befintliga administratörer visas.
 
-   Du kan också gå till den relevanta produkten, produktprofilen eller användargruppen och navigera till fliken **Administratörer** .
+   Du kan också gå till den relevanta produkten, produktprofilen eller användargruppen och gå till fliken **[!UICONTROL Admins]**.
 
 1. Klicka på namnet på den administratör som ska redigeras.
-1. I avsnittet **Användarinformation** klickar du på ikonen ![](assets/one-console-ellipses.png) för avsnittet **Administrativa rättigheter** och väljer **Redigera administratörsrättigheter**.
+1. I **[!UICONTROL User Details]** klickar du på ![icon](assets/one-console-ellipses.png) för avsnittet **Administrativa rättigheter** och väljer **[!UICONTROL Edit admin rights]**.
 
    ![redigera administratörsrättigheter](assets/admin-rights-section.png)
 
@@ -143,11 +142,11 @@ Som teamsystemadministratör kan du ta bort systemadministratörsbehörighet fö
 
 Så här återkallar du systemadministratörsbehörighet:
 
-1. I Admin Console väljer du **Användare** > **Administratörer**.
+1. I **[!UICONTROL Adobe Admin Console]** väljer du **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
    Listan över befintliga administratörer visas.
 
-1. I användarinformationen klickar du på ![ikonen](assets/one-console-ellipses.png) till höger om avsnittet **Administrativa rättigheter** och väljer **Redigera administratörsrättigheter**.
+1. I **[!UICONTROL User Details]** klickar du på ![icon](assets/one-console-ellipses.png) till höger om avsnittet **[!UICONTROL Administrative Rights]** och väljer **[!UICONTROL Edit admin rights]**.
 
    ![redigera administratörsrättigheter](assets/admin-rights-section.png)
 
@@ -157,7 +156,7 @@ Så här återkallar du systemadministratörsbehörighet:
 
 Gäller för: Adobe teams företagskunder.
 
-1. Om du vill återkalla administratörsbehörigheter markerar du en användare och klickar sedan på **Ta bort administratör**.
+Om du vill återkalla administratörsbehörigheter markerar du en användare och klickar sedan på **[!UICONTROL Remove Admin]**.
 
 ![ta bort administratörsbild](assets/remove-admin.png)
 
