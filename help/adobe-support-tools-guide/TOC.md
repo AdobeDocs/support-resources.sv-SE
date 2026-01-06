@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 47bba3af6d3c2dde1c2e9a3123be7ea7037185d1
+source-git-commit: 5e2aa4d40d7104b2637642d912cbbff357ad4c54
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 6%
+source-wordcount: '30'
+ht-degree: 3%
 
 ---
 
@@ -20,6 +20,4 @@ ht-degree: 6%
 - [Uppdatering av telefonnummer för support](phone-numbers.md)
 - [Administratörsroller](admin-roles.md)
 - Workfront-dokument {#workfront}
-   - [Översikt](overview.md)
-   - [Landning](landing.md)
    - [Vanliga frågor och svar](faq.md)

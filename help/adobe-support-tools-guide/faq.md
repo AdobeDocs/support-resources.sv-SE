@@ -2,9 +2,9 @@
 keywords: Vanliga frågor och svar;Vanliga frågor
 title: Adobe Business Platform & Admin Console - frågor och svar
 description: Frågor och svar om Adobe Workfront
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 6%
 
 ---
@@ -51,13 +51,13 @@ Kunderna får instruktioner och samordning från ett internt Workfront-team som 
 
 +++**Vilka nya funktioner finns i AAC som inte är tillgängliga för kunder i Workfront?**
 
-Se [det här dokumentet](overview.md) där några av de nya funktionerna som finns tillgängliga markeras.
+
 
 +++
 
 +++**Vilka utbildningsresurser finns för AAC?**
 
-&lt;https://helpx.adobe.com/se/enterprise/using/admin-console.html>
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html>
 
 +++
 
