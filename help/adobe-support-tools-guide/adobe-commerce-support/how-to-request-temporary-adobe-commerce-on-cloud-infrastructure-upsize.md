@@ -1,6 +1,6 @@
 ---
 title: Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur
-description: Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
+description: Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur
 
-Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
+Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Dessutom fungerar baslinjevarningar bra med nya program när du ännu inte har n
 
 Följ den här länken om du vill veta mer om New Relic [Anomaly-identifiering med den använda intelligensen](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Om du får ett varningsmeddelande som tyder på en hög trafikhändelse kan du behöva överväga att [skicka en supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) och begära ytterligare kapacitet. Följ stegen nedan.
+Om du får ett varningsmeddelande som tyder på en hög trafikhändelse kan du behöva överväga att [skicka en supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) och begära ytterligare kapacitet. Följ stegen nedan.
 
 ## Så här övervakar du webbplatsens prestanda
 
@@ -50,7 +50,7 @@ Följ den här länken om du vill lära dig hur du [konfigurerar prestandabasera
 
 ## Steg för att begära tillfällig storlek
 
-Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) till Adobe Commerce Support Center med följande information:
+Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) till Adobe Commerce Support Center med följande information:
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supporta
 
 >[!NOTE]
 >
->När storleken är schemalagd justeras storleken på molninstansen av ett automatiskt system. Du får inte få någon anmälan om biljett när proceduren är klar. Du kan använda verktyget Observation for Adobe Commerce för att visa dina AWS- eller Azure-instanstyper för att [verifiera ändringen](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>När storleken är schemalagd justeras storleken på molninstansen av ett automatiskt system. Du får inte få någon anmälan om biljett när proceduren är klar. Du kan använda verktyget Observation for Adobe Commerce för att visa dina AWS- eller Azure-instanstyper för att [verifiera ändringen](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Visa historiken för dina uppgraderingar
 
