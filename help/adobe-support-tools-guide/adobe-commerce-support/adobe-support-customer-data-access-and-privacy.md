@@ -21,7 +21,7 @@ Adobe tekniska support kan kräva åtkomst till dina Adobe Commerce-relaterade d
 Så här auktoriserar du åtkomst:
 
 1. [Logga in](https://account.magento.com/customer/account/login) som supportberättigad primär användare.
-1. Kontrollera att du har slutfört din **[!UICONTROL My Account]** kontoprofil **[!UICONTROL Account Settings]** på sidan [ > ](https://account.magento.com/customer/account/edit) och klicka på **[!UICONTROL Save]**.
+1. Kontrollera att du har slutfört din **[!UICONTROL My Account]** kontoprofil **[!UICONTROL Account Settings]** på sidan [&#x200B; > &#x200B;](https://account.magento.com/customer/account/edit) och klicka på **[!UICONTROL Save]**.
 1. På sidan **[!UICONTROL My Account]** > **[!UICONTROL Account Settings]** > **[!UICONTROL Privacy Settings]**. Du kommer att se ett medgivandeformulär som ger Adobe tekniker åtkomst till dina data.
 1. Efter att ha granskat informationen om sekretessinställningar kan du välja om du vill markera kryssrutan intill **Jag godkänner åtkomst av mina data under följande tid:**.
 1. I listrutan anger du hur länge du vill att Adobe tekniska support ska ha tillgång till dina kunddata. Du kan välja 7 dagar, 30 dagar, ett år eller obegränsat.
