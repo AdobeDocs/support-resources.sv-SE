@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 36451c1cc9894de0fcea7890ce3ff1d6b2bf2a0d
+source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '63'
 ht-degree: 1%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 1%
    - [Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe ger stöd för åtkomst och integritet av kunddata](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Uppdatering av livscykelpolicy för Adobe Commerce Support-biljetter](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
