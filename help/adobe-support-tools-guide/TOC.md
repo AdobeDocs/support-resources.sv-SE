@@ -1,14 +1,14 @@
 ---
 user-guide-title: Adobe Support & Tools Guide
-user-guide-description: Detaljerad vägledning och uppdateringar om Adobe support och verktyg.
+user-guide-description: Detaljerad vägledning och uppdateringar om Adobes support och verktyg.
 feature-set: Experience Cloud
 feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
+source-git-commit: c0ddf681f46a7646cbdebf1a43b6a0b50b6a7229
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '71'
 ht-degree: 1%
 
 ---
@@ -16,14 +16,15 @@ ht-degree: 1%
 
 # Adobe Support &amp; Tools Guide {#adobe-support-tools-guide}
 
-- [Experience League supportportal](adobe-customer-support-experience.md)
-- [Uppdatering av telefonnummer för support](phone-numbers.md)
-- [Administratörsroller](admin-roles.md)
-- Adobe Workfront Support {#workfront}
+- [Erfarenhetsligans supportportal](adobe-customer-support-experience.md)
+- [Uppdatering av supporttelefonnummer](phone-numbers.md)
+- [Administrativa roller](admin-roles.md)
+- [Nya erfarenhetsförbundets ärendeformulär Släppanteckningar](release-notes.md)
+- Adobe Workfront-stöd {#workfront}
    - [Vanliga frågor och svar](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
-   - [Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
-   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
-   - [Adobe ger stöd för åtkomst och integritet av kunddata](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
-   - [Uppdatering av livscykelpolicy för Adobe Commerce Support-biljetter](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+   - [Hur man begär en tillfällig Adobe Commerce för molninfrastrukturuppgradering](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+   - [Adobe Commerce P1-notifieringslinje](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe support, kunddataåtkomst och integritet](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Adobe Commerce Support livscykelpolicy för ärenden](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
