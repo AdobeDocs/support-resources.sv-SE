@@ -1,16 +1,16 @@
 ---
-title: Versionsinformation om nytt EXL-formulär
+title: Versionsinformation om nya Experience League-formulär
 description: Den senaste versionsinformationen för EXL-ärendeformuläret.
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '249'
 ht-degree: 4%
 
 ---
 
 
-# Versionsinformation om nytt EXL-formulär
+# Versionsinformation om nya Experience League-formulär
 
 Den nya funktionen för att skapa ärenden innehåller ett uppdaterat formulär som utformats för att effektivisera problemlösningen och som innehåller:
 
