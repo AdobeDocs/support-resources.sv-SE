@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce supportanmälan **[!UICONTROL Issue Reason]** beskrivning
+title: Beskrivningar av Adobe Commerce supportanmälan [!UICONTROL Issue Reason]
 description: I den här artikeln listas supportbiljetten **[!UICONTROL Issue Reason]** och fältalternativen samt detaljerade beskrivningar av varje alternativ.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 1%
 
 ---
 
-# Beskrivningar av Adobe Commerce supportanmälan **[!UICONTROL Issue Reason]**
+# Beskrivningar av Adobe Commerce supportanmälan [!UICONTROL Issue Reason]
 
 I den här artikeln listas alternativen för supportbiljetten **[!UICONTROL Issue Reason]** och detaljerade beskrivningar av varje alternativ.
 
@@ -55,4 +55,4 @@ I den här artikeln listas alternativen för supportbiljetten **[!UICONTROL Issu
 
 ## Relaterad läsning
 
-* [Skicka ett supportärende](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) i Experience League Support User Guide for Adobe Commerce.
+* [Skicka ett supportärende](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) i Experience League Support User Guide for Adobe Commerce.
