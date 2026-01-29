@@ -1,21 +1,22 @@
 ---
-user-guide-title: Adobe Support & Tools Guide
+user-guide-title: Adobe Support and Tools Guide
 user-guide-description: Detaljerad vägledning och uppdateringar om Adobe support och verktyg.
 feature-set: Experience Cloud
 feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3b0588fd01010fb40640362b7fe24c5b28fb5faf
+source-git-commit: 70f2eb86f4c19c9e1b0b20f35a763d67d6bb8dab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Support &amp; Tools Guide {#adobe-support-tools-guide}
+# Adobe Support and Tools Guide {#adobe-support-tools-guide}
 
+- [Adobe Support and Tools Guide - översikt](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe kundupplevelse](adobe-customer-support-experience.md)
 - [Konfiguration av Adobe kundsupportberättigande](adobe-customer-support-entitlement-configuration.md)
 - [Uppdatering av telefonnummer för support](phone-numbers.md)
