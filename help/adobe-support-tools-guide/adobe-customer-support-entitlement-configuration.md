@@ -1,24 +1,24 @@
 ---
 title: Konfiguration av Adobe kundsupportberättigande
-description: Hur Adobe-kunder kan konfigurera supportberättiganden för att möjliggöra ärendeinlämning.
+description: Hur Adobe-kunder kan lägga upp och hantera supportärenden i Admin Console så att man får tillgång till supportresurser, skicka in ärenden och hantera ärendeaktiviteten.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
 
-# Adobe kundsupportberättigande
+# Konfiguration av Adobe kundsupportberättigande
 
 Om du vill konfigurera supportberättiganden för din organisation måste du först lägga till eller bjuda in användaren via Admin Console.
 
 ## Lägga till behörighetsroller för support i en organisation
 
-Supportadministratörsrollen är en icke-administrativ roll som har åtkomst till supportrelaterad information. Supportadministratörer kan visa, skapa och hantera problemrapporter.
+Rollen **[!UICONTROL Support administrator]** är en icke-administrativ roll som har åtkomst till supportrelaterad information. En **[!UICONTROL Support administrator]** kan visa, skapa och hantera problemrapporter.
 
 Så här lägger du till eller bjuder in en administratör:
 
@@ -32,7 +32,7 @@ Så här lägger du till eller bjuder in en administratör:
 
 1. Klicka på **[!UICONTROL Next]**. En lista med administratörsroller visas.
 
-Så här tilldelar du en supportadministratörsroll till en användare (gör det möjligt för en användare att kontakta support):
+Så här tilldelar du en **[!UICONTROL Support administrator]**-roll till en användare (aktivera en användare som kan kontakta support):
 
 1. Välj alternativet **[!UICONTROL Support administrator]**.
 
@@ -55,4 +55,4 @@ Som en del av inloggningsprocessen kan användare uppmanas att konfigurera en Ad
 
 ![Bekräftelse av administratörsrättigheter](assets/admin-rights-confirmation.png)
 
-Mer information finns i [Redigera instruktioner för företagsadministratörsroll](admin-roles.md#add-enterprise-role) i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns i dokumentationen för [administrativa roller](admin-roles.md).
+Mer information finns i [Redigera Enterprise-administratörsroll](admin-roles.md#edit-enterprise-admin-role) -instruktionerna i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns i dokumentationen för [administrativa roller](admin-roles.md).
