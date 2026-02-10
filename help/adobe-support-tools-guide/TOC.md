@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
+source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
 - Adobe Workfront Support {#workfront}
    - [Vanliga frågor och svar](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
+   - [Så här skaffar och tillämpar du säkerhetsuppdateringar](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe ger stöd för åtkomst och integritet av kunddata](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
