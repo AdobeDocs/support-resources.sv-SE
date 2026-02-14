@@ -133,7 +133,7 @@ Läs [AJO Experimentation Accelerator bästa praxis](https://experienceleague.ad
 
 ### Bästa praxis
 
-* Använd flerkanalsmarknadsföring. Läs artikeln [Essential omnichannel customer travel for engagement and growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) på bloggen som visar ett exempel på semestersäsong med AJO.
+* Använd flerkanalsmarknadsföring. Läs artikeln [Essential omnichannel customer travel for engagement and growth](https://business.adobe.com/se/blog/essential-customer-journeys-for-omnichannel-engagement) på bloggen som visar ett exempel på semestersäsong med AJO.
 * Prioritera triggers i realtid där det är lämpligt. Exempel: kundvagn, överge, bläddra och visa varningar när semestershoppare blir mer reaktiva.
 * Utnyttja segmentering och personalisering: inrikta er på segment med hög återgivning, skräddarsy erbjudanden baserat på tidigare köpbeteende och önskemål.
 * Minsta meddelandetrötthet: Tvinga ändpunkter och tysta timmar för att undvika överdriven oskärpa. Se blogginlägget [Förbättra kundupplevelsen med funktionen för daglig frekvensbegränsning i AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=sv).
@@ -212,7 +212,7 @@ Följ rekommendationerna i guiden [Planering och pivotering: En strategisk strat
 
 ### Bästa praxis
 
-* Följ Adobe guide [Så här förbereder du din infrastruktur för hög trafik - de 5 Ps med högsäsong &#x200B;](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
+* Följ Adobe guide [Så här förbereder du din infrastruktur för hög trafik - de 5 Ps med högsäsong &#x200B;](https://business.adobe.com/se/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
 * Ta en titt på [Tekniska tips om hur du kan förbereda din infrastruktur för högtrafik, förhindra driftstopp och optimera prestanda under semesterperioden.](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness)
 
 +++
