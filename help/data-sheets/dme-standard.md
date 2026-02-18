@@ -2,7 +2,7 @@
 title: Standardsupport för Adobe Creative Cloud och Adobe Document Cloud
 description: Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Standardsupport omfattar tillgång dygnet runt till våra supportresurser för självhjälp, inklusive artiklar på HelpX och dialog med andra kunder på Adobe Community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe tillhandahåller ett omfattande utbud av tekniska resurser som hjälper ditt företag som ingår i din företagsprenumeration på Adobe. Standardsupport omfattar tillgång dygnet runt till våra supportresurser för självhjälp, inklusive artiklar på HelpX och dialog med andra kunder på Adobe Community.
 
-Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsinformation som publiceras på <http://www.adobe.com>. Vår standardsupport omfattar även dygnet runt-åtkomst för behöriga användare (administratörer) till våra tekniska supportteam via chatt eller telefon samt möjligheten att logga förfrågningar om hjälp via vår supportwebbportal.
+Du kan dra nytta av vår detaljerade tekniska produktdokumentation och versionsinformation som publiceras på <https://www.adobe.com>. Vår standardsupport omfattar även dygnet runt-åtkomst för behöriga användare (administratörer) till våra tekniska supportteam via chatt eller telefon samt möjligheten att logga förfrågningar om hjälp via vår supportwebbportal.
 
 [Visa PDF-version](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -266,10 +266,10 @@ Adobes kundsupport ger tillgång till resurser för dokumentation och samarbete 
 
 | Resurs | Beskrivning |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/sv?lang=sv#home) | Experience League är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
+| [Experience League](https://experienceleague.adobe.com/?lang=sv#home) | Experience League är en plats där Adobe-kunder kan hitta självstudiekurser, produktdokumentation, lärarledd utbildning, community och support för utvalda Adobe Creative Cloud- och Document-produkter. |
 | [Adobe Analytics Community](https://community.adobe.com/) | På Adobe Support Community kan du ställa frågor, hitta svar, lära dig av experter och dela med dig av dina kunskaper. |
 | [Produktionsproblem och systemavbrott](https://status.adobe.com/) | Status.adobe.com förmedlar hälsoinformation om alla Adobe-produkter och -tjänster som distribueras i miljöer med flera. Kunderna kan välja sina prenumerationsinställningar för att få e-postmeddelanden varje gång Adobe skapar, uppdaterar eller löser ett produktärende. Detta kan omfatta schemalagt underhåll eller serviceproblem av varierande svårighetsgrad. |
-| [Villkor](https://helpx.adobe.com/se/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
+| [Villkor](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Villkor och mer detaljerad information om supporttjänster. |
 
 {style="table-layout:auto"}
 
