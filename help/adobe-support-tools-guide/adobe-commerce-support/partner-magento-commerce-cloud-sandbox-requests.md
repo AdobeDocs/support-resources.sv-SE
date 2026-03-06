@@ -18,15 +18,15 @@ Den här artikeln med vanliga frågor innehåller länkar till användbara resur
 
 ## Hur uppdaterar jag min Adobe Commerce på molninfrastruktursandlådan? {#how-do-i-refresh-my-cloud-sandbox}
 
-Se [Återställ miljö i molnet](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) i vår kunskapsbas för support.
+Se [Återställ miljö i molnet](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) i vår kunskapsbas för support.
 
 ## Vad gör jag med en fast driftsättning? {#what-do-i-do-with-a-stuck-deployment}
 
-Se [Felsökaren för distribution](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29640) i vår kunskapsbas för support.
+Se [Felsökaren för distribution](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-29640) i vår kunskapsbas för support.
 
 ## Var/hur får jag hjälp när det behövs? {#wherehow-do-i-get-help-when-needed}
 
-Skicka en supportanmälan i [supportavsnittet på Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home).
+Skicka en supportanmälan i [supportavsnittet på Experience League](https://experienceleague.adobe.com/sv/support?support-tab=home#home).
 
 ## Var/hur skickar lösningspartners eller teknikpartners en supportförfrågan? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
@@ -35,7 +35,7 @@ Partners med ett Partner Sandbox Cloud-projekt kan inte skicka biljetter för sa
 > **Exempel**
 > Det här avsnittet gäller Adobe Commerce Cloud-sandlådekonton, men samma krav gäller när partners arbetar i interna miljöer och inte för en viss kund. Partners får inte skicka in supportförfrågningar inom en kundorganisation såvida de inte aktivt arbetar för den kundens räkning.
 
-Om du skickar en biljett för en handlare som inte har fått delad åtkomst ber du kontoägaren att få åtkomst. Anvisningar om hur du begär åtkomst finns i [Delad åtkomst: Bevilja behörigheter för andra användare att få åtkomst till ditt konto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
+Om du skickar en biljett för en handlare som inte har fått delad åtkomst ber du kontoägaren att få åtkomst. Anvisningar om hur du begär åtkomst finns i [Delad åtkomst: Bevilja behörigheter för andra användare att få åtkomst till ditt konto](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
 * Solution Partners ska skicka sandlåderelaterade supportförfrågningar via e-post [SPPHelp@adobe.com](mailto:SPPHelp@adobe.com). Dessa förfrågningar dirigeras till partnerns tekniska supportteam.
 * Tekniska partners bör kontakta [Marketplace Support](mailto:commercemarketplacesupport@adobe.com).
