@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 0%
 - [Administratörsroller](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigera i Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Exportera eller importera organisationsstruktur och produktallokeringar](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
+   - [Använd förfallodatum för lösenord i Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Adobe Workfront Support {#workfront}
    - [Vanliga frågor och svar](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
