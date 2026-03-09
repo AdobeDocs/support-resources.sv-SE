@@ -30,4 +30,4 @@ Organisationssystemadministratörer kan följa processen för att ange en förfa
 
 1. Granska **[!UICONTROL Authentication levels]** och välj den lämpligaste autentiseringsnivån för dina användare: **[!UICONTROL Easiest for Users]**, **[!UICONTROL More Secure]**, **[!UICONTROL Most Secure]**.
 
-Besök [Hjälpavsnittet för autentiseringsinställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html) om du vill veta mer om tillgängliga autentiserings- och säkerhetsprinciper.
+Besök [Hjälpavsnittet för autentiseringsinställningar](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html) om du vill veta mer om tillgängliga autentiserings- och säkerhetsprinciper.
