@@ -43,7 +43,7 @@ Det exportformat som valts påverkar strukturen för exporterade data:
 
 4. Välj **[!UICONTROL Export]**.  Det kan ta flera minuter att generera exportfilen. När du är klar kan du hämta rapporten genom att gå till **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > JSON-filer exporteras i zip-format. Du kan öppna dem med ett ZIP-verktyg eller operativsystemets zip-funktioner.
 
