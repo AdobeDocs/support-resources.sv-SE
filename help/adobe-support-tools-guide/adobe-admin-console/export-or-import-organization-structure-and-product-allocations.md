@@ -4,13 +4,13 @@ description: Lär dig hur globala administratörer exporterar och importerar org
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: fe5b03e5886a43b55929a2bdba45da3c08ad0ab9
+exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
+source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
 workflow-type: tm+mt
 source-wordcount: '4375'
 ht-degree: 0%
 
 ---
-
 
 # Exportera eller importera organisationsstruktur och produktallokeringar
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Läs om hur globala administratörer kan effektivisera organisationen och produkthanteringen med export- och importfunktionerna i Global Admin Console.
 
-Gå till fliken **[!UICONTROL Organizations]** i [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html) om du vill exportera eller importera organisationsstrukturen. Gå till fliken **[!UICONTROL Product Allocation]** om du vill se allokeringsdata. Använd ikonen **[!UICONTROL More Options]** **⋮** för att välja export eller import. [Logga in på Global Admin Console](https://global-admin-console.adobe.com).
+Gå till fliken **[!UICONTROL Organizations]** i [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) om du vill exportera eller importera organisationsstrukturen. Gå till fliken **[!UICONTROL Product Allocation]** om du vill se allokeringsdata. Använd ikonen **[!UICONTROL More Options]** **⋮** för att välja export eller import. [Logga in på Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exportera organisationsstrukturen
 
-Som [global administratör](https://helpx.adobe.com/se/enterprise/global-admin-console/manage-administrators.html) kan du exportera organisationshierarkin. Du kan hämta en JSON-, CSV- eller XLSX-representation av hela organisationshierarkin eller en delmängd av den. Du kan sedan använda dessa data för analys eller ändring.
+Som [global administratör](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) kan du exportera organisationshierarkin. Du kan hämta en JSON-, CSV- eller XLSX-representation av hela organisationshierarkin eller en delmängd av den. Du kan sedan använda dessa data för analys eller ändring.
 
 Det exportformat som valts påverkar strukturen för exporterade data:
 
@@ -43,15 +43,15 @@ Det exportformat som valts påverkar strukturen för exporterade data:
 
 4. Välj **[!UICONTROL Export]**.  Det kan ta flera minuter att generera exportfilen. När du är klar kan du hämta rapporten genom att gå till **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> JSON-filer exporteras i zip-format. Du kan öppna dem med ett ZIP-verktyg eller operativsystemets zip-funktioner.
+>JSON-filer exporteras i zip-format. Du kan öppna dem med ett ZIP-verktyg eller operativsystemets zip-funktioner.
 
 När du har hämtat filen kan du ändra data och sedan importera tillbaka dem. De importerade uppdateringarna visas i Global Admin Console som om du har redigerat data manuellt.
 
 ## Importera organisationsstrukturen
 
-Som [global administratör](https://helpx.adobe.com/se/enterprise/global-admin-console/manage-administrators.html) kan du importera potentiellt ändrade data. När nya data överförs jämförs de med aktuella data och eventuella ändringar tillämpas på organisationshierarkin. Alla importåtgärder utförs på den uppdaterade kopian av organisationshierarkin. Om du har väntande ändringar läggs importändringarna till ovanpå de väntande ändringarna i hierarkin.
+Som [global administratör](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) kan du importera potentiellt ändrade data. När nya data överförs jämförs de med aktuella data och eventuella ändringar tillämpas på organisationshierarkin. Alla importåtgärder utförs på den uppdaterade kopian av organisationshierarkin. Om du har väntande ändringar läggs importändringarna till ovanpå de väntande ändringarna i hierarkin.
 
 ### Steg som ska importeras
 
@@ -59,7 +59,7 @@ Som [global administratör](https://helpx.adobe.com/se/enterprise/global-admin-c
 2. Markera ikonen **[!UICONTROL More Options]** **⋮** och välj **[!UICONTROL Import]**. Beroende på importfilens storlek och komplexitet kan bearbetningen ta från några sekunder till flera minuter.
 3. Välj **[!UICONTROL Select a file]** och välj en JSON-, CSV- eller XLSX-fil som ska överföras. För CSV kan endast en organisationsinformation importeras åt gången och det finns inte stöd för import av produkter. De importerade ändringarna ser ut som om du har redigerat data manuellt.
 4. Välj **[!UICONTROL Close]**.
-5. Välj **[!UICONTROL Review Pending Changes]**.  Välj sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem. Innan du utför ändringarna visas de väntande åtgärderna på samma sätt som när redigeringar görs manuellt i Global Admin Console.
+5. Välj **[!UICONTROL Review Pending Changes]**.  Välj sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem. Innan du utför ändringarna visas de väntande åtgärderna på samma sätt som när redigeringar görs manuellt i Global Admin Console.
 
 ## Exportera och importera scheman
 
@@ -399,7 +399,6 @@ Om produktprofilen har fler än en resurs finns det flera rader, en för varje r
 
 ### Resurser i produktprofiler
 
-
 <table>
   <tr>
     <th>Fältnamn</th>
@@ -409,20 +408,14 @@ Om produktprofilen har fler än en resurs finns det flera rader, en för varje r
 
 <tr>
     <td>resourceName</td>
-    <td>
-     Resursens namn
-    </td>
+    <td>Resursens namn</td>
     <td>Skrivskyddad</td>
   </tr>
 
 <tr>
     <td>resourceId</td>
-    <td>
-   Identifierare för resursen
-    </td>
-    <td>
-   Skrivskyddad
-    </td>
+    <td>Identifierare för resursen</td>
+    <td>Skrivskyddad</td>
   </tr>
 
 <tr>
@@ -434,33 +427,48 @@ Om produktprofilen har fler än en resurs finns det flera rader, en för varje r
 <tr>
     <td>icon</td>
     <td>URL till bild för resurs</td>
-    <td> Skrivskyddad</td>
+    <td>Skrivskyddad</td>
   </tr>
 
 <tr>
     <td>markerad</td>
-    <td>Om funktionen är aktiverad för en konfigurationspost. Det här fältet finns endast i JSON.</td>
-    <td rowspan ="2">Kan anges eller uppdateras när operation=create respektive operation=update.</td>
+    <td>
+      Om funktionen är aktiverad för en konfigurationspost.
+      Det här fältet finns endast i JSON.
+    </td>
+    <td rowspan="2">
+      Kan anges eller uppdateras när operation=create respektive operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>kvot</td>
-    <td>Kvantitet av primär resurs som kan ges ut till användare via den här produktprofilen. Det här fältet finns endast i JSON.</td>
-    <td></td>
+    <td>
+      Kvantitet av primär resurs som kan ges ut till användare via den här produktprofilen.
+      Det här fältet finns endast i JSON.
+    </td>
   </tr>
+
 
 <tr>
     <td>resourceType</td>
-    <td> Värdet är SERVICE om det finns. Den här resursen representerar en tjänst som kan aktiveras eller inaktiveras baserat på värdet i det valda fältet. Det här fältet finns endast i JSON.</td>
+    <td>
+      Värdet är SERVICE om det finns. Den här resursen representerar en tjänst som kan
+      aktiverat eller inaktiverat baserat på värdet för det valda fältet.
+      Det här fältet finns endast i JSON.
+    </td>
     <td>Skrivskyddad</td>
   </tr>
 
 <tr>
     <td>operation</td>
-    <td>Ett av de tomma alternativen Skapa, Uppdatera eller Ta bort. Åtgärd som ska vidtas när data importeras.</td>  
+    <td>
+      Ett av de tomma alternativen Skapa, Uppdatera eller Ta bort. Åtgärd som ska vidtas när data importeras.
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 **Importkrav:**
 
@@ -481,22 +489,23 @@ Om produktprofilen har fler än en resurs finns det flera rader, en för varje r
 <tr>
     <td>userGroupId</td>
     <td>
-Identifierare för användargrupp
-Platshållarvärde kan användas när du skapar så att andra objekt kan referera till den nya användargruppen.
+      Identifierare för användargrupp. Platshållarvärde kan användas för att skapa så att
+      andra objekt kan referera till den nya användargruppen.
     </td>
     <td>Kan anges till tillfälligt värde när operation=create</td>
   </tr>
 
 <tr>
     <td>userGroupName</td>
-    <td> Namn på användargrupp</td>
-    <td rowspan="2"> Kan anges eller uppdateras när operation=create respektive operation=update</td>
+    <td>Namn på användargrupp</td>
+    <td rowspan="2">
+      Kan anges eller uppdateras när operation=create respektive operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>userGroupDescription</td>
     <td>Textbeskrivning av användargrupp</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -507,25 +516,29 @@ Platshållarvärde kan användas när du skapar så att andra objekt kan referer
 
 <tr>
     <td>profiler</td>
-    <td>Array med produktprofil-ID som användargruppen är kopplad till.
-XLSX har en rad per värde med samma värden för andra fält.</td>
-    <td>Kan anges eller uppdateras när operation=create respektive operation=update</td>
+    <td>
+      Array med produktprofil-ID som användargruppen är kopplad till.
+      XLSX har en rad per värde med samma värden för andra fält.
+    </td>
+    <td>
+      Kan anges eller uppdateras när operation=create respektive operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>orgId</td>
-    <td>Organisation som innehåller användargruppen.</td>
-    <td>Används som referens för att hitta objekt som innehåller eller är associerade.</td>
+    <td>Organisation som innehåller användargruppen</td>
+    <td>Används som referens för att hitta innehållande eller associerat objekt</td>
   </tr>
 
 <tr>
     <td>operation</td>
-    <td>Ett av de tomma alternativen Skapa, Uppdatera eller Ta bort. Åtgärd som ska vidtas när data importeras.</td>
+    <td>
+      Ett av de tomma alternativen Skapa, Uppdatera eller Ta bort. Åtgärd som ska vidtas när data importeras.
+    </td>
     <td></td>
   </tr>
 </table>
-
-
 
 **Importkrav:**
 
@@ -617,7 +630,7 @@ Resursobjekt kan visas i produkter och i produktprofiler.
 
 ## Importera och exportera produktallokeringsdata
 
-Som [global administratör](https://helpx.adobe.com/se/enterprise/global-admin-console/manage-administrators.html) kan du exportera produktallokeringsdata som en JSON- eller CSV-fil. Du kan sedan ändra dessa data och överföra dem tillbaka för att importera ändringarna. När data som kan ändras överförs jämförs de med aktuella data och eventuella ändringar tillämpas på produktallokeringsdata. Du kan sedan granska och skicka in väntande ändringar så att de träder i kraft.
+Som [global administratör](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) kan du exportera produktallokeringsdata som en JSON- eller CSV-fil. Du kan sedan ändra dessa data och överföra dem tillbaka för att importera ändringarna. När data som kan ändras överförs jämförs de med aktuella data och eventuella ändringar tillämpas på produktallokeringsdata. Du kan sedan granska och skicka in väntande ändringar så att de träder i kraft.
 
 ## Exportera produktallokeringsmodellen
 
@@ -633,7 +646,7 @@ Du kan exportera data, ändra dem och sedan importera den ändrade filen. Så h�
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/) och gå till fliken **[!UICONTROL Product Allocation]**.
 2. Markera ikonen **[!UICONTROL More Options]** ⋮ och välj **[!UICONTROL Import]**.
 3. Välj en JSON- eller CSV-fil som ska överföras.
-4. Välj **[!UICONTROL Review Pending Changes]**.  När du har granskat ändringarna väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
+4. Välj **[!UICONTROL Review Pending Changes]**.  När du har granskat ändringarna väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
 
 ## Exportera och importera format för produkttilldelning
 
@@ -701,4 +714,3 @@ Om en produkt har mer än en resurs kan Uppdateringsåtgärder tillämpas på ob
 - Organisationen som är associerad med den nya produkten måste finnas.
 - Produkten som skapas får inte finnas (produkt med samma licens-ID).
 - Resurserna som är kopplade till en produkt som skapas måste ha ett motsvarande productId som matchar den produkten.
-
