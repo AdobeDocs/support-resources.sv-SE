@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Utforska de globala administratörsfunktionerna och lär dig hur du delegerar och distribuerar administration av användare, produktlicenser och grupper till administratörer för varje enskild organisation.
 
-I Global Admin Console kan du välja en organisation och navigera till fliken **[!UICONTROL Admins]** för att lägga till, redigera eller ta bort administratörsrättigheter. Mer information finns i [Adobes globala administration](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Gå till [Global Admin Console](https://global-admin-console.adobe.com/) för att logga in.
+I Global Admin Console kan du välja en organisation och navigera till fliken **[!UICONTROL Admins]** för att lägga till, redigera eller ta bort administratörsrättigheter. Mer information finns i [Adobes globala administration](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html). Gå till [Global Admin Console](https://global-admin-console.adobe.com/) för att logga in.
 
 
 Global Admin Console introducerar en roll som kallas global administratör. Den här rollen skiljer sig från en systemadministratör och gör följande:
@@ -154,7 +154,7 @@ En global administratör kan skapa organisationer, distribuera produkter och lag
 
    > [ !Note]
    > 
-   > Organisationer kan ha begränsningar för vilka kontotyper som kan läggas till. Dessa kan vara baserade på [principer](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) eller andra konfigurationsparametrar för en organisation. Organisationer tillåter inte att både AdobeID-användare och BusinessID-användare läggs till samtidigt. I allmänhet bör det inte finnas användare av båda typerna i en organisation, men beroende på i vilken ordning reglerna anges kan det finnas vissa användare av en viss kontotyp som fördaterar tillämpningen av policyer eller regler.
+   > Organisationer kan ha begränsningar för vilka kontotyper som kan läggas till. Dessa kan vara baserade på [principer](https://helpx.adobe.com/se/enterprise/global-admin-console/update-policies.html) eller andra konfigurationsparametrar för en organisation. Organisationer tillåter inte att både AdobeID-användare och BusinessID-användare läggs till samtidigt. I allmänhet bör det inte finnas användare av båda typerna i en organisation, men beroende på i vilken ordning reglerna anges kan det finnas vissa användare av en viss kontotyp som fördaterar tillämpningen av policyer eller regler.
 
 1. Välj en eller flera administratörsroller i avsnittet **[!UICONTROL Admin Rights]**.
 
@@ -164,7 +164,7 @@ En global administratör kan skapa organisationer, distribuera produkter och lag
 
 1. Välj **[!UICONTROL Save]**.
 
-1. När du har redigerat organisationer väljer du **[!UICONTROL Review Pending Changes]** och sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) ändringarna.
+1. När du har redigerat organisationer väljer du **[!UICONTROL Review Pending Changes]** och sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) ändringarna.
 
 När en administratörsroll läggs till får användaren ett e-postmeddelande som informerar dem om ändringen av deras roll.
 
@@ -182,7 +182,7 @@ När administratören har lagts till får han/hon ett e-postmeddelande med en in
 
 1. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna.
 
-Ett separat kommando visas i listan över väntande ändringar för varje tillagd eller borttagen administratörsroll. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+Ett separat kommando visas i listan över väntande ändringar för varje tillagd eller borttagen administratörsroll. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 ## Ta bort administratörsrättigheter
 
@@ -194,7 +194,7 @@ Ett separat kommando visas i listan över väntande ändringar för varje tillag
 
 1. Välj **[!UICONTROL OK]** i bekräftelsedialogrutan.
 
-1. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+1. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 När du har tagit bort en administratör får användaren ett e-postmeddelande som informerar användaren om att åtkomst till administrationskonsolen för organisationen har förlorats.
 
