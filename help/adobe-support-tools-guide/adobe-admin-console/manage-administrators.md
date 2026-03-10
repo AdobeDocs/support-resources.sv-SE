@@ -152,7 +152,7 @@ En global administratör kan skapa organisationer, distribuera produkter och lag
 
    Om du försöker lägga till en befintlig användare som administratör väljer du samma kontotyp som den befintliga användaren, annars misslyckas åtgärden för att lägga till.
 
-   > [!Note]
+   > [ !Note]
    > 
    > Organisationer kan ha begränsningar för vilka kontotyper som kan läggas till. Dessa kan vara baserade på [principer](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) eller andra konfigurationsparametrar för en organisation. Organisationer tillåter inte att både AdobeID-användare och BusinessID-användare läggs till samtidigt. I allmänhet bör det inte finnas användare av båda typerna i en organisation, men beroende på i vilken ordning reglerna anges kan det finnas vissa användare av en viss kontotyp som fördaterar tillämpningen av policyer eller regler.
 
