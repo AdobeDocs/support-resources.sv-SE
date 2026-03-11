@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se hur globala administratörer kan generera och ladda ned detaljerade licensrapporter för flera organisationer och produkter för specifika datumintervall för att underlätta exakt spårning av licensprovisionering.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Om du vill skapa, visa och exportera en licenstilldelningsrapport loggar du in på [Global Admin Console](https://global-admin-console.adobe.com/) och går till **[!UICONTROL Insights]** > **[!UICONTROL Reports]** > **[!UICONTROL License assignment]**.
 
@@ -26,7 +26,7 @@ Med licenstilldelningsrapporter kan ni proaktivt övervaka licensetableringen oc
 1. Gå till fliken **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** i Global Admin Console.
 2. Välj **[!UICONTROL License Assignment]** på sidan **[!UICONTROL Create report]**.
 3. Markera organisationerna och välj **[!UICONTROL Next]**. Du kan välja varje organisation separat eller välja alla underordnade organ inom en överordnad med knappen **[!UICONTROL Select all]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Ta reda på varför du inte kan välja vissa organisationer**:
    >Om en underordnad organisation inte har ett kontrakt eller har ett separat Enterprise-kontrakt med samma produkt som den överordnade organisationen, inaktiveras den från att skapa en licenstilldelningsrapport. Om huvudorganisationens kontrakt till exempel har Adobe Acrobat, och den underordnade organisationen har samma avtal som en del av ett annat kontrakt, är produkten begränsad för allokering. På grund av detta är den också begränsad för att skapa rapporter i Global Admin Console. [Lär dig hur du spårar etablering för sådana organ med deras respektive Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ Med licenstilldelningsrapporter kan ni proaktivt övervaka licensetableringen oc
    >
    > Du kan bara skapa uppdragsrapporter för organisationer med ett aktivt kontrakt.
 4. Välj de produkter som ska inkluderas i rapporten och välj **[!UICONTROL Next]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Ta reda på varför du inte kan välja vissa produkter**:
    >Produkter som inte kan allokeras i Global Admin Console inkluderas inte för att skapa rapporter. Detta inkluderar för närvarande vissa Digital Experience-produkter som [!DNL Workfront], [!DNL Adobe Experience Manager] och [!DNL Adobe Experience Platform] samt produkter som [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] och [!DNL Adobe Stock]. [Du använder Adobe Admin Console för att hitta licensprovisioneringsdata för dessa produkter](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
