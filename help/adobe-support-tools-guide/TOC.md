@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 - [Administratörsroller](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigera i Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Skapa licenstilldelningsrapporter för flera organisationer och produkter](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [Välj en organisation i Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Hantera administratörer](adobe-admin-console/manage-administrators.md)
    - [Exportera eller importera organisationsstruktur och produktallokeringar](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Använd förfallodatum för lösenord i Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
