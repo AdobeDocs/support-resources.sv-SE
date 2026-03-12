@@ -31,7 +31,7 @@ Med licenstilldelningsrapporter kan ni proaktivt övervaka licensetableringen oc
 >[!NOTE]
 >
 >**Ta reda på varför du inte kan välja vissa organisationer**:
->Om en underordnad organisation inte har ett kontrakt eller har ett separat Enterprise-kontrakt med samma produkt som den överordnade organisationen, inaktiveras den från att skapa en licenstilldelningsrapport. Om huvudorganisationens kontrakt till exempel har Adobe Acrobat, och den underordnade organisationen har samma avtal som en del av ett annat kontrakt, är produkten begränsad för allokering. På grund av detta är den också begränsad för att skapa rapporter i Global Admin Console. [Lär dig hur du spårar etablering för sådana organ med deras respektive Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+>Om en underordnad organisation inte har ett kontrakt eller har ett separat Enterprise-kontrakt med samma produkt som den överordnade organisationen, inaktiveras den från att skapa en licenstilldelningsrapport. Om huvudorganisationens kontrakt till exempel har Adobe Acrobat, och den underordnade organisationen har samma avtal som en del av ett annat kontrakt, är produkten begränsad för allokering. På grund av detta är den också begränsad för att skapa rapporter i Global Admin Console. [Lär dig hur du spårar etablering för sådana organ med deras respektive Admin Console](https://helpx.adobe.com/se/enterprise/using/assignment-reports.html).
 >
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Med licenstilldelningsrapporter kan ni proaktivt övervaka licensetableringen oc
 >[!NOTE]
 >
 >**Ta reda på varför du inte kan välja vissa produkter**:
->Produkter som inte kan allokeras i Global Admin Console inkluderas inte för att skapa rapporter. Detta inkluderar för närvarande vissa Digital Experience-produkter som [!DNL Workfront], [!DNL Adobe Experience Manager] och [!DNL Adobe Experience Platform] samt produkter som [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] och [!DNL Adobe Stock]. [Du använder Adobe Admin Console för att hitta licensprovisioneringsdata för dessa produkter](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+>Produkter som inte kan allokeras i Global Admin Console inkluderas inte för att skapa rapporter. Detta inkluderar för närvarande vissa Digital Experience-produkter som [!DNL Workfront], [!DNL Adobe Experience Manager] och [!DNL Adobe Experience Platform] samt produkter som [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] och [!DNL Adobe Stock]. [Du använder Adobe Admin Console för att hitta licensprovisioneringsdata för dessa produkter](https://helpx.adobe.com/se/enterprise/using/assignment-reports.html).
 
 1. Välj om rapporten ska sammanställas per månad eller år.
 1. Välj ett anpassat datumintervall eller välj bland förinställda alternativ. Du kan välja valfritt startdatum från 18 juni 2020 fram till föregående dag, så länge det inte föregår avtalets startdatum.
