@@ -6,13 +6,12 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
+source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}
 
@@ -24,6 +23,7 @@ ht-degree: 0%
 - [Administratörsroller](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigera i Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Hantera organisationshierarki](adobe-admin-console/set-up-organizations.md)
    - [Skapa licenstilldelningsrapporter för flera organisationer och produkter](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Välj en organisation i Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Hantera administratörer](adobe-admin-console/manage-administrators.md)
