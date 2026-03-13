@@ -80,13 +80,13 @@ Som [global administratör](https://helpx.adobe.com/enterprise/global-admin-cons
 >[!TIP]
 >
 >Använd ett tydligt och identifierbart organisationsnamn på upp till 255 tecken för att hjälpa användarna att välja rätt profil. Undvik att använda specialtecken och överväg att ta med region, avdelning eller berättigande. Undvik också ovanliga akronymer och otydliga eller liknande namn i hela organisationshierarkin.
-Använd ett tydligt och identifierbart organisationsnamn på upp till 255 tecken för att hjälpa användarna att välja rätt profil. Undvik att använda specialtecken och överväg att ta med region, avdelning eller berättigande. Undvik också ovanliga akronymer och otydliga eller liknande namn i hela organisationshierarkin.
+>Använd ett tydligt och identifierbart organisationsnamn på upp till 255 tecken för att hjälpa användarna att välja rätt profil. Undvik att använda specialtecken och överväg att ta med region, avdelning eller berättigande. Undvik också ovanliga akronymer och otydliga eller liknande namn i hela organisationshierarkin.
 
 Ändringar loggas i granskningsloggen, alla användare meddelas via e-post och namnet kan inte uppdateras igen på 24 timmar. [Lär dig hur du visar och hämtar granskningsloggar](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Ändra överordnad för en organisation
 
-Som [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) kan du reparera en organisation i organisationshierarkin med knappen **[!UICONTROL Change hierarchy]**.
+Som [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) kan du reparera en organisation i organisationshierarkin med knappen **[!UICONTROL Change hierarchy]**.
 
 Om du ändrar överordnad för en organisation påverkas följande:
 
@@ -101,7 +101,7 @@ Om du ändrar överordnad för en organisation påverkas följande:
 >Om produkter tas bort som ett resultat av reparationer förlorar användarna åtkomsten till dessa produkter.
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/). På fliken **[!UICONTROL Organizations]** väljer du **[!UICONTROL Change hierarchy]** för att aktivera reparering av organisationerna.
-2. Välj **[!UICONTROL  OK]** på popup-skärmen som visas.
+2. Välj **[!UICONTROL &#x200B; OK]** på popup-skärmen som visas.
 3. Om du vill förbereda drar du den underordnade organisationen till önskad organisation.
 4. Välj **[!UICONTROL Save]** när du är klar med att kommentera dina organisationer.
 5. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
@@ -119,7 +119,7 @@ Läs mer om [begränsningarna för produktallokering](https://helpx.adobe.com/en
 >[!WARNING]
 >
 > Du kan bara lägga till underordnade organisationer i rotorganisationer som är baserade på samma lagringsmodell. Underordnade organisationer som baseras på användarlagringsmodellen kan alltså bara läggas till i rotorganisationer baserat på användarlagringsmodellen. Underordnade organisationer baserade på företagets lagringsmodell kan dessutom bara läggas till i rotorganisationer baserat på företagets lagringsmodell.
-Du kan bara lägga till underordnade organisationer i rotorganisationer som är baserade på samma lagringsmodell. Underordnade organisationer som baseras på användarlagringsmodellen kan alltså bara läggas till i rotorganisationer baserat på användarlagringsmodellen. Underordnade organisationer baserade på företagets lagringsmodell kan dessutom bara läggas till i rotorganisationer baserat på företagets lagringsmodell.
+>Du kan bara lägga till underordnade organisationer i rotorganisationer som är baserade på samma lagringsmodell. Underordnade organisationer som baseras på användarlagringsmodellen kan alltså bara läggas till i rotorganisationer baserat på användarlagringsmodellen. Underordnade organisationer baserade på företagets lagringsmodell kan dessutom bara läggas till i rotorganisationer baserat på företagets lagringsmodell.
 
 På fliken **[!UICONTROL Organization Mapper]** visas följande:
 
