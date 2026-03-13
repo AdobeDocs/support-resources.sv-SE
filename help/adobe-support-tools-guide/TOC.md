@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
+source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,7 +15,6 @@ ht-degree: 0%
 
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}
 
-- [Meddelande om supportslut för MySQL och riktlinjer för databaskompatibilitet för Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe Support and Tools Guide - översikt](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe kundupplevelse](adobe-customer-support-experience.md)
 - [Konfiguration av Adobe kundsupportberättigande](adobe-customer-support-entitlement-configuration.md)
@@ -32,6 +31,7 @@ ht-degree: 0%
 - Adobe Workfront Support {#workfront}
    - [Vanliga frågor och svar](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
+   - [Meddelande om supportslut för MySQL och riktlinjer för databaskompatibilitet för Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [Så här skaffar och tillämpar du säkerhetsuppdateringar](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
