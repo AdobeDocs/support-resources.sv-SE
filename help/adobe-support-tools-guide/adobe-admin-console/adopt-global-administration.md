@@ -46,7 +46,7 @@ Följande är några viktiga fördelar med [!DNL Global Admin Console]:
 - Skapa, redigera och ta bort produktprofiler och användargrupper.
 - Exportera organisationsinformation för rapportering eller användning i andra processer.
 - Importera uppdateringar till organisationer och ändringar i organisationshierarkin.
-- Få meddelanden om ETLA avtalsstatus i underordnade organisationer, inklusive kommande förfallodatum, utgångna eller inaktiva kontrakt. Mer information finns i dokumentationen för [kontraktets förfallodatum](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+- Få meddelanden om ETLA avtalsstatus i underordnade organisationer, inklusive kommande förfallodatum, utgångna eller inaktiva kontrakt. Mer information finns i dokumentationen för [kontraktets förfallodatum](https://helpx.adobe.com/se/enterprise/using/contract-expiry.html).
 
 ## Kriterier för deltagande
 
