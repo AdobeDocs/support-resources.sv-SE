@@ -106,7 +106,7 @@ Så här hämtar du en exportrapport:
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/insights) och gå till **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/se/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Fält | Beskrivning |
