@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 0%
    - [Så här skaffar och tillämpar du säkerhetsuppdateringar](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe Commerce Intelligence Essentials: uppdatera betalningsmetod eller avbryt prenumeration](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobe ger stöd för åtkomst och integritet av kunddata](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Uppdatering av livscykelpolicy för Adobe Commerce Support-biljetter](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Faktablad för övervakning av Adobe Commerce om molnbaserad infrastruktur](adobe-commerce-support/monitoring-whitepaper.md)
