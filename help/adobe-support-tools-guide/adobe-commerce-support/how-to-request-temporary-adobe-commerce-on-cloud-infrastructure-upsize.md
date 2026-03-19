@@ -1,6 +1,6 @@
 ---
 title: Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur
-description: Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
+description: Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
 source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hur man begär tillfälliga Adobe Commerce-lösningar för molninfrastruktur
 
-Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
+Om din organisation planerar en onlinehändelse där du förväntar dig hög trafik, eller om du plötsligt upptäcker att din webbplats håller på att genomgå en stor trafikaktivitet, kan du arkivera en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) för att begära tillfällig ytterligare molnkapacitet för din Adobe Commerce i molninfrastrukturbutiken.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Dessutom fungerar baslinjevarningar bra med nya program när du ännu inte har n
 
 Följ den här länken om du vill veta mer om New Relic [Anomaly-identifiering med den använda intelligensen](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Om du får ett varningsmeddelande som tyder på en hög trafikhändelse kan du behöva överväga att [skicka en supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) och begära ytterligare kapacitet. Följ stegen nedan.
+Om du får ett varningsmeddelande som tyder på en hög trafikhändelse kan du behöva överväga att [skicka en supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) och begära ytterligare kapacitet. Följ stegen nedan.
 
 ## Så här övervakar du webbplatsens prestanda
 
@@ -47,11 +47,11 @@ Adobe tillhandahåller en uppsättning av New Relic aviseringspolicyer för Adob
 
 De här riktlinjerna bygger på branschens bästa praxis och sätter tröskelvärden för varningar och kritiska förhållanden som påverkar prestandan. När en infrastruktur- eller programsäkerhetslucka som utlöser ett tröskelvärde för avisering inträffar på din webbplats skickar New Relic varningsmeddelanden så att du kan åtgärda problemet proaktivt. Om du vill använda de här profilerna måste du konfigurera meddelandekanaler så att du kan ta emot varningsmeddelanden.
 
-Följ den här länken om du vill lära dig hur du [konfigurerar prestandabaserade aviseringar](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service#monitor-performance-with-managed-alerts).
+Följ den här länken om du vill lära dig hur du [konfigurerar prestandabaserade aviseringar](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service#monitor-performance-with-managed-alerts).
 
 ## Steg för att begära tillfällig storlek
 
-Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) till Adobe Commerce Support Center med följande information:
+Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supportanmälan](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=sv-SE#submit-ticket) till Adobe Commerce Support Center med följande information:
 
 >[!NOTE]
 >
@@ -101,7 +101,7 @@ Om du vill begära tillfällig ytterligare molnkapacitet skickar du en [supporta
 
 >[!NOTE]
 >
->När storleken är schemalagd justeras storleken på molninstansen av ett automatiskt system. Du får inte få någon anmälan om biljett när proceduren är klar. Du kan använda verktyget Observation for Adobe Commerce för att visa instanstyperna för AWS eller Azure för att [verifiera ändringen](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>När storleken är schemalagd justeras storleken på molninstansen av ett automatiskt system. Du får inte få någon anmälan om biljett när proceduren är klar. Du kan använda verktyget Observation for Adobe Commerce för att visa instanstyperna för AWS eller Azure för att [verifiera ändringen](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Visa historiken för dina uppgraderingar
 
@@ -118,11 +118,11 @@ Följande information finns för varje begäran om storleksändring:
 ## Relaterad läsning
 
 * Information, metoder och exempel på hur du mäter och förbättrar webbplatsens prestanda finns i följande ingående artiklar i vår kunskapsbas för support:
-   * [CPU-allokeringsberäkning för Adobe Commerce i molnet](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
-   * [Kontrollera om det krävs en uppgradering för värdinstanser för Adobe Commerce i molnet](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
-   * [Kontrollera värddatorns CPU-konfiguration för Adobe Commerce i molnet](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
-* Mer information om hur du identifierar avbrott finns i [Identifiera och mäta avbrott för Adobe Commerce i molnet](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) i vår kunskapsbas för support.
+   * [CPU-allokeringsberäkning för Adobe Commerce i molnet](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
+   * [Kontrollera om det krävs en uppgradering för värdinstanser för Adobe Commerce i molnet](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
+   * [Kontrollera värddatorns CPU-konfiguration för Adobe Commerce i molnet](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
+* Mer information om hur du identifierar avbrott finns i [Identifiera och mäta avbrott för Adobe Commerce i molnet](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) i vår kunskapsbas för support.
 * Mer information om hur du förbättrar webbplatsens prestanda för att undvika behovet av att utnyttja en kapacitetsökning finns i följande artiklar i vår utvecklardokumentation:
-   * [Bildstorlek](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
-   * [Cachelagring av hela sidor](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
-   * [ECE-verktyg](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
+   * [Bildstorlek](https://experienceleague.adobe.com/sv/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
+   * [Cachelagring av hela sidor](https://experienceleague.adobe.com/sv/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [ECE-verktyg](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
