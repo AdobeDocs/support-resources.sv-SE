@@ -29,7 +29,7 @@ Som global administratör har du fullständig insyn i de ändringar du har gjort
 
 >[!NOTE]
 >
-> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/enterprise/using/audit-logs.html) som gjorts i Admin Console.
+> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) som gjorts i Admin Console.
 
 Så här visar eller hämtar du granskningsloggar för din organisation:
 
