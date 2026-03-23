@@ -29,7 +29,7 @@ Som global administratör har du fullständig insyn i de ändringar du har gjort
 
 >[!NOTE]
 >
-> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/enterprise/using/audit-logs.html) som gjorts i Admin Console.
+> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) som gjorts i Admin Console.
 
 Så här visar eller hämtar du granskningsloggar för din organisation:
 
@@ -106,7 +106,7 @@ Så här hämtar du en exportrapport:
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/insights) och gå till **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/se/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Fält | Beskrivning |
