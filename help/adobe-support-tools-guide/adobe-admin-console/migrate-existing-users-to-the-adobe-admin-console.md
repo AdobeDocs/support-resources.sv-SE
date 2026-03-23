@@ -23,9 +23,9 @@ Det här dokumentet är avsett för organisationer med befintliga Creative Cloud
 
 För att undvika avbrott i slutanvändarnas produktåtkomst tilldelar du licenser i Adobe Admin Console innan den befintliga prenumerationsperioden för VIP löper ut.
 
-* För ETLA-kunder kan det ta minst 30 dagar innan produkterna överlappar varandra. Slutför migreringen före brytdatumet så att användarna har tillgång till Adobe program och tjänster. Mer information om förfallodatum för ETLA-kontrakt finns i [Automatiska förfallofaser för ETLA-kontrakt](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+* För ETLA-kunder kan det ta minst 30 dagar innan produkterna överlappar varandra. Slutför migreringen före brytdatumet så att användarna har tillgång till Adobe program och tjänster. Mer information om förfallodatum för ETLA-kontrakt finns i [Automatiska förfallofaser för ETLA-kontrakt](https://helpx.adobe.com/se/enterprise/using/contract-expiry.html).
 * För VIP-kunder kan du köpa licenser före årsdatumet och tilldela licenser innan förnyelseperioden för din nuvarande VIP-period avslutas.
-* CLP- eller TLP-kunder kan migrera från serialiserade Acrobat eller Creative Suite till personliga användarlicenser med migreringsinstruktionerna i [Licensiering](https://helpx.adobe.com/enterprise/using/licensing.html).
+* CLP- eller TLP-kunder kan migrera från serialiserade Acrobat eller Creative Suite till personliga användarlicenser med migreringsinstruktionerna i [Licensiering](https://helpx.adobe.com/se/enterprise/using/licensing.html).
 
 >[!NOTE]
 >
@@ -73,9 +73,9 @@ I Admin Console uppmanas du att tilldela licenser med Snabbtilldelning av licens
 
    ![Licenstilldelningsbekräftelse](assets/migrate-license-assignment.png)
 
-Hämta [resultatrapporten](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) i Admin Console för att bekräfta att alla licenser har tilldelats. Om du är klar före datumet i bekräftelsemeddelandet ska slutanvändarna inte drabbas av några avbrott i tjänsten.
+Hämta [resultatrapporten](https://helpx.adobe.com/se/enterprise/using/users.html#main-pars_header_1346350355) i Admin Console för att bekräfta att alla licenser har tilldelats. Om du är klar före datumet i bekräftelsemeddelandet ska slutanvändarna inte drabbas av några avbrott i tjänsten.
 
-Schemalägg ett :1 introduktionssamtal med en Adobe-introduktionsspecialist (om du inte redan har det) för att lära dig mer om Admin Console, inklusive [administrativa roller](https://helpx.adobe.com/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/enterprise/using/identity.html).
+Schemalägg ett :1 introduktionssamtal med en Adobe-introduktionsspecialist (om du inte redan har det) för att lära dig mer om Admin Console, inklusive [administrativa roller](https://helpx.adobe.com/se/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/se/enterprise/using/identity.html).
 
 >[!NOTE]
 >
@@ -94,12 +94,12 @@ Tilldela licenser med en gruppåtgärd med hjälp av en CSV-mall från [!DNL Adm
 
    ![Redigera användare via CSV](assets/migrate-edit-users-by-csv.png)
 
-   Fältbeskrivningar i den hämtade filen finns i [CSV-filformat](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
+   Fältbeskrivningar i den hämtade filen finns i [CSV-filformat](https://helpx.adobe.com/se/enterprise/using/users.html#main-pars_header).
 4. Lägg till licenstilldelningar i CSV-filen, dra den uppdaterade filen till dialogrutan **[!UICONTROL Edit Users by CSV]** och klicka på **[!UICONTROL Upload]**. Du får ett e-postmeddelande när åtgärden har slutförts.
 
    ![Användarredigering slutförd](assets/migrate-user-edit-complete.png)
 
-Hämta [resultatrapporten](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg sedan introduktionen med en Adobe-introduktionsspecialist för att få veta mer om [administrativa roller](https://helpx.adobe.com/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/enterprise/using/identity.html).
+Hämta [resultatrapporten](https://helpx.adobe.com/se/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg sedan introduktionen med en Adobe-introduktionsspecialist för att få veta mer om [administrativa roller](https://helpx.adobe.com/se/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/se/enterprise/using/identity.html).
 
 ## Grupptilldelning av licenser (VIP till ETLA)
 
@@ -118,9 +118,9 @@ Du får ett e-postmeddelande när användare läggs till i ETLA.
 
 ![Användare har lagts till efter migrering från VIP till ETLA](assets/migrate-users-added-vip-etla.png)
 
-Hämta [resultatrapporten](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg introduktion med en Adobe-introduktionsspecialist för [administrativa roller](https://helpx.adobe.com/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/enterprise/using/identity.html).
+Hämta [resultatrapporten](https://helpx.adobe.com/se/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg introduktion med en Adobe-introduktionsspecialist för [administrativa roller](https://helpx.adobe.com/se/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/se/enterprise/using/identity.html).
 
-Information om problem med massöverföring finns i [Felsöka massöverföring av användare](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Information om problem med massöverföring finns i [Felsöka massöverföring av användare](https://helpx.adobe.com/se/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Grupptilldelning av licenser (ETLA till VIP)
 
@@ -142,8 +142,8 @@ Du får ett e-postmeddelande när användare läggs till i VIP.
 
 ![Användare har lagts till efter migrering från ETLA till VIP](assets/migrate-users-added-etla-vip.png)
 
-Hämta [resultatrapporten](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg introduktion med en Adobe-introduktionsspecialist för [administrativa roller](https://helpx.adobe.com/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/enterprise/using/identity.html).
+Hämta [resultatrapporten](https://helpx.adobe.com/se/enterprise/using/users.html#main-pars_header_1346350355) för att validera tilldelningar. Schemalägg introduktion med en Adobe-introduktionsspecialist för [administrativa roller](https://helpx.adobe.com/se/enterprise/using/admin-roles.html) och [identitet](https://helpx.adobe.com/se/enterprise/using/identity.html).
 
-Information om problem med massöverföring finns i [Felsöka massöverföring av användare](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Information om problem med massöverföring finns i [Felsöka massöverföring av användare](https://helpx.adobe.com/se/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 
