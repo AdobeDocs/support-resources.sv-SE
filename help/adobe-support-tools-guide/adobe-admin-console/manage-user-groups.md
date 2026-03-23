@@ -4,19 +4,19 @@ description: Lär dig hur du skapar, delar, redigerar och tar bort användargrup
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: f81a20fd6d9d64443f4708b3fc17de7240d1bc61
+exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
+source-git-commit: 265c341935b3257e5731a129c42411151645ae89
 workflow-type: tm+mt
 source-wordcount: '1234'
 ht-degree: 0%
 
 ---
 
-
 # Hantera användargrupper i Global Admin Console
 
 Skapa, hantera och dela användargrupper i Global Admin Console för att effektivisera användarhanteringen genom att gruppera användare med samma behörigheter, spara tid och säkerställa enhetlighet.
 
-I [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation och navigerar till **[!UICONTROL User Groups]**. Dela grupper i flera organisationer med hjälp av en enda användarhanteringskälla för att synkronisera användare och grupper.
+I [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation och navigerar till **[!UICONTROL User Groups]**. Dela grupper i flera organisationer med hjälp av en enda användarhanteringskälla för att synkronisera användare och grupper.
 
 [Logga in på Global Admin Console](https://global-admin-console.adobe.com)
 
@@ -24,7 +24,7 @@ I [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-cons
 
 ## Skapa användargrupper
 
-Du kan antingen [skapa användargrupper](https://helpx.adobe.com/se/enterprise/using/user-groups.html) individuellt, gruppvis eller [synkronisera dem direkt från en etablerad Azure AD](https://helpx.adobe.com/se/enterprise/using/add-azure-sync.html) till en federerad katalog i Adobe Admin Console. I Global Admin Console kan du definiera användargrupper med relevanta produktprofiler tilldelade, som användargruppadministratörer senare kan lägga till användare med Admin Console.
+Du kan antingen [skapa användargrupper](https://helpx.adobe.com/se/enterprise/using/user-groups.html) individuellt, gruppvis eller [synkronisera dem direkt från en etablerad Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) till en federerad katalog i Adobe Admin Console. I Global Admin Console kan du definiera användargrupper med relevanta produktprofiler tilldelade, som användargruppadministratörer senare kan lägga till användare med Admin Console.
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/), markera en organisation som du vill redigera och navigera sedan till fliken **[!UICONTROL User Groups]** .
 
@@ -36,14 +36,14 @@ Du kan antingen [skapa användargrupper](https://helpx.adobe.com/se/enterprise/u
 
 3. Ange följande i dialogrutan **[!UICONTROL Add User Group]** som visas:
    - **[!UICONTROL Name]**: Ange ett namn för användargruppen.
-   - **[!UICONTROL Product Profiles]**: Om du vill ge produktåtkomst till aktuella eller framtida medlemmar i användargruppen klickar du på listrutepilen för att välja en produktprofil i listan eller anger namnet på produktprofilen och väljer den i listrutan som visas. Om du vill lägga till en produktprofil som inte redan har skapats måste du först göra det på fliken [Produktprofiler](https://helpx.adobe.com/se/enterprise/using/global-admin-edit-organizations.html#profiles).
+   - **[!UICONTROL Product Profiles]**: Om du vill ge produktåtkomst till aktuella eller framtida medlemmar i användargruppen klickar du på listrutepilen för att välja en produktprofil i listan eller anger namnet på produktprofilen och väljer den i listrutan som visas. Om du vill lägga till en produktprofil som inte redan har skapats måste du först göra det på fliken [Produktprofiler](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles).
    - **[!UICONTROL Admins]**: Klicka på listrutepilen för att välja en administratör i listan eller ange administratörens e-postadress och välj den i listrutan som visas. Om du vill lägga till en ny administratör som inte redan har skapats måste du först skapa den administratören med hjälp av fliken [Administratörer](#share-user-groups).
 
    De produktprofiler du anger tilldelas användargruppen och de administratörer du anger blir gruppadministratörer för gruppen. Administratörer för användargrupper kan använda Adobe Admin Console för den aktuella organisationen för att hantera gruppen.
 
 4. Välj **[!UICONTROL Save]**.
 
-5. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
+5. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
 
    >[!NOTE]
    >
@@ -84,9 +84,9 @@ Gruppprojektion gör att du kan synkronisera användargrupper och associerade an
    - **[!UICONTROL Add only]**: Lägg samman användargrupperna genom att lägga till nya användare i de befintliga användargrupperna utan att ta bort några användare.
    - **[!UICONTROL Mirror group]**: Justera målorganisationens grupper så att de matchar den delade gruppen genom att lägga till eller ta bort användare.
 
-8. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
+8. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
 
-   Gruppprojektionshändelser loggas som referens. Lär dig [visa och hämta granskningsloggar](https://helpx.adobe.com/se/enterprise/global-admin-console/insights.html).
+   Gruppprojektionshändelser loggas som referens. Lär dig [visa och hämta granskningsloggar](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 
 När du delar en användargrupp läggs gruppen och dess användare till i målorganisationen. Källanvändargruppen *styr* de delade användargrupperna och deras användare. Admin- och produktprofiltilldelningar är *inte* synkroniserade mellan organisationer.
@@ -111,7 +111,7 @@ När du delar en användargrupp läggs gruppen och dess användare till i målor
 
 6. Välj **[!UICONTROL Revoke access]**.
 
-7. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
+7. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) dem.
 
 
 
@@ -133,9 +133,9 @@ När du delar en användargrupp läggs gruppen och dess användare till i målor
 
    >[!NOTE]
    >
-   >I guiden **[!UICONTROL Edit User Group]** kan du bara tilldela administratörsroller till användare som redan har en administratörsroll tilldelad i den här organisationen. Lär dig hur du [lägger till nya administratörer](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
+   >I guiden **[!UICONTROL Edit User Group]** kan du bara tilldela administratörsroller till användare som redan har en administratörsroll tilldelad i den här organisationen. Lär dig hur du [lägger till nya administratörer](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
-4. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/se/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) dem.
+4. Välj **[!UICONTROL Review pending changes]** om du vill granska uppdateringarna. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) dem.
 
    >[!NOTE]
    >
@@ -159,4 +159,4 @@ När du delar en användargrupp läggs gruppen och dess användare till i målor
    >
    >Om du tar bort en användargrupp kan det påverka dina användare. Kontrollera att det inte finns någon åtkomst eller information som går förlorad när användargruppen tas bort.
 
-4. När du har redigerat organisationerna väljer du **[!UICONTROL Review pending changes]** för att granska dem. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/se/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) dem.
+4. När du har redigerat organisationerna väljer du **[!UICONTROL Review pending changes]** för att granska dem. Välj sedan **[!UICONTROL Submit changes]** för att [köra](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) dem.
