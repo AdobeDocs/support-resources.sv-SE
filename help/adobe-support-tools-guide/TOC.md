@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
+source-git-commit: 8a0f96df06da03ed2f125f183890ded7a6f707c6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 0%
    - [Skapa licenstilldelningsrapporter för flera organisationer och produkter](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Välj en organisation i Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Hantera administratörer](adobe-admin-console/manage-administrators.md)
+   - [Hantera produktprofiler i Global Admin Console](adobe-admin-console/manage-product-profiles.md)
    - [Exportera eller importera organisationsstruktur och produktallokeringar](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Använd förfallodatum för lösenord i Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Hämta granskningsloggar och exportrapporter](adobe-admin-console/download-audit-logs-and-export-reports.md)
