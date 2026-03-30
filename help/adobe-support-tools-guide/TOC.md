@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
+source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}
 
 - [Adobe Support and Tools Guide - översikt](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
+- [Versionsinformation om Experience League support](/help/adobe-support-tools-guide/release-notes.md)
 - [Adobe kundupplevelse](adobe-customer-support-experience.md)
 - [Konfiguration av Adobe kundsupportberättigande](adobe-customer-support-entitlement-configuration.md)
 - [Uppdatering av telefonnummer för support](phone-numbers.md)
