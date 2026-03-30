@@ -15,7 +15,7 @@ ht-degree: 0%
 Versionsinformationen innehåller uppdateringar av Experience League support och innehåller:
 
 ![Nya](../adobe-support-tools-guide/assets/new.svg) nya funktioner
-![Korrigera ](../adobe-support-tools-guide/assets/fix.svg) Korrigeringar och förbättringar
+![Korrigera &#x200B;](../adobe-support-tools-guide/assets/fix.svg) Korrigeringar och förbättringar
 ![Fel](../adobe-support-tools-guide/assets/bug.svg) Kända fel
 
 ## 30 mars 2026 - Förbättrat ansökningsformulär
