@@ -38,7 +38,7 @@ På varje flik i Admin Console kan du utföra olika uppgifter. Markera rubrikern
 
 - **[!UICONTROL Settings]**(#settings): Gör anspråk på domäner, begränsa åtkomsten till delningsfunktioner, lägga till anteckningar för slutanvändare, ange lösenordsskyddsnivåer.
 
-Om du inte kan logga in på Admin Console läser du [Lös problem med inloggning med Adobe-konton](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
+Om du inte kan logga in på Admin Console läser du [Lös problem med inloggning med Adobe-konton](https://helpx.adobe.com/se/manage-account/kb/account-password-sign-help.html).
 
 ## **[!UICONTROL Overview]** {#overview}
 
@@ -56,7 +56,7 @@ Om organisationen ingår i en Global Admin Console visas en hierarkiikon bredvid
 
 ![Admin Console Välj din underordnade organisation](assets/admin-console-select-your-org-hierachy.png "Organisationsplacering i hierarkin för en Global Admin Console")
 
-Om du har en komplex organisationsstruktur som har många Admin Consoles eller om du vill dela upp ditt huvudsakliga Admin Console i flera konsoler kan du [använda Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Exempel: multinationella företag, utbildningsföretag, storskolor och myndigheter. Global Admin Console kapslar in befintliga Admin Consoles i en hierarkisk struktur, som ett organisationsschema, för att ge genomskinlighet i ett distribuerat företag.
+Om du har en komplex organisationsstruktur som har många Admin Consoles eller om du vill dela upp ditt huvudsakliga Admin Console i flera konsoler kan du [använda Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html). Exempel: multinationella företag, utbildningsföretag, storskolor och myndigheter. Global Admin Console kapslar in befintliga Admin Consoles i en hierarkisk struktur, som ett organisationsschema, för att ge genomskinlighet i ett distribuerat företag.
 
 ## **[!UICONTROL Products]** {#products}
 
@@ -69,8 +69,8 @@ Sidan **[!UICONTROL Products]** i [Admin Console](https://adminconsole.adobe.com
 
 Mer information finns i:
 
-- [Hantera produkter](https://helpx.adobe.com/enterprise/using/manage-products.html)
-- [Hantera produktprofiler](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html)
+- [Hantera produkter](https://helpx.adobe.com/se/enterprise/using/manage-products.html)
+- [Hantera produktprofiler](https://helpx.adobe.com/se/enterprise/using/manage-product-profiles.html)
 
 Team {#teams}
 
@@ -80,8 +80,8 @@ Ange användarens namn eller e-postadress. Du kan söka efter befintliga använd
 
 Mer information finns i:
 
-- [Tilldela eller ta bort tilldelning av licenser](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [Lägg till eller ta bort produkter eller licenser](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
+- [Tilldela eller ta bort tilldelning av licenser](https://helpx.adobe.com/se/enterprise/using/assign-licenses-to-teams-users.html)
+- [Lägg till eller ta bort produkter eller licenser](https://helpx.adobe.com/se/enterprise/using/add-products-and-licenses.html)
 
 ## **[!UICONTROL Users]** {#users}
 
@@ -106,7 +106,7 @@ Beroende på din plan - Enterprise, VIP, VIP Marketplace eller Teams - kan du:
 - Hantera betalningsinformation, fakturor och förnyelser.
 - Visa din kontaktinformation för Adobe Account Manager.
 
-Mer information: [Hantera ditt konto](https://helpx.adobe.com/enterprise/using/accounts.html).
+Mer information: [Hantera ditt konto](https://helpx.adobe.com/se/enterprise/using/accounts.html).
 
 ## **[!UICONTROL Insights]** {#insights}
 
@@ -118,23 +118,23 @@ Vem kan visa den här fliken: Systemadministratörer.
 
 Som systemadministratör har du fullständig insyn i ändringarna som gjorts i [Admin Console](https://adminconsole.adobe.com/). Du kan söka i granskningsloggen baserat på typ av åtgärder, när de inträffade och vem som gjorde dem.
 
-Visa och ladda sedan ned dessa rapporter för ytterligare analys. Läs mer: [Använd granskningsloggen för att spåra användartilldelningar och händelser](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Visa och ladda sedan ned dessa rapporter för ytterligare analys. Läs mer: [Använd granskningsloggen för att spåra användartilldelningar och händelser](https://helpx.adobe.com/se/enterprise/using/audit-logs.html).
 
 ### **[!UICONTROL Assignment Reports]** {#assignment-reports}
 
 Med hjälp av licenstilldelningsrapporterna kan du följa upp organisationens licenstilldelningsdata och planera användarens licensdistributioner. Licenstilldelningsdata stöder endast personliga användarlicenser för Creative Cloud- och Document Cloud-produkter som köpts enligt Enterprise Term License Agreement.
 
-Läs mer: [Licenstilldelningsrapporter för Enterprise-produkter](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+Läs mer: [Licenstilldelningsrapporter för Enterprise-produkter](https://helpx.adobe.com/se/enterprise/using/assignment-reports.html).
 
 ## **[!UICONTROL Storage]** {#storage}
 
-Vem kan visa den här fliken: Systemadministratörer och lagringsadministratörer (endast för kunder som migrerats till [poolad lagringsmodell](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
+Vem kan visa den här fliken: Systemadministratörer och lagringsadministratörer (endast för kunder som migrerats till [poolad lagringsmodell](https://helpx.adobe.com/se/enterprise/using/manage-adobe-storage.html)).
 
 **[!UICONTROL Storage page]** i [Admin Console](https://adminconsole.adobe.com) ger dig synlighet för lagringsutrymmet i dina Creative Cloud-program. Lagringskvoterna är flexibla för slutanvändare upp till den mängd lagringsutrymme som organisationen köpt.
 
 Du kan också visa hur mycket av kvoten som används av enskilda användare och den totala kvoten som förbrukas av alla användare.
 
-Läs mer: [Hantera Adobe-lagring](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
+Läs mer: [Hantera Adobe-lagring](https://helpx.adobe.com/se/enterprise/using/manage-adobe-storage.html).
 
 ## **[!UICONTROL Packages]** {#packages}
 
@@ -142,20 +142,20 @@ Vem kan visa den här fliken: Systemadministratörer och distributionsadministra
 
 Sidan **[!UICONTROL Packages]** i [Admin Console](https://adminconsole.adobe.com) innehåller följande funktioner. Använd dem när du tänker distribuera datorprogram till slutanvändare i organisationen.
 
-- Hämta förkonfigurerade paket med [Adobe-mallar](https://helpx.adobe.com/enterprise/using/package-templates.html).
-- Skapa anpassade paket med [Namngiven användarlicensiering](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) eller [delad enhet](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html) (för utbildningsinstitutioner) med den konfiguration och de program du vill att slutanvändarna ska ha.
+- Hämta förkonfigurerade paket med [Adobe-mallar](https://helpx.adobe.com/se/enterprise/using/package-templates.html).
+- Skapa anpassade paket med [Namngiven användarlicensiering](https://helpx.adobe.com/se/enterprise/using/create-nul-packages.html) eller [delad enhet](https://helpx.adobe.com/se/enterprise/using/create-sdl-packages.html) (för utbildningsinstitutioner) med den konfiguration och de program du vill att slutanvändarna ska ha.
 - Aktivera e-postmeddelanden så att du meddelas när nya produktversioner blir tillgängliga.
 - Visa tidigare paket som du eller andra administratörer i organisationen har skapat. Du kan även visa information om ett specifikt paket och spåra tillgängliga uppdateringar för programmen i paketet.
-- Hämta IT-verktyg som [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) och [Adobe Update Server Setup Tool](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
-- Hämta Adobe Extension Manager kommandoradsverktyg för att [installera tillägg och plugin-program](https://helpx.adobe.com/enterprise/using/manage-extensions.html) från ZXP-filbehållarformatet.
+- Hämta IT-verktyg som [Remote Update Manager](https://helpx.adobe.com/se/enterprise/using/using-remote-update-manager.html) och [Adobe Update Server Setup Tool](https://helpx.adobe.com/se/enterprise/using/update-server-setup-tool.html).
+- Hämta Adobe Extension Manager kommandoradsverktyg för att [installera tillägg och plugin-program](https://helpx.adobe.com/se/enterprise/using/manage-extensions.html) från ZXP-filbehållarformatet.
 
-Mer information finns i [Paketera program via Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
+Mer information finns i [Paketera program via Admin Console](https://helpx.adobe.com/se/enterprise/using/package-apps-admin-console.html).
 
 ## **[!UICONTROL Settings]** {#settings}
 
 Vem kan visa den här fliken: Systemadministratörer och lagringsadministratörer.
 
-Lagringsadministratörer kan bara komma åt [resursinställningarna](https://helpx.adobe.com/enterprise/using/asset-settings.html) och [innehållsloggarna](https://helpx.adobe.com/enterprise/using/content-logs.html). Systemadministratörer kan visa eller ändra inställningarna beroende på vilken plan de har.
+Lagringsadministratörer kan bara komma åt [resursinställningarna](https://helpx.adobe.com/se/enterprise/using/asset-settings.html) och [innehållsloggarna](https://helpx.adobe.com/se/enterprise/using/content-logs.html). Systemadministratörer kan visa eller ändra inställningarna beroende på vilken plan de har.
 
 [ !Note]
 &#x200B;>>
@@ -163,45 +163,45 @@ Adobe har ingen inbyggd funktion för administratörer på den högsta nivån f�
 
 ## Kontakter med sekretess och säkerhet {#privacy-and-security-contacts}
 
-Vid säkerhetstillbud som inbegriper våra programvarulösningar skickas meddelanden till de ansvariga för regelefterlevnad. Som systemadministratör måste du ange vilka säkerhets-, dataskydds- och efterlevnadsansvariga som är för att få snabb information. Mer information finns i [Kontakter för sekretess och säkerhet](https://helpx.adobe.com/enterprise/using/security-contacts.html).
+Vid säkerhetstillbud som inbegriper våra programvarulösningar skickas meddelanden till de ansvariga för regelefterlevnad. Som systemadministratör måste du ange vilka säkerhets-, dataskydds- och efterlevnadsansvariga som är för att få snabb information. Mer information finns i [Kontakter för sekretess och säkerhet](https://helpx.adobe.com/se/enterprise/using/security-contacts.html).
 
 ## **[!UICONTROL Console settings]** {#console-settings}
 
-Med [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) kan du lägga till anpassade anteckningar som slutanvändarna kan använda för att kommunicera med dem om hur de kan få hjälp om de stöter på problem eller behöver support.
+Med [[!UICONTROL Console settings]](https://helpx.adobe.com/se/enterprise/using/console-settings.html) kan du lägga till anpassade anteckningar som slutanvändarna kan använda för att kommunicera med dem om hur de kan få hjälp om de stöter på problem eller behöver support.
 
 Välj ett standardspråk för e-post för din organisation om du vill få e-post om kontostatus, till exempel om prenumerationen ändras eller kreditkortets förfallodatum. Om du har ett teammedlemskap som köpts direkt från Adobe kan du ändra ditt teamnamn från **[!UICONTROL Console settings]**.
 
 ## **[!UICONTROL &#x200B; Content logs]** {#content-logs}
 
-Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html).
+Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [[!UICONTROL content logs]](https://helpx.adobe.com/se/enterprise/using/content-logs.html).
 
 ## Tillämpning av domän {#domain-enforcement}
 
 Systemadministratörer kan begränsa organisationsägda domäner för att hindra användare från att skapa och använda personliga Adobe ID-konton. Detta begränsar användningen av personuppgifter, förbättrar säkerheten och tillåter resursdelning endast mellan användare i organisationen.
 
-Läs mer: [Domäntvång för begränsad autentisering](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
+Läs mer: [Domäntvång för begränsad autentisering](https://helpx.adobe.com/se/enterprise/using/restricting-domains.html).
 
 ## Identitet {#identity}
 
-[Identitetstyper](https://helpx.adobe.com/enterprise/using/identity.html) tillåter organisationer att ha olika nivåer av kontroll över användarnas konton och data. Det påverkar hur organisationen lagrar och delar resurser.
+[Identitetstyper](https://helpx.adobe.com/se/enterprise/using/identity.html) tillåter organisationer att ha olika nivåer av kontroll över användarnas konton och data. Det påverkar hur organisationen lagrar och delar resurser.
 
 ## **[!UICONTROL Asset settings]** {#asset-settings}
 
-[Resursinställningar](https://helpx.adobe.com/enterprise/using/asset-settings.html) ger en organisation kontroll över hur dess anställda delar sina resurser utanför organisationen. Resursinställningar används tillsammans med andra system för tillämpning av organisationsprofiler (tillhandahålls inte av Adobe) för att säkerställa att resurser endast delas med lämpliga externa personer och organisationer.
+[Resursinställningar](https://helpx.adobe.com/se/enterprise/using/asset-settings.html) ger en organisation kontroll över hur dess anställda delar sina resurser utanför organisationen. Resursinställningar används tillsammans med andra system för tillämpning av organisationsprofiler (tillhandahålls inte av Adobe) för att säkerställa att resurser endast delas med lämpliga externa personer och organisationer.
 
 ## Autentiseringsinställningar {#authentication-settings}
 
-[Autentiseringsinställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html) har stöd för flera lösenordsskyddsnivåer och principer för att säkerställa säkerhet och säkerhet. Du kan ange en lösenordsskyddsnivå som ska gälla för alla användare i organisationen.
+[Autentiseringsinställningar](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html) har stöd för flera lösenordsskyddsnivåer och principer för att säkerställa säkerhet och säkerhet. Du kan ange en lösenordsskyddsnivå som ska gälla för alla användare i organisationen.
 
 ## Krypteringsinställningar {#encryption-settings}
 
-[Krypteringsinställningar](https://helpx.adobe.com/enterprise/using/encryption.html) genererar dedikerade krypteringsnycklar för extra lager av kontroll och säkerhet.
+[Krypteringsinställningar](https://helpx.adobe.com/se/enterprise/using/encryption.html) genererar dedikerade krypteringsnycklar för extra lager av kontroll och säkerhet.
 
 ## Projektpolicyer {#project-policies}
 
 Som systemadministratör kan du styra vilka som har behörighet att skapa och hantera projekt i din organisation. Som standard kan alla användare som läggs till i Admin Console skapa och hantera projekt.
 
-Läs mer: [Projektprinciper](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
+Läs mer: [Projektprinciper](https://helpx.adobe.com/se/enterprise/using/projects-in-business-storage.html#project-policies).
 
 ## Support
 
@@ -213,5 +213,5 @@ Om du vill kontakta Adobe kundtjänst går du till supportsidan i [Admin Console
 - Schemalägg expertsessioner
 - Bläddra bland populära hjälpavsnitt och forum
 
-Mer information om supportalternativ finns i [Support- och expertsessioner](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
+Mer information om supportalternativ finns i [Support- och expertsessioner](https://helpx.adobe.com/se/enterprise/using/support-and-expert-services.html).
 
