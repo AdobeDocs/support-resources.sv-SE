@@ -18,7 +18,7 @@ Gäller Enterprise &amp; Teams.
 
 Adobe Admin Console är en central plats för hantering av Adobe-berättiganden i hela organisationen. Du kan använda den för att hantera licenser, användare och betalningar. Gå hit för att [logga in på Admin Console](https://adminconsole.adobe.com). Se videon nedan för mer information om navigering i Adobe Admin Console.
 
-[!Vvideo](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
+[ !Vvideo](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
 
 På varje flik i Admin Console kan du utföra olika uppgifter. Markera rubrikerna nedan om du vill veta mer.
 
@@ -157,8 +157,8 @@ Vem kan visa den här fliken: Systemadministratörer och lagringsadministratöre
 
 Lagringsadministratörer kan bara komma åt [resursinställningarna](https://helpx.adobe.com/enterprise/using/asset-settings.html) och [innehållsloggarna](https://helpx.adobe.com/enterprise/using/content-logs.html). Systemadministratörer kan visa eller ändra inställningarna beroende på vilken plan de har.
 
-[!Note]
->>
+[ !Note]
+&#x200B;>>
 Adobe har ingen inbyggd funktion för administratörer på den högsta nivån för att jämföra aktuella Admin Console-inställningar med Adobe rekommenderade säkra standardinställningar. Administratörer kan hänvisa till Adobe rekommenderade riktlinjer för konfiguration och validera efterlevnaden med hjälp av organisationens identitetsleverantör, verktyg för slutpunktshantering och interna revisionsprocesser.
 
 ## Kontakter med sekretess och säkerhet {#privacy-and-security-contacts}
@@ -171,7 +171,7 @@ Med [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/con
 
 Välj ett standardspråk för e-post för din organisation om du vill få e-post om kontostatus, till exempel om prenumerationen ändras eller kreditkortets förfallodatum. Om du har ett teammedlemskap som köpts direkt från Adobe kan du ändra ditt teamnamn från **[!UICONTROL Console settings]**.
 
-## **[!UICONTROL  Content logs]** {#content-logs}
+## **[!UICONTROL &#x200B; Content logs]** {#content-logs}
 
 Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
