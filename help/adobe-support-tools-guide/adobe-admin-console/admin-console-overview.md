@@ -169,7 +169,7 @@ Med [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/con
 
 Välj ett standardspråk för e-post för din organisation om du vill få e-post om kontostatus, till exempel om prenumerationen ändras eller kreditkortets förfallodatum. Om du har ett teammedlemskap som köpts direkt från Adobe kan du ändra ditt teamnamn från **[!UICONTROL Console settings]**.
 
-## [!UICONTROL  Content logs] {#content-logs}
+## [!UICONTROL &#x200B; Content logs] {#content-logs}
 
 Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
