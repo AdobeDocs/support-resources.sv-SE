@@ -4,23 +4,19 @@ description: Lär dig hur systemadministratörer kan ange en tidsgräns för nä
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: e78ef432a4adcf3626fd46ce8a1854f9ec8317b6
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
+source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 
-
 # Använd förfallodatum för lösenord i Admin Console
 
-> **Gäller för:** Enterprise &amp; Teams
+**Gäller för:** Enterprise &amp; Teams
 
-Organisationssystemadministratörer kan följa processen för att ange en förfallotidsgräns för lösenord för sina användare.
-
-## Miljö
-
-[Adobe Admin Console](https://adminconsole.adobe.com/)
+Organisationssystemadministratörer kan följa processen för att ange en förfallotidsgräns för lösenord för sina användare. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 ## Steg
 
@@ -30,4 +26,4 @@ Organisationssystemadministratörer kan följa processen för att ange en förfa
 
 1. Granska **[!UICONTROL Authentication levels]** och välj den lämpligaste autentiseringsnivån för dina användare: **[!UICONTROL Easiest for Users]**, **[!UICONTROL More Secure]**, **[!UICONTROL Most Secure]**.
 
-Besök [Hjälpavsnittet för autentiseringsinställningar](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html) om du vill veta mer om tillgängliga autentiserings- och säkerhetsprinciper.
+Besök [Hjälpavsnittet för autentiseringsinställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html) om du vill veta mer om tillgängliga autentiserings- och säkerhetsprinciper.

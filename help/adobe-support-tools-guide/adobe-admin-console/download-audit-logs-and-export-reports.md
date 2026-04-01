@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -29,25 +29,25 @@ Som global administratör har du fullständig insyn i de ändringar du har gjort
 
 >[!NOTE]
 >
-> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) som gjorts i Admin Console.
+> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/enterprise/using/audit-logs.html) som gjorts i Admin Console.
 
 Så här visar eller hämtar du granskningsloggar för din organisation:
 
 1. Som global administratör loggar du in på [Global Admin Console](https://global-admin-console.adobe.com/insights).
 1. Välj **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**.
+
 Granskningsloggarna visar följande information om filtrerade händelser:
 
-   | Fält | Beskrivning |
-   |------ |-------------|
-   | Datum | Datum och tid för händelsen, som visas i den lokala tidszonen. |
-   | Händelsenamn | Beskrivning av åtgärden som utfördes. |
-   | Händelseinformation | Ytterligare händelseinformation, om sådan finns. |
-   | Objektnamn | Namnet på den produkt, produktprofil eller användargrupp som är inblandad i händelsen, beroende på vad som är tillämpligt. |
-   | Berörd användare | E-postadress till den berörda användaren, om tillämpligt. |
-   | Administratör | E-postadress till den administratör som utförde åtgärden. *System* visas om åtgärden utfördes av ett Adobe-serverdelssystem. |
-   | IP-adress | IP-adress till datorn där åtgärden utfördes. Normalt återspeglas den fysiska platsen, men det kan vara en proxyserver eller en VPN-adress. |
-   | Organisation | Namnet på den organisation som påverkas av händelsen. |
-
+| Fält | Beskrivning |
+|------ |-------------|
+| Datum | Datum och tid för händelsen, som visas i den lokala tidszonen. |
+| Händelsenamn | Beskrivning av åtgärden som utfördes. |
+| Händelseinformation | Ytterligare händelseinformation, om sådan finns. |
+| Objektnamn | Namn på den produkt, produktprofil eller användargrupp som berörs av händelsen, beroende på vad som är tillämpligt. |
+| Berörd användare | E-postadress till den berörda användaren, om tillämpligt. |
+| Administratör | E-postadress till den administratör som utförde åtgärden. *System* visas om åtgärden utfördes av ett Adobe-serverdelssystem. |
+| IP-adress | IP-adress till datorn där åtgärden utfördes. Detta återspeglar vanligtvis den fysiska platsen, men kan vara en proxyserver eller VPN-adress. |
+| Organisation | Namnet på den organisation som påverkas av händelsen. |
 
 1. Du kan filtrera granskningsloggar med följande alternativ:
 
@@ -55,7 +55,7 @@ Granskningsloggarna visar följande information om filtrerade händelser:
    - Markera en eller flera organisationer.
    - Definiera ett datumintervall.
    - Filtrera efter händelsenamn.
-   - Du kan kombinera filter för att begränsa resultatet, till exempel visa händelser från de senaste sju dagarna för en viss organisation.
+   - Kombinera filter för att begränsa resultaten, till exempel visa händelser från de senaste sju dagarna för en viss organisation.
 
    ![granskningsloggar](assets/audit-logs.png)
 
@@ -106,7 +106,7 @@ Så här hämtar du en exportrapport:
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/insights) och gå till **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/se/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Rapporterna som genererats de senaste 90 dagarna visas. När 90 dagar är klara kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Fält | Beskrivning |
