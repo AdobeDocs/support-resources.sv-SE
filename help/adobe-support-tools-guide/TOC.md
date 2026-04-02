@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 - [Adobe kundupplevelse](adobe-customer-support-experience.md)
 - [Konfiguration av Adobe kundsupportberättigande](adobe-customer-support-entitlement-configuration.md)
 - [Uppdatering av telefonnummer för support](phone-numbers.md)
-- [Administratörsroller](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigera i Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Admin Console - översikt](adobe-admin-console/admin-console-overview.md)
+   - [Administratörsroller](adobe-admin-console/admin-roles.md)
    - [Hantera användargrupper i Global Admin Console](adobe-admin-console/manage-user-groups.md)
    - [Tillgänglighet i Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
    - [Tilldela produkter till underordnade organisationer som använder Global Admin Console](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 0%
    - [Välj en organisation i Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Hantera administratörer](adobe-admin-console/manage-administrators.md)
    - [Hantera produktprofiler i Global Admin Console](adobe-admin-console/manage-product-profiles.md)
+   - [Uppdatera organisationsprofiler i Global Admin Console](adobe-admin-console/update-policies.md)
+   - [Hantera policymallar i Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Exportera eller importera organisationsstruktur och produktallokeringar](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Använd förfallodatum för lösenord i Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Hämta granskningsloggar och exportrapporter](adobe-admin-console/download-audit-logs-and-export-reports.md)
