@@ -24,12 +24,12 @@ Logga in på [Global Admin Console](https://global-admin-console.adobe.com/) fö
 
 Som global administratör har du fullständig insyn i de ändringar du har gjort i Global Admin Console. Du kan söka i granskningsloggar i alla organisationer efter åtgärder som har vidtagits de senaste 90 dagarna, inklusive när de inträffade och vem som utförde dem.
 - Granskningsloggar säkerställer fortsatt regelefterlevnad genom att skydda mot felaktig systemåtkomst och genom att granska misstänkt beteende i organisationen.
-- Loggarna i Global Admin Console innehåller endast händelser som en global administratör har åtkomst till. De innehåller inte användartilldelningar eller användarhändelser. [Läs mer](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) om de olika funktioner som varje konsol erbjuder.
+- Loggarna i Global Admin Console innehåller endast händelser som en global administratör har åtkomst till. De innehåller inte användartilldelningar eller användarhändelser. [Läs mer](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) om de olika funktioner som varje konsol erbjuder.
 - Loggarna täcker händelser för alla organisationer i hierarkin, vilket gör att du kan söka i granskningsloggar för alla organisationer samtidigt.
 
 >[!NOTE]
 >
-> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/enterprise/using/audit-logs.html) som gjorts i Admin Console.
+> Som systemadministratör i en [Adobe Admin Console](https://adminconsole.adobe.com) -organisation kan du använda [granskningsloggen](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) för att granska användartilldelningar och användarhändelser. Åtgärder som utförs av systemadministratörer i underordnade organisationer i den valda organisationen ingår också i granskningsloggarna. Läs mer om hur systemadministratörer kan [spåra ändringar](https://helpx.adobe.com/se/enterprise/using/audit-logs.html) som gjorts i Admin Console.
 
 Så här visar eller hämtar du granskningsloggar för din organisation:
 
@@ -106,7 +106,7 @@ Så här hämtar du en exportrapport:
 
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/insights) och gå till **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   Rapporter som genererats under de senaste 90 dagarna visas. Efter 90 dagar kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
+   Rapporter som genererats under de senaste 90 dagarna visas. Efter 90 dagar kan du generera rapporten igen. Lär dig hur du kan generera rapporter för [organisationsstrukturen](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Fält | Beskrivning |

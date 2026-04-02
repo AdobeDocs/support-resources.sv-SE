@@ -18,11 +18,11 @@ ht-degree: 2%
 
 Läs om hur globala administratörer kan effektivisera organisationen och produkthanteringen med export- och importfunktionerna i Global Admin Console.
 
-Gå till fliken **[!UICONTROL Organizations]** i [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) om du vill exportera eller importera organisationsstrukturen. Gå till fliken **[!UICONTROL Product Allocation]** om du vill visa allokeringsdata. Markera ikonen **[!UICONTROL More Options]** ( ⋮) och välj sedan **[!UICONTROL Export]** eller **[!UICONTROL Import]**. Gå hit för att [logga in på Global Admin Console](https://global-admin-console.adobe.com).
+Gå till fliken **[!UICONTROL Organizations]** i [Global Admin Console](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) om du vill exportera eller importera organisationsstrukturen. Gå till fliken **[!UICONTROL Product Allocation]** om du vill visa allokeringsdata. Markera ikonen **[!UICONTROL More Options]** ( ⋮) och välj sedan **[!UICONTROL Export]** eller **[!UICONTROL Import]**. Gå hit för att [logga in på Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exportera organisationsstrukturen
 
-Som [global administratör](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du exportera organisationshierarkin. Du kan hämta en JSON-, CSV- eller XLSX-representation av hela organisationshierarkin eller en delmängd av den. Du kan sedan använda dessa data för analys eller ändring.
+Som [global administratör](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du exportera organisationshierarkin. Du kan hämta en JSON-, CSV- eller XLSX-representation av hela organisationshierarkin eller en delmängd av den. Du kan sedan använda dessa data för analys eller ändring.
 
 Det exportformat som valts påverkar strukturen för exporterade data:
 
@@ -51,7 +51,7 @@ När du har hämtat filen kan du ändra data och sedan importera tillbaka dem. D
 
 ## Importera organisationsstrukturen
 
-Som [global administratör](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du importera potentiellt ändrade data. När nya data överförs jämförs de med aktuella data och eventuella ändringar tillämpas på organisationshierarkin. Alla importåtgärder utförs på den uppdaterade kopian av organisationshierarkin. Om du har väntande ändringar läggs importerade ändringar till ovanpå de befintliga väntande ändringarna i hierarkin.
+Som [global administratör](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du importera potentiellt ändrade data. När nya data överförs jämförs de med aktuella data och eventuella ändringar tillämpas på organisationshierarkin. Alla importåtgärder utförs på den uppdaterade kopian av organisationshierarkin. Om du har väntande ändringar läggs importerade ändringar till ovanpå de befintliga väntande ändringarna i hierarkin.
 
 ### Steg som ska importeras
 
@@ -59,7 +59,7 @@ Som [global administratör](https://experienceleague.adobe.com/en/docs/support-r
 2. Markera ikonen **[!UICONTROL More Options]** **⋮** och välj **[!UICONTROL Import]**. Beroende på importfilens storlek och komplexitet kan bearbetningen ta från några sekunder till flera minuter.
 3. Välj **[!UICONTROL Select a file]** och välj en JSON-, CSV- eller XLSX-fil som ska överföras. För CSV kan endast en organisationsinformation importeras åt gången och det finns inte stöd för import av produkter. De importerade ändringarna ser ut som om du har redigerat data manuellt.
 4. Välj **[!UICONTROL Close]**.
-5. Välj **[!UICONTROL Review Pending Changes]**.  Välj sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem. Innan du utför ändringarna visas de väntande åtgärderna på samma sätt som när redigeringar görs manuellt i Global Admin Console.
+5. Välj **[!UICONTROL Review Pending Changes]**.  Välj sedan **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem. Innan du utför ändringarna visas de väntande åtgärderna på samma sätt som när redigeringar görs manuellt i Global Admin Console.
 
 ## Exportera och importera scheman
 
@@ -628,7 +628,7 @@ Resursobjekt kan visas i produkter och i produktprofiler.
 
 ## Importera och exportera produktallokeringsdata
 
-Som [global administratör](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du exportera produktallokeringsdata som en JSON- eller CSV-fil. Du kan sedan ändra dessa data och överföra dem för att importera ändringarna. När data som kan ändras överförs jämförs de med aktuella data och eventuella ändringar tillämpas på produktallokeringsdata. Du kan sedan granska och skicka in väntande ändringar så att de träder i kraft.
+Som [global administratör](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du exportera produktallokeringsdata som en JSON- eller CSV-fil. Du kan sedan ändra dessa data och överföra dem för att importera ändringarna. När data som kan ändras överförs jämförs de med aktuella data och eventuella ändringar tillämpas på produktallokeringsdata. Du kan sedan granska och skicka in väntande ändringar så att de träder i kraft.
 
 ## Exportera produktallokeringsmodellen
 
@@ -644,7 +644,7 @@ Du kan exportera data, ändra dem och sedan importera den ändrade filen. Så h�
 1. Logga in på [Global Admin Console](https://global-admin-console.adobe.com/) och gå till fliken **[!UICONTROL Product Allocation]**.
 2. Markera ikonen **[!UICONTROL More Options]** ⋮ och välj **[!UICONTROL Import]**.
 3. Välj en JSON- eller CSV-fil som ska överföras.
-4. Välj **[!UICONTROL Review Pending Changes]**.  När du har granskat ändringarna väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+4. Välj **[!UICONTROL Review Pending Changes]**.  När du har granskat ändringarna väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 ## Exportera och importera format för produkttilldelning
 
