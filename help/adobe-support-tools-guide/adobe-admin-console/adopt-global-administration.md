@@ -61,7 +61,7 @@ Adobe rekommenderar global administration om din organisation uppfyller ett elle
 
 Om du vill begära åtkomst till [Global Admin Console](https://adminconsole.adobe.com/support/) följer du stegen nedan efter att ha konsulterat din Adobe-representant.
 
-1. Gå till [ > ](https://adminconsole.adobe.com/support/) i **[!UICONTROL Support]** Admin Console **[!UICONTROL Support Summary]**.
+1. Gå till [&#x200B; > &#x200B;](https://adminconsole.adobe.com/support/) i **[!UICONTROL Support]** Admin Console **[!UICONTROL Support Summary]**.
 
    >[!NOTE]
    >

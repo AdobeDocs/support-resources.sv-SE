@@ -20,21 +20,21 @@ Adobe Admin Console är en central plats för hantering av Adobe-berättiganden 
 
 På varje flik i Admin Console kan du utföra olika uppgifter. Markera namnet på den länkade fliken (det första ordet för varje objekt) för att gå till det avsnittet.
 
-- [!UICONTROL Overview](#overview): Visa en sammanfattning av köpta licenser och snabbåtgärder för att konfigurera din organisation.
+- [[!UICONTROL Overview]](#overview): Visa en sammanfattning av köpta licenser och snabbåtgärder för att konfigurera din organisation.
 
-- [!UICONTROL Products](#products): Tilldela licenser till användare och grupper. Som Enterprise-kund kan du hantera produktprofiler.
+- [[!UICONTROL Products]](#products): Tilldela licenser till användare och grupper. Som Enterprise-kund kan du hantera produktprofiler.
 
-- [!UICONTROL Users](#users): Skapa, uppdatera och ta bort användarkonton, som berättigar slutanvändarna till Adobe produkter och tjänster.
+- [[!UICONTROL Users]](#users): Skapa, uppdatera och ta bort användarkonton, som berättigar slutanvändarna till Adobe produkter och tjänster.
 
-- [!UICONTROL Packages](#packages): Hämta förkonfigurerade paket eller skapa dem för datorprogram som du tänker distribuera.
+- [[!UICONTROL Packages]](#packages): Hämta förkonfigurerade paket eller skapa dem för datorprogram som du tänker distribuera.
 
-- [!UICONTROL Account](#account): Hantera din organisations kontrakt och avtal med Adobe.
+- [[!UICONTROL Account]](#account): Hantera din organisations kontrakt och avtal med Adobe.
 
-- [!UICONTROL Storage](#storage): Hantera enskilda användarmappar och delade mappar och visa lagringskvoten som används av användare.
+- [[!UICONTROL Storage]](#storage): Hantera enskilda användarmappar och delade mappar och visa lagringskvoten som används av användare.
 
-- [!UICONTROL Insights](#insights): Visa, skapa och hämta licenstilldelningsrapporter och spåra ändringar som gjorts i Admin Console.
+- [[!UICONTROL Insights]](#insights): Visa, skapa och hämta licenstilldelningsrapporter och spåra ändringar som gjorts i Admin Console.
 
-- [!UICONTROL Settings](#settings): Gör anspråk på domäner, begränsa åtkomsten till delningsfunktioner, lägg till anteckningar för slutanvändare, ange lösenordsskyddsnivåer.
+- [[!UICONTROL Settings]](#settings): Gör anspråk på domäner, begränsa åtkomsten till delningsfunktioner, lägg till anteckningar för slutanvändare, ange lösenordsskyddsnivåer.
 
 Om du inte kan logga in på Admin Console läser du [Lös problem med inloggning med Adobe-konton](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -164,13 +164,13 @@ Vid säkerhetstillbud som inbegriper våra programvarulösningar skickas meddela
 
 ## [!UICONTROL Console settings]
 
-Med [!UICONTROL Console settings](https://helpx.adobe.com/enterprise/using/console-settings.html) kan du lägga till anpassade anteckningar för slutanvändarna så att de kan kommunicera med dem om de behöver hjälp om de stöter på problem eller behöver support.
+Med [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) kan du lägga till anpassade anteckningar för slutanvändarna så att de kan kommunicera med dem om de behöver hjälp om de stöter på problem eller behöver support.
 
 Välj ett standardspråk för e-post för din organisation om du vill få e-post om kontostatus, till exempel om prenumerationen ändras eller kreditkortets förfallodatum. Om du har ett teammedlemskap som köpts direkt från Adobe kan du ändra ditt teamnamn från **[!UICONTROL Console settings]**.
 
 ## [!UICONTROL Content logs]
 
-Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [!UICONTROL content logs](https://helpx.adobe.com/enterprise/using/content-logs.html).
+Som administratör kan du hämta detaljerade rapporter om hur slutanvändarna arbetar med företagsresurser, till exempel mappar, filer och bibliotek. Dessa rapporter kallas [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Domänkontroll
 

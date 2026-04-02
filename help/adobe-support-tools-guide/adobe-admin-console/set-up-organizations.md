@@ -85,7 +85,7 @@ Som [global administratör](https://experienceleague.adobe.com/en/docs/support-r
 
 ## Ändra överordnad för en organisation
 
-Som [!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du reparera en organisation i organisationshierarkin med knappen **[!UICONTROL Change hierarchy]**.
+Som [[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) kan du reparera en organisation i organisationshierarkin med knappen **[!UICONTROL Change hierarchy]**.
 
 Om du ändrar överordnad för en organisation påverkas följande:
 

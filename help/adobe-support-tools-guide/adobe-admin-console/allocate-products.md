@@ -18,7 +18,7 @@ Gäller företag.
 
 Läs om hur globala administratörer kan distribuera resurser till underordnade organisationer, vilket möjliggör effektiv resurshantering och användartilldelning inom varje organisation.
 
-Gå till fliken [ i ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Global Admin Console **[!UICONTROL Product Allocation]** och välj sedan en produkt som ska tilldelas underordnade organisationer.
+Gå till fliken [&#x200B; i &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Global Admin Console **[!UICONTROL Product Allocation]** och välj sedan en produkt som ska tilldelas underordnade organisationer.
 
 Logga in på [Global Admin Console](https://global-admin-console.adobe.com).
 
@@ -51,7 +51,7 @@ Så här tilldelar du produkter till en organisation:
 1. Välj en produkt i listrutan för att se hur den tilldelas olika organisationer.\
    Om en organisation inte har produkten visas ikonen **[!UICONTROL Add +]**.
 
-   >[!Note]
+   >[ !Note]
    >
    >Om den underordnade organisationen redan har ett inköpsavtal kan produktallokeringen från den överordnade till den underordnade organisationen vara begränsad. [Läs mer](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Du kan inte tilldela produkter till en underordnad organisation från ett ETLA-k
 
 ![Produktallokering](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!Iviktig]
+>[ !Iviktig]
 >
 >När ett ETLA-kontrakt som ingår i hierarkin är inaktivt tas produkterna bort från sidorna **[!UICONTROL Overview]** och **[!UICONTROL Product Allocation]**.
 
