@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '793'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Gäller företag.
 
 Läs om fördelarna med Global Admin Console och se hur du får tillgång till dem. [Läs mer](#request-access-to-the-global-admin-console).
 
-Skapa ett supportärende i Adobe Admin Console för att begära åtkomst till en Global Admin Console. Logga in på [Global Admin Console](https://adminconsole.adobe.com/support).
+Skapa ett supportärende i Adobe Admin Console för att begära åtkomst till en Global Admin Console. Logga in på [Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Introduktion
 
-[Global Admin Console](https://adminconsole.adobe.com/support) är till för kunder med komplexa organisationsstrukturer som antingen har många administrationskonsoler eller vill dela upp sina huvudkonsoler i flera konsoler. Exempel: multinationella företag, utbildningsföretag, storskolor och myndigheter. Den kapslar in befintliga Admin Consoles i en hierarkisk struktur, som ett organisationsschema, för att ge genomskinlighet i ett distribuerat företag.
+[Global Admin Console](https://global-admin-console.adobe.com) är till för kunder med komplexa organisationsstrukturer som antingen har många administrationskonsoler eller vill dela upp sina huvudkonsoler i flera konsoler. Exempel: multinationella företag, utbildningsföretag, storskolor och myndigheter. Den kapslar in befintliga Admin Consoles i en hierarkisk struktur, som ett organisationsschema, för att ge genomskinlighet i ett distribuerat företag.
 
 Global Admin Console ersätter inte eller ändrar inte funktionaliteten för befintliga Admin Consoles. Det fungerar som en hierarki med en rotorganisation högst upp och alla konsoler som är kapslade under rotorganisationen. Det finns ett urvalskriterium som fokuserar på att köpa och skapa en hierarkistruktur där Admin Console fungerar som rotkonsol.
 
@@ -44,7 +44,7 @@ Följande är några viktiga fördelar med [!DNL Global Admin Console]:
 - Skapa, redigera och ta bort produktprofiler och användargrupper.
 - Exportera organisationsinformation för rapportering eller användning i andra processer.
 - Importera uppdateringar till organisationer och ändringar i organisationshierarkin.
-- Få meddelanden om ETLA avtalsstatus i underordnade organisationer, inklusive kommande förfallodatum, utgångna eller inaktiva kontrakt. Mer information finns i dokumentationen för [kontraktets förfallodatum](https://helpx.adobe.com/se/enterprise/using/contract-expiry.html).
+- Få meddelanden om ETLA avtalsstatus i underordnade organisationer, inklusive kommande förfallodatum, utgångna eller inaktiva kontrakt. Mer information finns i dokumentationen för [kontraktets förfallodatum](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Kriterier för deltagande
 
@@ -61,7 +61,7 @@ Adobe rekommenderar global administration om din organisation uppfyller ett elle
 
 Om du vill begära åtkomst till [Global Admin Console](https://adminconsole.adobe.com/support/) följer du stegen nedan efter att ha konsulterat din Adobe-representant.
 
-1. Gå till [&#x200B; > &#x200B;](https://adminconsole.adobe.com/support/) i **[!UICONTROL Support]** Admin Console **[!UICONTROL Support Summary]**.
+1. Gå till [ > ](https://adminconsole.adobe.com/support/) i **[!UICONTROL Support]** Admin Console **[!UICONTROL Support Summary]**.
 
    >[!NOTE]
    >

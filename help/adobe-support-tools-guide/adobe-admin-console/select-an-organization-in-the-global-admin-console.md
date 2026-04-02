@@ -4,13 +4,13 @@ description: Lär dig hur du väljer en organisation för redigering i Global Ad
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: 0bc0dbd8c7040e0be7e7bd45945edb0fb24cb7cc
+exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 0%
 
 ---
-
 
 # Välj en organisation i Global Admin Console
 
@@ -18,7 +18,7 @@ Lär dig hur du väljer en organisation för redigering i Global Admin Console.
 
 >[!NOTE]
 >
->När du har tillgång till [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html#request-access) kan du börja med att välja en organisation som ska visa och hantera organisationens namn, användargrupper, produktprofiler, administratörer och organisationsprofiler. [Klicka här](https://global-admin-console.adobe.com/) om du vill logga in på Global Admin Console.
+>När du har tillgång till [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console) kan du börja med att välja en organisation som ska visa och hantera organisationens namn, användargrupper, produktprofiler, administratörer och organisationsprofiler. [Klicka här](https://global-admin-console.adobe.com/) om du vill logga in på Global Admin Console.
 
 Global Admin Console fungerar som ett centralt förvaltningscentrum för Adobe resurser. Globala administratörer kan:
 
@@ -79,6 +79,6 @@ Alla administratörer som läggs till eller tas bort från en organisation får 
 
 - Organisationens sökvägsnamn är unikt, men det enkla namnet är bara unikt bland de andra på samma nivå. Det kan finnas organisationer med samma enkla namn någon annanstans i organisationshierarkin.
 
-- Du kan bara visa listan över domäner som är länkade till den valda organisationen med hjälp av konsolen Global Admin. Om du är systemadministratör för den valda organisationen väljer du **[!UICONTROL Open in Admin Console]** för att [hantera domäner](https://helpx.adobe.com/se/enterprise/using/manage-domains-directories.html). Information som visas på fliken Domäner finns i [Exportera och importera scheman](https://helpx.adobe.com/se/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- Du kan bara visa listan över domäner som är länkade till den valda organisationen med hjälp av konsolen Global Admin. Om du är systemadministratör för den valda organisationen väljer du **[!UICONTROL Open in Admin Console]** för att [hantera domäner](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Information som visas på fliken Domäner finns i [Exportera och importera scheman](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 stöds inte för global administrationsåtkomst. Använd en annan webbläsare eller en senare version av IE-webbläsaren.
