@@ -25,7 +25,7 @@ Läs om hur globala administratörer kan tillämpa principmallar på alla undero
 
 >[!NOTE]
 >
->I [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation som ska redigeras och navigerar till fliken **Principmallar** för att effektivisera konfigurationen och underlätta konsekvent policyhantering i olika organisationer.
+>I [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation som ska redigeras och navigerar till fliken **Principmallar** för att effektivisera konfigurationen och underlätta konsekvent policyhantering i olika organisationer.
 >
 > [Logga in på Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -43,7 +43,7 @@ Om användaren som använder mallen har behörighet att låsa upp profilen, häm
 
 >[!NOTE]
 >
->Till skillnad från andra ändringar i Global Admin Console börjar ändringar i principmallar gälla omedelbart utan att du behöver gå igenom **[!UICONTROL Review Pending Changes - Submit]**-processen. Om du vill implementera väntande ändringar i organisationer där principmallen används, måste du [skicka](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+>Till skillnad från andra ändringar i Global Admin Console börjar ändringar i principmallar gälla omedelbart utan att du behöver gå igenom **[!UICONTROL Review Pending Changes - Submit]**-processen. Om du vill implementera väntande ändringar i organisationer där principmallen används, måste du [skicka](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html).
 
 ## Skapa en principmall
 
@@ -60,7 +60,7 @@ Om användaren som använder mallen har behörighet att låsa upp profilen, häm
 
 Konfigurera två inställningar för varje princip som ingår i mallen:
 
-* **Tillåten/inte tillåten:** Ange det önskade värdet för skjutreglaget. Läs mer om [principinformation](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Tillåten/inte tillåten:** Ange det önskade värdet för skjutreglaget. Läs mer om [principinformation](https://helpx.adobe.com/se/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Lås värde:** Ändra principens låsstatus med något av följande alternativ:
    * **Lås** - Principen kommer att låsas när mallen har tillämpats.
    * **Lås upp** - Principen låses upp när mallen har tillämpats.
@@ -78,7 +78,7 @@ Konfigurera två inställningar för varje princip som ingår i mallen:
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Välj **[!UICONTROL Apply template]**.
-1. Om du vill implementera väntande ändringar i organisationer där principmallen används väljer du **[!UICONTROL Review Pending Changes]**. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+1. Om du vill implementera väntande ändringar i organisationer där principmallen används väljer du **[!UICONTROL Review Pending Changes]**. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 Om alla principvärden i de organisationer som du har valt redan matchar värdena i mallen visas ett meddelande om att inga ändringar har gjorts. Dessutom är **[!UICONTROL Review Pending Changes]** inte aktiverat om det inte finns några andra väntande redigeringar.
 
@@ -89,7 +89,7 @@ Om alla principvärden i de organisationer som du har valt redan matchar värden
    ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Uppdatera principmallen och välj **[!UICONTROL Update Now]**.
-1. Om du vill implementera väntande ändringar i organisationer där principmallen används väljer du **[!UICONTROL Review Pending Changes]**. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+1. Om du vill implementera väntande ändringar i organisationer där principmallen används väljer du **[!UICONTROL Review Pending Changes]**. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 ## Ta bort en mall
 

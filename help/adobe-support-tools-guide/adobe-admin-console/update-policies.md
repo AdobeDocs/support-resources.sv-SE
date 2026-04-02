@@ -27,7 +27,7 @@ Läs om hur en global administratör kan ange och ändra policyer för en organi
 
 >[!NOTE]
 >
->I [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation i hierarkin och navigerar till fliken **Profiler** för att tillåta eller neka, eller låser profiler.
+>I [Global Admin Console](https://helpx.adobe.com/se/enterprise/global-admin-console/adopt-global-administration.html) väljer du en organisation i hierarkin och navigerar till fliken **Profiler** för att tillåta eller neka, eller låser profiler.
 >
 > [Logga in på Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ Om principen **Anspråksdomäner** till exempel är inställd på *inte tillåte
 
 Så här ändrar du en organisations profiler:
 
-1. I Global Admin Console [väljer du en organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) att redigera och går sedan till fliken **[!UICONTROL Policies]**.
-1. Välj en växlingsknapp för den aktuella profilen för att tillåta eller neka den. Du kan också låsa en princip så att ingen annan än en global administratör för den [valda organisationen](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) eller dess överordnade organisation kan ändra eller låsa upp den.
+1. I Global Admin Console [väljer du en organisation](https://helpx.adobe.com/se/enterprise/global-admin-console/overview.html) att redigera och går sedan till fliken **[!UICONTROL Policies]**.
+1. Välj en växlingsknapp för den aktuella profilen för att tillåta eller neka den. Du kan också låsa en princip så att ingen annan än en global administratör för den [valda organisationen](https://helpx.adobe.com/se/enterprise/global-admin-console/overview.html) eller dess överordnade organisation kan ändra eller låsa upp den.
 1. Om du vill låsa en profil väljer du ikonen **[!UICONTROL Lock]** ![Lås](./assets/lock.png) . När du placerar låset visas namnet på den valda organisationen. Läs mer om [principlås](#policy-locks).
-1. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) dem.
+1. Välj **[!UICONTROL Review Pending Changes]** när du är klar med redigeringen av organisationerna. Efter granskning väljer du **[!UICONTROL Submit Changes]** för att [köra](https://helpx.adobe.com/se/enterprise/global-admin-console/execute-jobs.html) dem.
 
 ## Principlås {#policy-locks}
 
-När en princip är låst kan dess värde inte ändras förrän principen är olåst. Global Admin Console kommer ihåg att den [valda organisationen](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) i organisationsväljaren är den organisation som principen är låst från. Alla globala administratörer för den valda organisationen eller en organisation som är högre i trädet har behörighet att låsa upp principen. Globala administratörer vars omfång är lägre än den organisationen saknar behörighet att låsa upp och ändra principvärden.
+När en princip är låst kan dess värde inte ändras förrän principen är olåst. Global Admin Console kommer ihåg att den [valda organisationen](https://helpx.adobe.com/se/enterprise/global-admin-console/overview.html) i organisationsväljaren är den organisation som principen är låst från. Alla globala administratörer för den valda organisationen eller en organisation som är högre i trädet har behörighet att låsa upp principen. Globala administratörer vars omfång är lägre än den organisationen saknar behörighet att låsa upp och ändra principvärden.
 
 Om du vill skapa en låst miljö anger du önskade principvärden för dina underordnade organisationer och låser dem sedan. Globala administratörer för dessa underordnade organisationer kan inte redigera principvärdena.
 
