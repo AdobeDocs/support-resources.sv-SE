@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
+source-git-commit: 782bc1d8c2c594978dee3e0c8fada48d0f910242
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 0%
    - [Hantera policymallar i Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Exportera eller importera organisationsstruktur och produktallokeringar](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Använd förfallodatum för lösenord i Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Begränsa produktåtkomst via IP-adresser](adobe-admin-console/adobe-ip-based-access.md)
    - [Hämta granskningsloggar och exportrapporter](adobe-admin-console/download-audit-logs-and-export-reports.md)
    - [Migrera befintliga användare till Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront Support {#workfront}
