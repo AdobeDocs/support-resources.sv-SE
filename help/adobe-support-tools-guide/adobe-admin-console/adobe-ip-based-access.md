@@ -27,7 +27,7 @@ IP-baserad åtkomstkontroll använder en IP-adress tillåtelselista för att beg
 Du kan lägga till betrodda offentliga IP-adresser i listan **Tillåtna IP-adresser** om du vill hindra användare från att:
 
 - Åtkomst till produkter från offentliga IP-adresser som ligger utanför de tillåtna IP-intervallen
-- Logga in på Adobe [användarprofiler](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) från offentliga IP:n utanför de tillåtna IP-intervallen
+- Logga in på Adobe [användarprofiler](https://helpx.adobe.com/se/enterprise/using/manage-adobe-profiles.html) från offentliga IP:n utanför de tillåtna IP-intervallen
 - Växla användarprofiler i webbprogram utanför de tillåtna IP-intervallen
 
   ![Exportera organisationsstruktur](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ Du kan redigera eller ta bort alla angivna IP-adresser genom att markera rediger
 >[!NOTE]
 >
 >- När IP-baserad åtkomst är aktiverad, **sker ingen tvingad utloggning**. Användare påverkas bara när de försöker välja den begränsade profilen när de loggar in eller byter profil på webben.
->- Om du använder en skyddad webbgateway måste du se till att all trafik dirigeras genom den. Visa [listan över domäner som ska tillåtas](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) för att Adobe program och tjänster ska fungera korrekt.
->- Om du har låst dig utanför Admin Console eftersom du angav en ogiltig IP-adress kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+>- Om du använder en skyddad webbgateway måste du se till att all trafik dirigeras genom den. Visa [listan över domäner som ska tillåtas](https://helpx.adobe.com/se/enterprise/kb/network-endpoints.html) för att Adobe program och tjänster ska fungera korrekt.
+>- Om du har låst dig utanför Admin Console eftersom du angav en ogiltig IP-adress kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/se/enterprise/using/support-for-enterprise.html).
 
 ## Delta i konversationen
 
-Om du vill samarbeta, ställa frågor och chatta med andra administratörer går du till vår [Enterprise and Teams Community](https://www.adobe.com/go/entcom).
+Om du vill samarbeta, ställa frågor och chatta med andra administratörer går du till vår [Enterprise and Teams Community](https://www.adobe.com/go/entcom_se).
