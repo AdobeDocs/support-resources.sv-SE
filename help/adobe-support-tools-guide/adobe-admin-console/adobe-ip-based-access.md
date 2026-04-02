@@ -36,7 +36,7 @@ Du kan lägga till betrodda offentliga IP-adresser i listan **Tillåtna IP-adres
 
 ### Viktiga överväganden
 
->[!IViktiga överväganden]
+>[ !IViktiga överväganden]
 >
 >- Administratörer måste börja med att lägga till sin egen offentliga IP-adress och bara sedan lägga till andra IP-intervall. Annars kan du råka ut för ett fel.
 >- IP-baserad åtkomst gäller inte för privata IP-adresser.
@@ -45,7 +45,7 @@ Du kan lägga till upp till 150 olika publika IP-intervall endast i CIDR-format.
 
 Så här aktiverar du IP-baserad åtkomst i din Adobe Admin Console:
 
-1. Gå till avsnittet **[!UICONTROL Adobe Admin Console Settings](https://adminconsole.adobe.com/settings/identity)**.
+1. Gå till avsnittet **[[!UICONTROL Adobe Admin Console Settings]](https://adminconsole.adobe.com/settings/identity)**.
 2. Markera och expandera **[!UICONTROL Privacy and security]** på markeringsmenyn och välj sedan **[!UICONTROL Authentication settings]**.
 3. Markera knappen **[!UICONTROL IP-based access]** i avsnittet **[!UICONTROL Add IP address]**.
 4. I fönstret **[!UICONTROL Add IP address]**:
